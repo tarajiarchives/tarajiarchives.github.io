@@ -1,0 +1,64 @@
+edition;annee_debut;annee_fin;epoque;epoque_code;nb_clubs;nb_matchs;nb_buts;vainqueur;finaliste;statut;source
+1964-65;1964;1965;Coupe des clubs champions (1964-1996);ccc;13;15;67;oryx-douala;stade-malien;terminée;RSSSF
+1966;1966;1966;Coupe des clubs champions (1964-1996);ccc;12;22;92;stade-d-abidjan;as-real-bamako;terminée;RSSSF
+1967;1967;1967;Coupe des clubs champions (1964-1996);ccc;18;23;72;tp-mazembe;asante-kotoko;terminée;RSSSF
+1968;1968;1968;Coupe des clubs champions (1964-1996);ccc;20;30;100;tp-mazembe;etoile-filante-togo;terminée;RSSSF
+1969;1969;1969;Coupe des clubs champions (1964-1996);ccc;20;35;137;ismaily;tp-mazembe;terminée;RSSSF
+1970;1970;1970;Coupe des clubs champions (1964-1996);ccc;23;42;145;asante-kotoko;tp-mazembe;terminée;RSSSF
+1971;1971;1971;Coupe des clubs champions (1964-1996);ccc;25;44;120;canon-yaounde;asante-kotoko;terminée;RSSSF
+1972;1972;1972;Coupe des clubs champions (1964-1996);ccc;26;45;154;hafia-fc;simba-fc;terminée;RSSSF
+1973;1973;1973;Coupe des clubs champions (1964-1996);ccc;24;44;142;as-vita-club;asante-kotoko;terminée;RSSSF
+1974;1974;1974;Coupe des clubs champions (1964-1996);ccc;26;44;133;cara-brazzaville;mehalla-al-kubra;terminée;RSSSF
+1975;1975;1975;Coupe des clubs champions (1964-1996);ccc;28;47;124;hafia-fc;enugu-rangers;terminée;RSSSF
+1976;1976;1976;Coupe des clubs champions (1964-1996);ccc;25;42;128;mc-alger;hafia-fc;terminée;RSSSF
+1977;1977;1977;Coupe des clubs champions (1964-1996);ccc;29;52;156;hafia-fc;hearts-of-oak;terminée;RSSSF
+1978;1978;1978;Coupe des clubs champions (1964-1996);ccc;24;41;107;canon-yaounde;hafia-fc;terminée;RSSSF
+1979;1979;1979;Coupe des clubs champions (1964-1996);ccc;28;44;99;union-douala;hearts-of-oak;terminée;RSSSF
+1980;1980;1980;Coupe des clubs champions (1964-1996);ccc;31;56;155;canon-yaounde;as-bilima;terminée;RSSSF
+1981;1981;1981;Coupe des clubs champions (1964-1996);ccc;31;52;141;js-kabylie;as-vita-club;terminée;RSSSF
+1982;1982;1982;Coupe des clubs champions (1964-1996);ccc;36;68;169;al-ahly;asante-kotoko;terminée;RSSSF
+1983;1983;1983;Coupe des clubs champions (1964-1996);ccc;36;68;164;asante-kotoko;al-ahly;terminée;RSSSF
+1984;1984;1984;Coupe des clubs champions (1964-1996);ccc;39;64;174;zamalek;shooting-stars;terminée;RSSSF
+1985;1985;1985;Coupe des clubs champions (1964-1996);ccc;37;67;177;as-far;as-bilima;terminée;RSSSF
+1986;1986;1986;Coupe des clubs champions (1964-1996);ccc;38;67;169;zamalek;africa-sports;terminée;RSSSF
+1987;1987;1987;Coupe des clubs champions (1964-1996);ccc;39;65;146;al-ahly;al-hilal-omdurman;terminée;RSSSF
+1988;1988;1988;Coupe des clubs champions (1964-1996);ccc;37;70;184;es-setif;heartland;terminée;RSSSF
+1989;1989;1989;Coupe des clubs champions (1964-1996);ccc;38;69;156;raja-casablanca;mc-oran;terminée;RSSSF
+1990;1990;1990;Coupe des clubs champions (1964-1996);ccc;42;80;202;js-kabylie;nkana-fc;terminée;RSSSF
+1991;1991;1991;Coupe des clubs champions (1964-1996);ccc;38;69;179;club-africain;sc-villa;terminée;RSSSF
+1992;1992;1992;Coupe des clubs champions (1964-1996);ccc;42;79;193;wydad-ac;al-hilal-omdurman;terminée;RSSSF
+1993;1993;1993;Coupe des clubs champions (1964-1996);ccc;44;73;174;zamalek;asante-kotoko;terminée;RSSSF
+1994;1994;1994;Coupe des clubs champions (1964-1996);ccc;38;64;184;esperance-tunis;zamalek;terminée;RSSSF
+1995;1995;1995;Coupe des clubs champions (1964-1996);ccc;33;61;151;orlando-pirates;asec-mimosas;terminée;RSSSF
+1996;1996;1996;Coupe des clubs champions (1964-1996);ccc;42;71;159;zamalek;shooting-stars;terminée;RSSSF
+1997;1997;1997;Ligue des champions : 8 clubs en poules (1997-2016);ldc8;40;86;230;raja-casablanca;ashantigold;terminée;RSSSF
+1998;1998;1998;Ligue des champions : 8 clubs en poules (1997-2016);ldc8;41;87;251;asec-mimosas;dynamos-harare;terminée;RSSSF
+1999;1999;1999;Ligue des champions : 8 clubs en poules (1997-2016);ldc8;41;87;231;raja-casablanca;esperance-tunis;terminée;RSSSF
+2000;2000;2000;Ligue des champions : 8 clubs en poules (1997-2016);ldc8;45;97;281;hearts-of-oak;esperance-tunis;terminée;RSSSF
+2001;2001;2001;Ligue des champions : 8 clubs en poules (1997-2016);ldc8;39;91;218;al-ahly;mamelodi-sundowns;terminée;RSSSF
+2002;2002;2002;Ligue des champions : 8 clubs en poules (1997-2016);ldc8;39;91;249;zamalek;raja-casablanca;terminée;RSSSF
+2003;2003;2003;Ligue des champions : 8 clubs en poules (1997-2016);ldc8;41;96;227;enyimba;ismaily;terminée;RSSSF
+2004;2004;2004;Ligue des champions : 8 clubs en poules (1997-2016);ldc8;53;113;290;enyimba;etoile-sahel;terminée;RSSSF
+2005;2005;2005;Ligue des champions : 8 clubs en poules (1997-2016);ldc8;52;116;265;al-ahly;etoile-sahel;terminée;RSSSF
+2006;2006;2006;Ligue des champions : 8 clubs en poules (1997-2016);ldc8;61;129;296;al-ahly;cs-sfaxien;terminée;RSSSF
+2007;2007;2007;Ligue des champions : 8 clubs en poules (1997-2016);ldc8;60;126;279;etoile-sahel;al-ahly;terminée;RSSSF
+2008;2008;2008;Ligue des champions : 8 clubs en poules (1997-2016);ldc8;58;122;293;al-ahly;cotonsport-garoua;terminée;RSSSF
+2009;2009;2009;Ligue des champions : 8 clubs en poules (1997-2016);ldc8;55;117;307;tp-mazembe;heartland;terminée;RSSSF
+2010;2010;2010;Ligue des champions : 8 clubs en poules (1997-2016);ldc8;57;124;314;tp-mazembe;esperance-tunis;terminée;RSSSF
+2011;2011;2011;Ligue des champions : 8 clubs en poules (1997-2016);ldc8;55;119;283;esperance-tunis;wydad-ac;terminée;RSSSF
+2012;2012;2012;Ligue des champions : 8 clubs en poules (1997-2016);ldc8;51;109;279;al-ahly;esperance-tunis;terminée;RSSSF
+2013;2013;2013;Ligue des champions : 8 clubs en poules (1997-2016);ldc8;56;124;288;al-ahly;orlando-pirates;terminée;RSSSF
+2014;2014;2014;Ligue des champions : 8 clubs en poules (1997-2016);ldc8;58;126;309;es-setif;as-vita-club;terminée;RSSSF
+2015;2015;2015;Ligue des champions : 8 clubs en poules (1997-2016);ldc8;57;126;267;tp-mazembe;usm-alger;terminée;RSSSF
+2016;2016;2016;Ligue des champions : 8 clubs en poules (1997-2016);ldc8;55;113;259;mamelodi-sundowns;zamalek;terminée;RSSSF
+2017;2017;2017;Ligue des champions : 16 clubs en poules (depuis 2017);ldc16;55;138;318;wydad-ac;al-ahly;terminée;RSSSF
+2018;2018;2018;Ligue des champions : 16 clubs en poules (depuis 2017);ldc16;60;146;351;esperance-tunis;al-ahly;terminée;RSSSF
+2018-19;2018;2019;Ligue des champions : 16 clubs en poules (depuis 2017);ldc16;57;142;334;esperance-tunis;wydad-ac;terminée;RSSSF
+2019-20;2019;2020;Ligue des champions : 16 clubs en poules (depuis 2017);ldc16;61;151;367;al-ahly;zamalek;terminée;RSSSF
+2020-21;2020;2021;Ligue des champions : 16 clubs en poules (depuis 2017);ldc16;54;128;267;al-ahly;kaizer-chiefs;terminée;RSSSF
+2021-22;2021;2022;Ligue des champions : 16 clubs en poules (depuis 2017);ldc16;54;136;296;wydad-ac;al-ahly;terminée;RSSSF
+2022-23;2022;2023;Ligue des champions : 16 clubs en poules (depuis 2017);ldc16;58;143;322;al-ahly;wydad-ac;terminée;RSSSF
+2023-24;2023;2024;Ligue des champions : 16 clubs en poules (depuis 2017);ldc16;54;134;258;al-ahly;esperance-tunis;terminée;Wikipédia
+2024-25;2024;2025;Ligue des champions : 16 clubs en poules (depuis 2017);ldc16;59;147;327;pyramids;mamelodi-sundowns;terminée;Wikipédia
+2025-26;2025;2026;Ligue des champions : 16 clubs en poules (depuis 2017);ldc16;62;154;303;mamelodi-sundowns;as-far;terminée;Wikipédia
+2026-27;2026;2027;Ligue des champions : 16 clubs en poules (depuis 2017);ldc16;61;90;194;;;en cours;Wikipédia

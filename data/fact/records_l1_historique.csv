@@ -1,0 +1,153 @@
+record_id;libelle;saison;type;valeur;unite;detenteurs;detail;ancienne_valeur;anciens_detenteurs
+titres;Le plus de titres de champion;1955-56;établi;1;titres;cs-hammam-lif;;;
+titres_consecutifs;Le plus de titres consécutifs;1955-56;établi;1;titres;cs-hammam-lif;1955-56;;
+deuxiemes;Le plus de places de 2e;1955-56;établi;1;saisons;etoile-sahel;;;
+podiums;Le plus de podiums;1955-56;établi;1;podiums;club-africain | cs-hammam-lif | etoile-sahel; /  / ;;
+podiums_consecutifs;Le plus de podiums consécutifs;1955-56;établi;1;saisons;club-africain | cs-hammam-lif | etoile-sahel;1955-56 / 1955-56 / 1955-56;;
+saisons;Le plus de saisons en Ligue 1;1955-56;établi;1;saisons;ca-bizertin | club-africain | cs-hammam-lif | cs-sfaxien | esperance-tunis | etoile-sahel | olympique-tunis | patriote-sousse | pfc-bizerte | sfax-railways | stade-tunisien | usm-menzel-bourguiba; /  /  /  /  /  /  /  /  /  /  / ;;
+saisons_consecutives;Le plus de saisons consécutives en Ligue 1;1955-56;établi;1;saisons;ca-bizertin | club-africain | cs-hammam-lif | cs-sfaxien | esperance-tunis | etoile-sahel | olympique-tunis | patriote-sousse | pfc-bizerte | sfax-railways | stade-tunisien | usm-menzel-bourguiba;1955-56 / 1955-56 / 1955-56 / 1955-56 / 1955-56 / 1955-56 / 1955-56 / 1955-56 / 1955-56 / 1955-56 / 1955-56 / 1955-56;;
+matchs;Le plus de matchs joués;1955-56;établi;22;matchs;ca-bizertin | club-africain | cs-hammam-lif | cs-sfaxien | esperance-tunis | etoile-sahel | olympique-tunis | patriote-sousse | pfc-bizerte | sfax-railways | stade-tunisien | usm-menzel-bourguiba; /  /  /  /  /  /  /  /  /  /  / ;;
+victoires;Le plus de victoires;1955-56;établi;15;victoires;cs-hammam-lif | etoile-sahel; / ;;
+points;Le plus de points (victoire à 3 points);1955-56;établi;51;points;cs-hammam-lif;;;
+buts;Le plus de buts marqués;1955-56;établi;56;buts;cs-hammam-lif;;;
+pct_points;Le meilleur pourcentage de points pris sur une saison;1955-56;établi;77.3;% des points;cs-hammam-lif;1955-56;;
+pct_victoires;Le meilleur pourcentage de victoires sur une saison;1955-56;établi;68.2;% de victoires;cs-hammam-lif | etoile-sahel;1955-56 / 1955-56;;
+victoires_saison;Le plus de victoires sur une saison;1955-56;établi;15;victoires;cs-hammam-lif | etoile-sahel;1955-56 / 1955-56;;
+attaque;La meilleure attaque (buts marqués par match);1955-56;établi;2.55;buts par match;cs-hammam-lif;1955-56;;
+buts_saison;Le plus de buts marqués sur une saison;1955-56;établi;56;buts;cs-hammam-lif;1955-56;;
+defense;La meilleure défense (buts encaissés par match);1955-56;établi;0.68;buts par match;cs-hammam-lif;1955-56;;
+diff_saison;La meilleure différence de buts sur une saison;1955-56;établi;41;buts;cs-hammam-lif;1955-56;;
+ecart_titre;Le titre gagné avec la plus large avance sur le 2e (victoire à 3 points);1955-56;établi;3;points;cs-hammam-lif;1955-56;;
+titres;Le plus de titres de champion;1956-57;égalé;1;titres;stade-tunisien;;1;cs-hammam-lif
+titres_consecutifs;Le plus de titres consécutifs;1956-57;égalé;1;titres;stade-tunisien;1956-57;1;cs-hammam-lif
+deuxiemes;Le plus de places de 2e;1956-57;égalé;1;saisons;esperance-tunis;;1;etoile-sahel
+podiums;Le plus de podiums;1956-57;battu;2;podiums;etoile-sahel;;1;club-africain | cs-hammam-lif | etoile-sahel
+podiums_consecutifs;Le plus de podiums consécutifs;1956-57;battu;2;saisons;etoile-sahel;1955-56 à 1956-57;1;club-africain | cs-hammam-lif | etoile-sahel
+saisons;Le plus de saisons en Ligue 1;1956-57;battu;2;saisons;ca-bizertin | club-africain | cs-hammam-lif | cs-sfaxien | esperance-tunis | etoile-sahel | olympique-tunis | pfc-bizerte | sfax-railways | stade-tunisien | usm-menzel-bourguiba; /  /  /  /  /  /  /  /  /  / ;1;ca-bizertin | club-africain | cs-hammam-lif | cs-sfaxien | esperance-tunis | etoile-sahel | olympique-tunis | patriote-sousse | pfc-bizerte | sfax-railways | stade-tunisien | usm-menzel-bourguiba
+saisons_consecutives;Le plus de saisons consécutives en Ligue 1;1956-57;battu;2;saisons;ca-bizertin | club-africain | cs-hammam-lif | cs-sfaxien | esperance-tunis | etoile-sahel | olympique-tunis | pfc-bizerte | sfax-railways | stade-tunisien | usm-menzel-bourguiba;1955-56 à 1956-57 / 1955-56 à 1956-57 / 1955-56 à 1956-57 / 1955-56 à 1956-57 / 1955-56 à 1956-57 / 1955-56 à 1956-57 / 1955-56 à 1956-57 / 1955-56 à 1956-57 / 1955-56 à 1956-57 / 1955-56 à 1956-57 / 1955-56 à 1956-57;1;ca-bizertin | club-africain | cs-hammam-lif | cs-sfaxien | esperance-tunis | etoile-sahel | olympique-tunis | patriote-sousse | pfc-bizerte | sfax-railways | stade-tunisien | usm-menzel-bourguiba
+matchs;Le plus de matchs joués;1956-57;battu;44;matchs;ca-bizertin | club-africain | cs-hammam-lif | cs-sfaxien | esperance-tunis | etoile-sahel | olympique-tunis | pfc-bizerte | sfax-railways | stade-tunisien | usm-menzel-bourguiba; /  /  /  /  /  /  /  /  /  / ;22;ca-bizertin | club-africain | cs-hammam-lif | cs-sfaxien | esperance-tunis | etoile-sahel | olympique-tunis | patriote-sousse | pfc-bizerte | sfax-railways | stade-tunisien | usm-menzel-bourguiba
+victoires;Le plus de victoires;1956-57;battu;29;victoires;etoile-sahel;;15;cs-hammam-lif | etoile-sahel
+points;Le plus de points (victoire à 3 points);1956-57;battu;91;points;etoile-sahel;;51;cs-hammam-lif
+buts;Le plus de buts marqués;1956-57;battu;98;buts;etoile-sahel;;56;cs-hammam-lif
+pct_points;Le meilleur pourcentage de points pris sur une saison;1956-57;battu;78.8;% des points;stade-tunisien;1956-57;77.3;cs-hammam-lif
+pct_victoires;Le meilleur pourcentage de victoires sur une saison;1956-57;battu;72.7;% de victoires;stade-tunisien;1956-57;68.2;cs-hammam-lif | etoile-sahel
+victoires_saison;Le plus de victoires sur une saison;1956-57;battu;16;victoires;stade-tunisien;1956-57;15;cs-hammam-lif | etoile-sahel
+ecart_titre;Le titre gagné avec la plus large avance sur le 2e (victoire à 3 points);1956-57;battu;6;points;stade-tunisien;1956-57;3;cs-hammam-lif
+titres;Le plus de titres de champion;1957-58;égalé;1;titres;etoile-sahel;;1;cs-hammam-lif | stade-tunisien
+titres_consecutifs;Le plus de titres consécutifs;1957-58;égalé;1;titres;etoile-sahel;1957-58;1;cs-hammam-lif | stade-tunisien
+deuxiemes;Le plus de places de 2e;1957-58;battu;2;saisons;esperance-tunis;;1;esperance-tunis | etoile-sahel
+victoires_saison;Le plus de victoires sur une saison;1957-58;battu;17;victoires;etoile-sahel;1957-58;16;stade-tunisien
+buts_saison;Le plus de buts marqués sur une saison;1957-58;battu;66;buts;etoile-sahel;1957-58;56;cs-hammam-lif
+titres;Le plus de titres de champion;1958-59;égalé;1;titres;esperance-tunis;;1;cs-hammam-lif | etoile-sahel | stade-tunisien
+titres_consecutifs;Le plus de titres consécutifs;1958-59;égalé;1;titres;esperance-tunis;1958-59;1;cs-hammam-lif | etoile-sahel | stade-tunisien
+deuxiemes;Le plus de places de 2e;1958-59;égalé;2;saisons;etoile-sahel;;2;esperance-tunis
+saisons;Le plus de saisons en Ligue 1;1958-59;battu;4;saisons;ca-bizertin | club-africain | cs-hammam-lif | cs-sfaxien | esperance-tunis | etoile-sahel | sfax-railways | stade-tunisien; /  /  /  /  /  /  / ;3;ca-bizertin | club-africain | cs-hammam-lif | cs-sfaxien | esperance-tunis | etoile-sahel | olympique-tunis | pfc-bizerte | sfax-railways | stade-tunisien | usm-menzel-bourguiba
+saisons_consecutives;Le plus de saisons consécutives en Ligue 1;1958-59;battu;4;saisons;ca-bizertin | club-africain | cs-hammam-lif | cs-sfaxien | esperance-tunis | etoile-sahel | sfax-railways | stade-tunisien;1955-56 à 1958-59 / 1955-56 à 1958-59 / 1955-56 à 1958-59 / 1955-56 à 1958-59 / 1955-56 à 1958-59 / 1955-56 à 1958-59 / 1955-56 à 1958-59 / 1955-56 à 1958-59;3;ca-bizertin | club-africain | cs-hammam-lif | cs-sfaxien | esperance-tunis | etoile-sahel | olympique-tunis | pfc-bizerte | sfax-railways | stade-tunisien | usm-menzel-bourguiba
+matchs;Le plus de matchs joués;1958-59;battu;98;matchs;ca-bizertin | club-africain | cs-hammam-lif | cs-sfaxien | esperance-tunis | etoile-sahel | sfax-railways | stade-tunisien; /  /  /  /  /  /  / ;72;ca-bizertin | club-africain | cs-hammam-lif | cs-sfaxien | esperance-tunis | etoile-sahel | olympique-tunis | pfc-bizerte | sfax-railways | stade-tunisien | usm-menzel-bourguiba
+buts;Le plus de buts marqués;1958-59;battu;207;buts;esperance-tunis | etoile-sahel; / ;164;etoile-sahel
+victoires_saison;Le plus de victoires sur une saison;1958-59;battu;18;victoires;esperance-tunis;1958-59;17;etoile-sahel
+titres;Le plus de titres de champion;1959-60;battu;2;titres;esperance-tunis;;1;cs-hammam-lif | esperance-tunis | etoile-sahel | stade-tunisien
+titres_consecutifs;Le plus de titres consécutifs;1959-60;battu;2;titres;esperance-tunis;1958-59 à 1959-60;1;cs-hammam-lif | esperance-tunis | etoile-sahel | stade-tunisien
+podiums;Le plus de podiums;1959-60;égalé;4;podiums;esperance-tunis;;4;etoile-sahel
+podiums_consecutifs;Le plus de podiums consécutifs;1959-60;égalé;4;saisons;esperance-tunis;1956-57 à 1959-60;4;etoile-sahel
+victoires;Le plus de victoires;1959-60;battu;77;victoires;esperance-tunis;;61;etoile-sahel
+points;Le plus de points (victoire à 3 points);1959-60;battu;258;points;esperance-tunis;;203;etoile-sahel
+buts;Le plus de buts marqués;1959-60;battu;272;buts;esperance-tunis;;207;esperance-tunis | etoile-sahel
+pct_points;Le meilleur pourcentage de points pris sur une saison;1959-60;battu;83.3;% des points;esperance-tunis;1959-60;78.8;stade-tunisien
+pct_victoires;Le meilleur pourcentage de victoires sur une saison;1959-60;battu;79.2;% de victoires;esperance-tunis;1959-60;72.7;stade-tunisien
+victoires_saison;Le plus de victoires sur une saison;1959-60;battu;19;victoires;esperance-tunis;1959-60;18;esperance-tunis
+attaque;La meilleure attaque (buts marqués par match);1959-60;battu;2.71;buts par match;esperance-tunis;1959-60;2.55;cs-hammam-lif
+diff_saison;La meilleure différence de buts sur une saison;1959-60;battu;42;buts;esperance-tunis;1959-60;41;cs-hammam-lif
+ecart_titre;Le titre gagné avec la plus large avance sur le 2e (victoire à 3 points);1959-60;battu;9;points;esperance-tunis;1959-60;6;stade-tunisien
+titres;Le plus de titres de champion;1960-61;égalé;2;titres;stade-tunisien;;2;esperance-tunis
+deuxiemes;Le plus de places de 2e;1960-61;battu;3;saisons;esperance-tunis;;2;esperance-tunis | etoile-sahel
+podiums;Le plus de podiums;1960-61;battu;5;podiums;esperance-tunis;;4;esperance-tunis | etoile-sahel
+podiums_consecutifs;Le plus de podiums consécutifs;1960-61;battu;5;saisons;esperance-tunis;1956-57 à 1960-61;4;esperance-tunis | etoile-sahel
+saisons;Le plus de saisons en Ligue 1;1960-61;battu;6;saisons;ca-bizertin | club-africain | cs-hammam-lif | cs-sfaxien | esperance-tunis | stade-tunisien; /  /  /  /  / ;5;ca-bizertin | club-africain | cs-hammam-lif | cs-sfaxien | esperance-tunis | etoile-sahel | sfax-railways | stade-tunisien
+saisons_consecutives;Le plus de saisons consécutives en Ligue 1;1960-61;battu;6;saisons;ca-bizertin | club-africain | cs-hammam-lif | cs-sfaxien | esperance-tunis | stade-tunisien;1955-56 à 1960-61 / 1955-56 à 1960-61 / 1955-56 à 1960-61 / 1955-56 à 1960-61 / 1955-56 à 1960-61 / 1955-56 à 1960-61;5;ca-bizertin | club-africain | cs-hammam-lif | cs-sfaxien | esperance-tunis | etoile-sahel | sfax-railways | stade-tunisien
+matchs;Le plus de matchs joués;1960-61;battu;142;matchs;ca-bizertin | club-africain | cs-hammam-lif | cs-sfaxien | esperance-tunis | stade-tunisien; /  /  /  /  / ;122;ca-bizertin | club-africain | cs-hammam-lif | cs-sfaxien | esperance-tunis | etoile-sahel | sfax-railways | stade-tunisien
+pct_points;Le meilleur pourcentage de points pris sur une saison;1960-61;égalé;83.3;% des points;stade-tunisien;1960-61;83.3;esperance-tunis
+pct_victoires;Le meilleur pourcentage de victoires sur une saison;1960-61;battu;80.0;% de victoires;stade-tunisien;1960-61;79.2;esperance-tunis
+titres;Le plus de titres de champion;1961-62;battu;3;titres;stade-tunisien;;2;esperance-tunis | stade-tunisien
+titres_consecutifs;Le plus de titres consécutifs;1961-62;égalé;2;titres;stade-tunisien;1960-61 à 1961-62;2;esperance-tunis
+defense;La meilleure défense (buts encaissés par match);1961-62;battu;0.45;buts par match;stade-tunisien;1961-62;0.68;cs-hammam-lif
+podiums;Le plus de podiums;1962-63;égalé;6;podiums;stade-tunisien;;6;esperance-tunis
+saisons;Le plus de saisons en Ligue 1;1962-63;battu;8;saisons;club-africain | cs-hammam-lif | cs-sfaxien | esperance-tunis | stade-tunisien; /  /  /  / ;7;ca-bizertin | club-africain | cs-hammam-lif | cs-sfaxien | esperance-tunis | stade-tunisien
+saisons_consecutives;Le plus de saisons consécutives en Ligue 1;1962-63;battu;8;saisons;club-africain | cs-hammam-lif | cs-sfaxien | esperance-tunis | stade-tunisien;1955-56 à 1962-63 / 1955-56 à 1962-63 / 1955-56 à 1962-63 / 1955-56 à 1962-63 / 1955-56 à 1962-63;7;ca-bizertin | club-africain | cs-hammam-lif | cs-sfaxien | esperance-tunis | stade-tunisien
+saisons_invaincues;Le plus de saisons terminées sans la moindre défaite;1962-63;établi;1;saisons;etoile-sahel;;;
+matchs;Le plus de matchs joués;1962-63;battu;186;matchs;club-africain | cs-hammam-lif | cs-sfaxien | esperance-tunis | stade-tunisien; /  /  /  / ;164;ca-bizertin | club-africain | cs-hammam-lif | cs-sfaxien | esperance-tunis | stade-tunisien
+victoires;Le plus de victoires;1962-63;battu;113;victoires;stade-tunisien;;103;esperance-tunis
+ecart_titre;Le titre gagné avec la plus large avance sur le 2e (victoire à 3 points);1962-63;battu;11;points;etoile-sahel;1962-63;9;esperance-tunis
+podiums;Le plus de podiums;1963-64;battu;7;podiums;esperance-tunis;;6;esperance-tunis | stade-tunisien
+saisons;Le plus de saisons en Ligue 1;1963-64;battu;9;saisons;club-africain | cs-sfaxien | esperance-tunis | stade-tunisien; /  /  / ;8;club-africain | cs-hammam-lif | cs-sfaxien | esperance-tunis | stade-tunisien
+saisons_consecutives;Le plus de saisons consécutives en Ligue 1;1963-64;battu;9;saisons;club-africain | cs-sfaxien | esperance-tunis | stade-tunisien;1955-56 à 1963-64 / 1955-56 à 1963-64 / 1955-56 à 1963-64 / 1955-56 à 1963-64;8;club-africain | cs-hammam-lif | cs-sfaxien | esperance-tunis | stade-tunisien
+matchs;Le plus de matchs joués;1963-64;battu;208;matchs;club-africain | cs-sfaxien | esperance-tunis | stade-tunisien; /  /  / ;186;club-africain | cs-hammam-lif | cs-sfaxien | esperance-tunis | stade-tunisien
+defense;La meilleure défense (buts encaissés par match);1963-64;égalé;0.45;buts par match;club-africain;1963-64;0.45;stade-tunisien
+podiums;Le plus de podiums;1964-65;égalé;7;podiums;stade-tunisien;;7;esperance-tunis
+points;Le plus de points (victoire à 3 points);1964-65;battu;457;points;stade-tunisien;;413;esperance-tunis
+podiums;Le plus de podiums;1965-66;égalé;7;podiums;etoile-sahel;;7;esperance-tunis | stade-tunisien
+buts;Le plus de buts marqués;1965-66;battu;462;buts;esperance-tunis | stade-tunisien; / ;444;esperance-tunis
+ecart_titre;Le titre gagné avec la plus large avance sur le 2e (victoire à 3 points);1965-66;battu;13;points;etoile-sahel;1965-66;11;etoile-sahel
+podiums;Le plus de podiums;1966-67;battu;8;podiums;etoile-sahel | stade-tunisien; / ;7;esperance-tunis | etoile-sahel | stade-tunisien
+buts;Le plus de buts marqués;1966-67;battu;495;buts;esperance-tunis;;462;esperance-tunis | stade-tunisien
+ecart_titre;Le titre gagné avec la plus large avance sur le 2e (victoire à 3 points);1966-67;égalé;13;points;club-africain;1966-67;13;etoile-sahel
+podiums;Le plus de podiums;1967-68;battu;9;podiums;stade-tunisien;;8;etoile-sahel | stade-tunisien
+deuxiemes;Le plus de places de 2e;1969-70;égalé;4;saisons;club-africain;;4;esperance-tunis
+podiums;Le plus de podiums;1969-70;égalé;9;podiums;etoile-sahel;;9;stade-tunisien
+deuxiemes;Le plus de places de 2e;1970-71;battu;5;saisons;club-africain;;4;club-africain | esperance-tunis
+podiums;Le plus de podiums;1970-71;égalé;9;podiums;club-africain;;9;etoile-sahel | stade-tunisien
+matchs;Le plus de matchs joués;1970-71;battu;372;matchs;club-africain | cs-sfaxien | stade-tunisien; /  / ;348;club-africain | cs-sfaxien | esperance-tunis | stade-tunisien
+buts;Le plus de buts marqués;1970-71;battu;585;buts;stade-tunisien;;577;esperance-tunis
+defense;La meilleure défense (buts encaissés par match);1970-71;battu;0.33;buts par match;club-africain;1970-71;0.45;club-africain | stade-tunisien
+titres;Le plus de titres de champion;1971-72;égalé;4;titres;etoile-sahel;;4;stade-tunisien
+podiums;Le plus de podiums;1971-72;battu;10;podiums;club-africain | etoile-sahel; / ;9;club-africain | etoile-sahel | stade-tunisien
+podiums_consecutifs;Le plus de podiums consécutifs;1971-72;égalé;6;saisons;club-africain;1966-67 à 1971-72;6;esperance-tunis
+podiums_consecutifs;Le plus de podiums consécutifs;1972-73;battu;7;saisons;club-africain;1966-67 à 1972-73;6;club-africain | esperance-tunis
+buts;Le plus de buts marqués;1972-73;battu;636;buts;esperance-tunis;;605;stade-tunisien
+titres;Le plus de titres de champion;1973-74;égalé;4;titres;club-africain;;4;etoile-sahel | stade-tunisien
+titres_consecutifs;Le plus de titres consécutifs;1973-74;égalé;2;titres;club-africain;1972-73 à 1973-74;2;esperance-tunis | stade-tunisien
+points;Le plus de points (victoire à 3 points);1973-74;battu;772;points;club-africain;;720;stade-tunisien
+buts;Le plus de buts marqués;1973-74;battu;680;buts;etoile-sahel;;636;esperance-tunis
+titres;Le plus de titres de champion;1974-75;égalé;4;titres;esperance-tunis;;4;club-africain | etoile-sahel | stade-tunisien
+buts;Le plus de buts marqués;1974-75;battu;718;buts;esperance-tunis;;680;etoile-sahel
+titres;Le plus de titres de champion;1975-76;battu;5;titres;esperance-tunis;;4;club-africain | esperance-tunis | etoile-sahel | stade-tunisien
+victoires;Le plus de victoires;1975-76;battu;233;victoires;esperance-tunis | etoile-sahel; / ;222;stade-tunisien
+buts;Le plus de buts marqués;1975-76;battu;759;buts;etoile-sahel;;718;esperance-tunis
+podiums;Le plus de podiums;1976-77;battu;15;podiums;club-africain;;14;club-africain | etoile-sahel
+victoires;Le plus de victoires;1976-77;battu;245;victoires;club-africain;;233;esperance-tunis | etoile-sahel
+buts;Le plus de buts marqués;1976-77;battu;800;buts;esperance-tunis;;759;etoile-sahel
+buts;Le plus de buts marqués;1977-78;battu;841;buts;etoile-sahel;;800;esperance-tunis
+titres;Le plus de titres de champion;1978-79;égalé;5;titres;club-africain;;5;esperance-tunis
+titres;Le plus de titres de champion;1979-80;battu;6;titres;club-africain;;5;club-africain | esperance-tunis
+defense;La meilleure défense (buts encaissés par match);1979-80;battu;0.27;buts par match;club-africain;1979-80;0.33;club-africain
+buts;Le plus de buts marqués;1980-81;battu;943;buts;esperance-tunis;;906;etoile-sahel
+titres;Le plus de titres de champion;1981-82;égalé;6;titres;esperance-tunis;;6;club-africain
+titres;Le plus de titres de champion;1984-85;battu;7;titres;esperance-tunis;;6;club-africain | esperance-tunis
+titres_consecutifs;Le plus de titres consécutifs;1986-87;égalé;2;titres;etoile-sahel;1985-86 à 1986-87;2;club-africain | esperance-tunis | stade-tunisien
+ecart_titre;Le titre gagné avec la plus large avance sur le 2e (victoire à 3 points);1988-89;égalé;13;points;esperance-tunis;1988-89;13;club-africain | etoile-sahel
+ecart_titre;Le titre gagné avec la plus large avance sur le 2e (victoire à 3 points);1992-93;battu;16;points;esperance-tunis;1992-93;13;club-africain | esperance-tunis | etoile-sahel
+victoires;Le plus de victoires;1993-94;battu;476;victoires;esperance-tunis;;458;club-africain
+victoires_saison;Le plus de victoires sur une saison;1995-96;égalé;19;victoires;club-africain;1995-96;19;esperance-tunis
+diff_saison;La meilleure différence de buts sur une saison;1995-96;égalé;42;buts;club-africain;1995-96;42;esperance-tunis
+points;Le plus de points (victoire à 3 points);1996-97;battu;1896;points;esperance-tunis;;1849;club-africain
+victoires_saison;Le plus de victoires sur une saison;1996-97;battu;20;victoires;etoile-sahel;1996-97;19;club-africain | esperance-tunis
+pct_points;Le meilleur pourcentage de points pris sur une saison;1997-98;battu;88.5;% des points;esperance-tunis;1997-98;83.3;esperance-tunis | stade-tunisien
+pct_victoires;Le meilleur pourcentage de victoires sur une saison;1997-98;battu;84.6;% de victoires;esperance-tunis;1997-98;80.0;stade-tunisien
+victoires_saison;Le plus de victoires sur une saison;1997-98;battu;22;victoires;esperance-tunis;1997-98;20;etoile-sahel
+diff_saison;La meilleure différence de buts sur une saison;1997-98;battu;53;buts;esperance-tunis;1997-98;42;club-africain | esperance-tunis
+saisons_invaincues;Le plus de saisons terminées sans la moindre défaite;1998-99;égalé;1;saisons;esperance-tunis;;1;etoile-sahel
+ecart_titre;Le titre gagné avec la plus large avance sur le 2e (victoire à 3 points);1998-99;battu;19;points;esperance-tunis;1998-99;16;esperance-tunis
+titres_consecutifs;Le plus de titres consécutifs;1999-00;battu;3;titres;esperance-tunis;1997-98 à 1999-00;2;club-africain | esperance-tunis | etoile-sahel | stade-tunisien
+podiums;Le plus de podiums;1999-00;égalé;32;podiums;esperance-tunis;;32;club-africain
+saisons_invaincues;Le plus de saisons terminées sans la moindre défaite;1999-00;battu;2;saisons;esperance-tunis;;1;esperance-tunis | etoile-sahel
+pct_points;Le meilleur pourcentage de points pris sur une saison;1999-00;battu;90.9;% des points;esperance-tunis;1999-00;88.5;esperance-tunis
+pct_victoires;Le meilleur pourcentage de victoires sur une saison;1999-00;battu;86.4;% de victoires;esperance-tunis;1999-00;84.6;esperance-tunis
+podiums_consecutifs;Le plus de podiums consécutifs;2000-01;égalé;17;saisons;esperance-tunis;1984-85 à 2000-01;17;club-africain
+podiums_consecutifs;Le plus de podiums consécutifs;2001-02;battu;18;saisons;esperance-tunis;1984-85 à 2001-02;17;club-africain | esperance-tunis
+podiums;Le plus de podiums;2004-05;battu;37;podiums;club-africain;;36;club-africain | esperance-tunis
+podiums;Le plus de podiums;2010-11;égalé;42;podiums;esperance-tunis;;42;club-africain
+podiums;Le plus de podiums;2011-12;battu;43;podiums;esperance-tunis;;42;club-africain | esperance-tunis
+matchs;Le plus de matchs joués;2012-13;battu;1444;matchs;club-africain | cs-sfaxien; / ;1424;club-africain | cs-sfaxien | stade-tunisien
+victoires_saison;Le plus de victoires sur une saison;2015-16;battu;24;victoires;etoile-sahel;2015-16;22;esperance-tunis
+saisons;Le plus de saisons en Ligue 1;2016-17;battu;62;saisons;club-africain | cs-sfaxien | esperance-tunis; /  / ;61;club-africain | cs-sfaxien | esperance-tunis | stade-tunisien
+saisons_consecutives;Le plus de saisons consécutives en Ligue 1;2016-17;battu;62;saisons;club-africain | cs-sfaxien | esperance-tunis;1955-56 à 2016-17 / 1955-56 à 2016-17 / 1955-56 à 2016-17;61;club-africain | cs-sfaxien | esperance-tunis | stade-tunisien

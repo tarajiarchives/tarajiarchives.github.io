@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<title>Ligue 1 tunisienne – 71 saisons en données</title>
+<meta content="Tous les classements de la Ligue 1 tunisienne depuis 1955-56 : champions, palmarès, fiches clubs, duels et présidents. Données ouvertes et API JSON gratuite." name="description"/>
+<meta content="Ligue 1 tunisienne – 71 saisons en données" property="og:title"/>
+<meta content="Champions, palmarès, fiches clubs, duels. Données ouvertes depuis 1955-56." property="og:description"/>
+<link href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Crect width='16' height='16' rx='3' fill='%231D5FAE'/%3E%3Crect x='3' y='3' width='4' height='4' fill='%23E8A317'/%3E%3Crect x='9' y='3' width='4' height='4' fill='%23D50000'/%3E%3Crect x='3' y='9' width='4' height='4' fill='%239B1B30'/%3E%3Crect x='9' y='9' width='4' height='4' fill='%23fff'/%3E%3C/svg%3E" rel="icon"/>
+<link href="https://fonts.googleapis.com" rel="preconnect"/>
+<link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
+<link href="https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@600;800;900&amp;family=Public+Sans:ital,wght@0,400;0,600;0,700;1,400&amp;display=swap" rel="stylesheet"/>
+<link href="assets/style.css?v=202611061411" rel="stylesheet"/>
+<link href="assets/l1.css?v=202611061411" rel="stylesheet"/>
+<link href="assets/archives.css?v=3" rel="stylesheet"/>
+<link href="ar/ligue-1.html" hreflang="ar" rel="alternate"/></head>
+<body>
+<a class="skip" href="#contenu">Aller au contenu</a>
+<header class="topbar ta-bar"><a class="ta-brand" href="index.html"><img alt="" class="ta-logo" height="40" src="assets/brand/logo-96.png" width="40"/>Taraji <span>Archives</span></a><a aria-label="العربية" class="lang-sw" href="ar/ligue-1.html" hreflang="ar" lang="ar"><span class="ls-l">العربية</span><span aria-hidden="true" class="ls-s">ع</span></a><button aria-label="Chercher dans le site" class="ts-btn" type="button"><svg fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-width="2" viewbox="0 0 24 24" width="24"><circle cx="10.5" cy="10.5" r="6.5"></circle><path d="M20 20l-4.8-4.8"></path></svg></button><form action="recherche.html" class="ta-search" role="search"><input aria-label="Chercher dans le site" autocomplete="off" name="q" placeholder="Chercher un club, une saison, un nom…" type="search"/><ul class="ts-res" hidden=""></ul></form><nav aria-label="Navigation principale" class="portes"><div class="porte"><a href="histoire.html">Histoire</a><div class="drop"><a href="origines.html">Les origines</a><a href="frise.html">La frise, 1919 → aujourd'hui</a><a href="personnages.html">Les personnages</a><a href="galerie.html">La galerie</a><a href="mediatheque.html">La médiathèque</a><a href="livre.html">Le livre</a></div></div><div class="porte"><a href="verites.html">Vérités</a><div class="drop"><a href="fables.html">Les fables démontées</a><a href="articles.html">Les dossiers</a><a href="preuves.html">Les documents d'archive</a></div></div><div class="porte"><a aria-current="true" class="on" href="ligue-1.html">Ligue 1</a><div class="drop"><a href="ligue-1.html#now">En ce moment</a><a href="ligue-1.html#saison">Toutes les saisons</a><a href="ligue-1.html#l1Records">Les records</a><a href="comparer.html">Face à face entre deux clubs</a><a href="periode.html">Classement sur une période</a><a href="ligue-1.html#presidents">Les présidents</a></div></div><div class="porte"><a href="afrique.html">Afrique</a><div class="drop"><a href="ligue-des-champions.html">La Ligue des champions</a><a href="face-a-face-afrique.html">Face à face africain : clubs et pays</a><a href="parcours.html">Parcours d'un club</a><a href="ligue-des-champions.html#records">Les records africains</a><a href="matchs.html">Retrouver un match</a></div></div><div class="porte"><a href="outils.html">Outils</a><div class="drop"><a href="comparer.html">Face à face entre deux clubs</a><a href="periode.html">Classement sur une période</a><a href="matchs.html">Retrouver un match</a><a href="quiz.html">Le quiz</a><a href="recherche.html">Chercher dans le site</a></div></div></nav><nav aria-label="Sections" class="subnav">
+<a href="#now">En ce moment</a>
+<a href="#saison">Saisons</a>
+<a href="#palmares">Palmarès</a>
+<a href="#l1Records">Records</a>
+<a href="#club">Clubs</a>
+<a href="#duel">Duel</a>
+<a href="#presidents">Présidents</a>
+<a href="#donnees">Données</a>
+</nav>
+</header>
+<main id="contenu">
+<section aria-labelledby="titre" class="hero">
+<div class="hero-text">
+<h1 id="titre"><span id="nbSaisons">71</span> saisons,<br/>un seul trophée par an.</h1>
+<p class="lead">Chaque case est une saison de Ligue 1 tunisienne, peinte aux couleurs de son champion. Touchez-en une pour voir le classement final.</p>
+<p class="legend" id="wallLegend"></p>
+</div>
+<div aria-label="Champions de chaque saison" class="wall" id="wall" role="list"></div>
+</section>
+<section class="block" id="now">
+<div class="block-head">
+<h2 id="nowTitle">Saison en cours</h2>
+<p class="aside" id="nowMeta"></p>
+</div>
+<div class="now-grid">
+<div>
+<div class="table-wrap"><table class="now-table" id="nowTable"></table></div>
+<div class="now-legend"><span><i style="background:#2E8B57"></i>Ligue des champions</span><span><i style="background:#1D5FAE"></i>Coupe de la Confédération</span><span><i style="background:#C62828"></i>Relégation</span></div>
+</div>
+<div id="nowSide"></div>
+</div>
+</section>
+<section class="block" id="saison">
+<div class="block-head">
+<h2>Le classement d'une saison</h2>
+<label class="picker">Saison
+        <select id="seasonSelect"></select>
+</label>
+</div>
+<div class="season-meta" id="seasonMeta"></div>
+<div class="table-wrap"><table class="standings" id="standings"></table></div>
+</section>
+<section class="block" id="palmares">
+<div class="block-head">
+<h2>Le palmarès</h2>
+<p class="aside">Une pastille par titre. Survolez-la pour voir la saison.</p>
+</div>
+<ol class="honours" id="honours"></ol>
+</section>
+<section class="block" id="l1Records">
+<div class="block-head">
+<h2>Les records</h2>
+<p class="aside">Calculés sur toutes les saisons terminées depuis 1955-56. Les points sont recalculés à 3 points la victoire pour comparer les époques.</p>
+</div>
+<div class="club-records" id="l1ClubRecords"></div>
+<div class="medals" id="l1Medals">
+<div class="medals-head">
+<div><h3>Le tableau des médailles</h3><p id="l1MedalsIntro"></p></div>
+<div aria-label="Trier le tableau" class="seg" role="group">
+<button aria-pressed="true" data-sort="or" type="button">Comme aux JO</button>
+<button aria-pressed="false" data-sort="total" type="button">Au total de podiums</button>
+</div>
+</div>
+<div class="table-wrap"><table class="medal-table" id="l1MedalTable"></table></div>
+<button class="more" id="l1MedalMore" type="button">Voir tous les clubs</button>
+</div>
+<div class="records" id="l1RecordList"></div>
+<div class="l1-notes" id="l1Notes"></div>
+</section>
+<section class="block" id="course">
+<div class="block-head">
+<h2>La course aux titres</h2>
+<p class="aside">Titres cumulés des cinq clubs les plus titrés, saison après saison.</p>
+</div>
+<div class="chart" id="raceChart"></div>
+</section>
+<section class="block" id="club">
+<div class="block-head">
+<h2>Fiche club</h2>
+<label class="picker">Club
+        <select id="clubSelect"></select>
+</label>
+</div>
+<div aria-label="Clubs les plus présents en Ligue 1" class="crest-row" id="crestRow" role="list"></div>
+<div class="club-card" id="clubCard"></div>
+</section>
+<section class="block" id="duel">
+<div class="block-head">
+<h2>Duel</h2>
+<p class="aside">Deux clubs, toute l'histoire. Comparaison des classements de fin de saison.</p>
+</div>
+<div class="duel-pick">
+<select aria-label="Premier club" id="duelA"></select>
+<span class="vs">contre</span>
+<select aria-label="Second club" id="duelB"></select>
+</div>
+<div class="scoreboard" id="scoreboard"></div>
+<div class="duel-grid">
+<div class="butterfly" id="butterfly"></div>
+<div class="chart" id="duelChart"></div>
+</div>
+</section>
+<section class="block" id="presidents">
+<div class="block-head">
+<h2>L'effet président</h2>
+<p class="aside">L'Espérance avant, pendant et après Slim Chiboub (1989-2004).</p>
+</div>
+<div class="eras" id="eras"></div>
+<h3 class="sub">Les présidents les plus titrés</h3>
+<ol class="presidents" id="presList"></ol>
+</section>
+<section class="block data" id="donnees">
+<div class="block-head">
+<h2>Les données sont à vous</h2>
+<p class="aside">Gratuites, ouvertes, mises à jour chaque lundi.</p>
+</div>
+<div class="data-grid">
+<div>
+<h3 class="sub">API JSON</h3>
+<p>Pas de clé, pas d'inscription. Appelez directement ces adresses depuis votre code, un tableur ou un outil BI.</p>
+<ul class="endpoints" id="endpoints"></ul>
+</div>
+<div>
+<h3 class="sub">Fiabilité</h3>
+<p id="qualityText"></p>
+<ul class="issues" id="issues"></ul>
+<h3 class="sub">Sources</h3>
+<ul class="sources" id="sources"></ul>
+</div>
+</div>
+</section>
+</main>
+<footer class="foot">
+<p>Données compilées depuis <a href="https://www.rsssf.org/tablest/tunhist.html">RSSSF</a> (José Batalha, Hans Schöggl et al.) et Wikipédia. Logos : Wikimédia Commons et Wikipédia, propriété de leurs clubs respectifs.</p>
+<p><a href="#donnees" id="repoLink">Code et données</a> · Mise à jour : <span id="updated"></span></p>
+</footer>
+<div class="tip" hidden="" id="tip" role="tooltip"></div>
+<script defer="" src="assets/l1.js?v=202611061411"></script>
+<script defer="" src="assets/app.js?v=202611061411"></script>
+<nav aria-label="Raccourcis" class="tabbar"><a href="index.html"><svg aria-hidden="true" fill="none" height="22" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8" viewbox="0 0 24 24" width="22"><path d="M3 11l9-7 9 7v9a1 1 0 0 1-1 1h-5v-6H9v6H4a1 1 0 0 1-1-1z"></path></svg>Accueil</a><a href="histoire.html"><svg aria-hidden="true" fill="none" height="22" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8" viewbox="0 0 24 24" width="22"><path d="M4 4h6a3 3 0 0 1 3 3v13a2 2 0 0 0-2-2H4zM20 4h-6a3 3 0 0 0-3 3v13a2 2 0 0 1 2-2h7z"></path></svg>Histoire</a><a href="verites.html"><svg aria-hidden="true" fill="none" height="22" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8" viewbox="0 0 24 24" width="22"><path d="M12 3l7 3v6c0 4.5-3 7.5-7 9-4-1.5-7-4.5-7-9V6z"></path><path d="M8.5 12l2.5 2.5 4.5-5"></path></svg>Vérités</a><a href="stats.html"><svg aria-hidden="true" fill="none" height="22" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8" viewbox="0 0 24 24" width="22"><path d="M4 20V10M10 20V4M16 20v-7M22 20H2"></path></svg>Stats</a><button aria-controls="menuSheet" aria-expanded="false" class="tb-more" type="button"><svg aria-hidden="true" fill="none" height="22" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8" viewbox="0 0 24 24" width="22"><path d="M4 7h16M4 12h16M4 17h16"></path></svg>Menu</button></nav><button aria-label="Revenir en haut" class="to-top" hidden="" type="button">↑</button><div class="menu-sheet" hidden="" id="menuSheet"><button aria-label="Fermer le menu" class="close" type="button">×</button><section><h2><a href="histoire.html">Histoire</a></h2><a href="origines.html">Les origines</a><a href="frise.html">La frise, 1919 → aujourd'hui</a><a href="personnages.html">Les personnages</a><a href="galerie.html">La galerie</a><a href="mediatheque.html">La médiathèque</a><a href="livre.html">Le livre</a></section><section><h2><a href="verites.html">Vérités</a></h2><a href="fables.html">Les fables démontées</a><a href="articles.html">Les dossiers</a><a href="preuves.html">Les documents d'archive</a></section><section><h2><a href="ligue-1.html">Ligue 1</a></h2><a href="ligue-1.html#now">En ce moment</a><a href="ligue-1.html#saison">Toutes les saisons</a><a href="ligue-1.html#l1Records">Les records</a><a href="comparer.html">Face à face entre deux clubs</a><a href="periode.html">Classement sur une période</a><a href="ligue-1.html#presidents">Les présidents</a></section><section><h2><a href="afrique.html">Afrique</a></h2><a href="ligue-des-champions.html">La Ligue des champions</a><a href="face-a-face-afrique.html">Face à face africain : clubs et pays</a><a href="parcours.html">Parcours d'un club</a><a href="ligue-des-champions.html#records">Les records africains</a><a href="matchs.html">Retrouver un match</a></section><section><h2><a href="outils.html">Outils</a></h2><a href="comparer.html">Face à face entre deux clubs</a><a href="periode.html">Classement sur une période</a><a href="matchs.html">Retrouver un match</a><a href="quiz.html">Le quiz</a><a href="recherche.html">Chercher dans le site</a></section></div>
+<script defer="" src="assets/archives.js?v=3"></script>
+</body>
+</html>
