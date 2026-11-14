@@ -1,0 +1,29 @@
+{
+ "name": "Taraji Archives",
+ "short_name": "Taraji Archives",
+ "lang": "fr",
+ "description": "L'histoire de l'Espérance Sportive de Tunis, preuves à l'appui.",
+ "start_url": "index.html",
+ "scope": "./",
+ "display": "standalone",
+ "background_color": "#FBF3E1",
+ "theme_color": "#B5121B",
+ "icons": [
+  {
+   "src": "assets/brand/logo-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "assets/brand/logo-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  },
+  {
+   "src": "assets/brand/icon-maskable-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}

@@ -1,0 +1,530 @@
+record_id;libelle;edition;type;valeur;unite;detenteurs;detail;ancienne_valeur;anciens_detenteurs
+titres;Le plus de titres;1964-65;établi;1;titres;oryx-douala;;;
+finales;Le plus de finales disputées;1964-65;établi;1;finales;oryx-douala | stade-malien; / ;;
+participations;Le plus de participations;1964-65;établi;1;éditions;al-hilal-omdurman | as-porto-novo | asec-mimosas | cotton-factory-club | espoir-de-saint-louis | etoile-filante-togo | invincible-eleven | oryx-douala | real-republikans | sily-club-de-kindia | stade-malien | tersana | unknown-club; /  /  /  /  /  /  /  /  /  /  /  / ;;
+matchs;Le plus de matchs joués;1964-65;établi;9;matchs;stade-malien;;;
+victoires;Le plus de victoires;1964-65;établi;5;victoires;stade-malien;;;
+buts;Le plus de buts marqués;1964-65;établi;25;buts;stade-malien;;;
+demis;Le plus de demi-finales disputées;1964-65;établi;1;demi-finales;cotton-factory-club | oryx-douala | real-republikans | stade-malien; /  /  / ;;
+qualifications;Le plus de doubles confrontations remportées;1964-65;établi;4;qualifications;stade-malien;;;
+victoires_dom;Le plus de victoires à domicile;1964-65;établi;2;victoires;sily-club-de-kindia | stade-malien; / ;;
+victoires_ext;Le plus de victoires à l'extérieur;1964-65;établi;1;victoires;stade-malien;;;
+buts_ext;Le plus de buts marqués à l'extérieur;1964-65;établi;9;buts;stade-malien;;;
+clean_sheets;Le plus de matchs sans encaisser de but;1964-65;établi;2;matchs;stade-malien;;;
+victoires_ko;Le plus de victoires en quarts, demies et finales;1964-65;établi;2;victoires;oryx-douala;;;
+titres_pays;Le pays le plus titré;1964-65;établi;1;titres;Cameroun;;;
+titres_consecutifs;Le plus de titres consécutifs;1964-65;établi;1;titres;oryx-douala;;;
+participations_consecutives;Le plus de participations consécutives;1964-65;établi;1;éditions;al-hilal-omdurman | as-porto-novo | asec-mimosas | cotton-factory-club | espoir-de-saint-louis | etoile-filante-togo | invincible-eleven | oryx-douala | real-republikans | sily-club-de-kindia | stade-malien | tersana | unknown-club; /  /  /  /  /  /  /  /  /  /  /  / ;;
+ecart_match;La plus large victoire;1964-65;établi;4;buts d'écart;stade-malien;Stade Malien 4-0 Espoir de Saint-Louis (1964-65, premier tour);;
+ecart_finale;La plus large victoire en finale;1964-65;établi;1;buts d'écart;oryx-douala;Oryx Douala 2-1 Stade Malien (1964-65, finale);;
+ecart_ext;La plus large victoire à l'extérieur;1964-65;établi;2;buts d'écart;stade-malien;ASEC Mimosas 4-6 Stade Malien (1964-65, troisième tour);;
+buts_match;Le match le plus prolifique;1964-65;établi;10;buts;;ASEC Mimosas 4-6 Stade Malien (1964-65, troisième tour);;
+ecart_confrontation;Le plus large score cumulé sur un double match;1964-65;établi;4;buts d'écart;stade-malien;Stade Malien 5-1 Espoir de Saint-Louis (1964-65, premier tour);;
+buts_edition;Le plus de buts marqués par un club sur une édition;1964-65;établi;25;buts;stade-malien;1964-65;;
+victoires_edition;Le plus de victoires d'un club sur une édition;1964-65;établi;5;victoires;stade-malien;1964-65;;
+victoires_ext_edition;Le plus de victoires à l'extérieur sur une édition;1964-65;établi;1;victoires;stade-malien;1964-65;;
+serie_invaincu;La plus longue série sans défaite;1964-65;établi;5;matchs;stade-malien;de 1964-65 à 1964-65;;
+serie_victoires;La plus longue série de victoires;1964-65;établi;2;matchs;oryx-douala | stade-malien;de 1964-65 à 1964-65 / de 1964-65 à 1964-65;;
+serie_domicile;La plus longue série sans défaite à domicile;1964-65;établi;3;matchs;stade-malien;de 1964-65 à 1964-65;;
+serie_invaincu_ext;La plus longue série sans défaite à l'extérieur;1964-65;établi;1;matchs;asec-mimosas | stade-malien;de 1964-65 à 1964-65 / de 1964-65 à 1964-65;;
+serie_victoires_dom;La plus longue série de victoires à domicile;1964-65;établi;2;matchs;sily-club-de-kindia | stade-malien;de 1964-65 à 1964-65 / de 1964-65 à 1964-65;;
+serie_victoires_ext;La plus longue série de victoires à l'extérieur;1964-65;établi;1;matchs;stade-malien;de 1964-65 à 1964-65;;
+titres_invaincus;Le plus de titres remportés sans la moindre défaite;1964-65;établi;1;titres;oryx-douala;1964-65;;
+quarts_consecutifs;Le plus d'éditions consécutives en quarts de finale ou au-delà;1964-65;établi;1;éditions;cotton-factory-club | oryx-douala | real-republikans | stade-malien;1964-65 / 1964-65 / 1964-65 / 1964-65;;
+demis_consecutives;Le plus de demi-finales consécutives;1964-65;établi;1;éditions;cotton-factory-club | oryx-douala | real-republikans | stade-malien;1964-65 / 1964-65 / 1964-65 / 1964-65;;
+finales_consecutives;Le plus de finales consécutives;1964-65;établi;1;finales;oryx-douala | stade-malien;1964-65 / 1964-65;;
+matchs_ko;Le plus de matchs en quarts, demies et finales;1964-65;établi;2;matchs;oryx-douala | stade-malien; / ;;
+remontadas;Le plus de qualifications après une défaite au match aller;1964-65;établi;1;qualifications;asec-mimosas | stade-malien; / ;;
+adversaires_battus;Le plus d'adversaires différents battus;1964-65;établi;4;clubs;stade-malien;;;
+pays_battus;Le plus de pays différents battus;1964-65;établi;4;pays;stade-malien;;;
+victoires_adversaire;Le plus de victoires contre un même adversaire;1964-65;établi;2;victoires;stade-malien;Sily Club de Kindia;;
+clean_sheets_edition;Le plus de matchs sans encaisser de but sur une édition;1964-65;établi;2;matchs;stade-malien;1964-65;;
+titres;Le plus de titres;1966;égalé;1;titres;stade-d-abidjan;;1;oryx-douala
+finales;Le plus de finales disputées;1966;égalé;1;finales;as-real-bamako | stade-d-abidjan; / ;1;oryx-douala | stade-malien
+participations;Le plus de participations;1966;battu;2;éditions;al-hilal-omdurman | invincible-eleven | oryx-douala; /  / ;1;al-hilal-omdurman | as-porto-novo | asec-mimosas | cotton-factory-club | espoir-de-saint-louis | etoile-filante-togo | invincible-eleven | oryx-douala | real-republikans | sily-club-de-kindia | stade-malien | tersana | unknown-club
+victoires;Le plus de victoires;1966;battu;7;victoires;as-real-bamako;;5;stade-malien
+buts;Le plus de buts marqués;1966;égalé;25;buts;as-real-bamako;;25;stade-malien
+demis;Le plus de demi-finales disputées;1966;battu;2;demi-finales;oryx-douala;;1;cotton-factory-club | oryx-douala | real-republikans | stade-malien
+victoires_dom;Le plus de victoires à domicile;1966;battu;4;victoires;as-real-bamako;;2;sily-club-de-kindia | stade-malien
+victoires_ext;Le plus de victoires à l'extérieur;1966;battu;3;victoires;as-real-bamako;;1;stade-malien
+buts_ext;Le plus de buts marqués à l'extérieur;1966;battu;11;buts;as-real-bamako;;9;stade-malien
+clean_sheets;Le plus de matchs sans encaisser de but;1966;égalé;2;matchs;al-hilal-omdurman | asante-kotoko; / ;2;stade-malien
+victoires_ko;Le plus de victoires en quarts, demies et finales;1966;battu;5;victoires;as-real-bamako;;2;oryx-douala
+titres_pays;Le pays le plus titré;1966;égalé;1;titres;Côte d'Ivoire;;1;Cameroun
+titres_consecutifs;Le plus de titres consécutifs;1966;égalé;1;titres;stade-d-abidjan;;1;oryx-douala
+participations_consecutives;Le plus de participations consécutives;1966;battu;2;éditions;al-hilal-omdurman | invincible-eleven | oryx-douala; /  / ;1;al-hilal-omdurman | as-porto-novo | asec-mimosas | cotton-factory-club | espoir-de-saint-louis | etoile-filante-togo | invincible-eleven | oryx-douala | real-republikans | sily-club-de-kindia | stade-malien | tersana | unknown-club
+ecart_match;La plus large victoire;1966;battu;6;buts d'écart;al-hilal-omdurman | as-real-bamako;Al Hilal Omdurman 6-0 Ethio-Cement (1966, premier tour) / AS Real Bamako 6-0 Invincible Eleven (1966, premier tour);4;stade-malien
+ecart_finale;La plus large victoire en finale;1966;battu;3;buts d'écart;stade-d-abidjan;Stade d'Abidjan 4-1 AS Real Bamako (1966, finale);1;oryx-douala
+ecart_ext;La plus large victoire à l'extérieur;1966;battu;3;buts d'écart;al-hilal-omdurman | al-hilal-omdurman;Ethio-Cement 1-4 Al Hilal Omdurman (1966, premier tour) / Diables Noirs Brazz 1-4 Al Hilal Omdurman (1966, quarts de finale);2;stade-malien
+ecart_confrontation;Le plus large score cumulé sur un double match;1966;battu;9;buts d'écart;al-hilal-omdurman;Ethio-Cement 1-10 Al Hilal Omdurman (1966, premier tour);4;stade-malien
+buts_edition;Le plus de buts marqués par un club sur une édition;1966;égalé;25;buts;as-real-bamako;1966;25;stade-malien
+victoires_edition;Le plus de victoires d'un club sur une édition;1966;battu;7;victoires;as-real-bamako;1966;5;stade-malien
+victoires_ext_edition;Le plus de victoires à l'extérieur sur une édition;1966;battu;3;victoires;as-real-bamako;1966;1;stade-malien
+serie_invaincu;La plus longue série sans défaite;1966;battu;7;matchs;as-real-bamako;de 1966 à 1966;5;stade-malien
+serie_victoires;La plus longue série de victoires;1966;battu;7;matchs;as-real-bamako;de 1966 à 1966;2;oryx-douala | stade-malien
+serie_domicile;La plus longue série sans défaite à domicile;1966;battu;4;matchs;as-real-bamako | stade-d-abidjan;de 1966 à 1966 / de 1966 à 1966;3;stade-malien
+serie_invaincu_ext;La plus longue série sans défaite à l'extérieur;1966;battu;3;matchs;as-real-bamako;de 1966 à 1966;1;asec-mimosas | stade-malien
+serie_victoires_dom;La plus longue série de victoires à domicile;1966;battu;4;matchs;as-real-bamako;de 1966 à 1966;2;sily-club-de-kindia | stade-malien
+serie_victoires_ext;La plus longue série de victoires à l'extérieur;1966;battu;3;matchs;as-real-bamako;de 1966 à 1966;1;stade-malien
+quarts_consecutifs;Le plus d'éditions consécutives en quarts de finale ou au-delà;1966;battu;2;éditions;oryx-douala;1964-65 à 1966;1;cotton-factory-club | oryx-douala | real-republikans | stade-malien
+demis_consecutives;Le plus de demi-finales consécutives;1966;battu;2;éditions;oryx-douala;1964-65 à 1966;1;cotton-factory-club | oryx-douala | real-republikans | stade-malien
+finales_consecutives;Le plus de finales consécutives;1966;égalé;1;finales;as-real-bamako | stade-d-abidjan;1966 / 1966;1;oryx-douala | stade-malien
+matchs_ko;Le plus de matchs en quarts, demies et finales;1966;battu;6;matchs;as-real-bamako | stade-d-abidjan; / ;2;oryx-douala | stade-malien
+remontadas;Le plus de qualifications après une défaite au match aller;1966;battu;3;qualifications;stade-d-abidjan;;1;asec-mimosas | stade-malien
+adversaires_battus;Le plus d'adversaires différents battus;1966;égalé;4;clubs;as-real-bamako | stade-d-abidjan; / ;4;stade-malien
+pays_battus;Le plus de pays différents battus;1966;égalé;4;pays;as-real-bamako | stade-d-abidjan; / ;4;stade-malien
+victoires_adversaire;Le plus de victoires contre un même adversaire;1966;égalé;2;victoires;al-hilal-omdurman | as-real-bamako | asante-kotoko;Ethio-Cement / Invincible Eleven / Etoile Filante;2;stade-malien
+clean_sheets_edition;Le plus de matchs sans encaisser de but sur une édition;1966;égalé;2;matchs;al-hilal-omdurman | asante-kotoko;1966 / 1966;2;stade-malien
+titres;Le plus de titres;1967;égalé;1;titres;tp-mazembe;;1;oryx-douala | stade-d-abidjan
+finales;Le plus de finales disputées;1967;égalé;1;finales;asante-kotoko | tp-mazembe; / ;1;oryx-douala | stade-malien | as-real-bamako | stade-d-abidjan
+participations;Le plus de participations;1967;battu;3;éditions;al-hilal-omdurman | invincible-eleven; / ;2;al-hilal-omdurman | invincible-eleven | oryx-douala
+matchs;Le plus de matchs joués;1967;battu;12;matchs;asante-kotoko | stade-d-abidjan; / ;9;stade-malien
+victoires;Le plus de victoires;1967;égalé;7;victoires;asante-kotoko;;7;as-real-bamako
+buts;Le plus de buts marqués;1967;battu;28;buts;asante-kotoko;;25;stade-malien | as-real-bamako
+qualifications;Le plus de doubles confrontations remportées;1967;égalé;4;qualifications;asante-kotoko | stade-d-abidjan; / ;4;stade-malien
+victoires_dom;Le plus de victoires à domicile;1967;égalé;4;victoires;stade-d-abidjan;;4;as-real-bamako
+victoires_ext;Le plus de victoires à l'extérieur;1967;battu;4;victoires;asante-kotoko;;3;as-real-bamako
+buts_ext;Le plus de buts marqués à l'extérieur;1967;battu;15;buts;asante-kotoko;;11;as-real-bamako
+clean_sheets;Le plus de matchs sans encaisser de but;1967;battu;3;matchs;asante-kotoko;;2;stade-malien | al-hilal-omdurman | asante-kotoko
+titres_pays;Le pays le plus titré;1967;égalé;1;titres;RD Congo;;1;Cameroun | Côte d'Ivoire
+titres_consecutifs;Le plus de titres consécutifs;1967;égalé;1;titres;tp-mazembe;;1;oryx-douala | stade-d-abidjan
+participations_consecutives;Le plus de participations consécutives;1967;battu;3;éditions;al-hilal-omdurman | invincible-eleven; / ;2;al-hilal-omdurman | invincible-eleven | oryx-douala
+victoires_ext_edition;Le plus de victoires à l'extérieur sur une édition;1967;égalé;3;victoires;asante-kotoko;1967;3;as-real-bamako
+serie_invaincu;La plus longue série sans défaite;1967;battu;9;matchs;asante-kotoko;de 1966 à 1967;7;as-real-bamako
+serie_domicile;La plus longue série sans défaite à domicile;1967;battu;5;matchs;stade-d-abidjan;de 1966 à 1967;4;as-real-bamako | stade-d-abidjan
+serie_invaincu_ext;La plus longue série sans défaite à l'extérieur;1967;battu;6;matchs;asante-kotoko;de 1966 à 1967;3;as-real-bamako
+serie_victoires_ext;La plus longue série de victoires à l'extérieur;1967;égalé;3;matchs;asante-kotoko;de 1967 à 1967;3;as-real-bamako
+quarts_consecutifs;Le plus d'éditions consécutives en quarts de finale ou au-delà;1967;égalé;2;éditions;asante-kotoko | stade-d-abidjan;1966 à 1967 / 1966 à 1967;2;oryx-douala
+finales_consecutives;Le plus de finales consécutives;1967;égalé;1;finales;asante-kotoko | tp-mazembe;1967 / 1967;1;as-real-bamako | oryx-douala | stade-d-abidjan | stade-malien
+matchs_ko;Le plus de matchs en quarts, demies et finales;1967;battu;8;matchs;asante-kotoko | stade-d-abidjan; / ;6;as-real-bamako | stade-d-abidjan
+adversaires_battus;Le plus d'adversaires différents battus;1967;battu;5;clubs;stade-d-abidjan;;4;as-real-bamako | stade-d-abidjan | stade-malien
+pays_battus;Le plus de pays différents battus;1967;battu;5;pays;stade-d-abidjan;;4;as-real-bamako | stade-d-abidjan | stade-malien
+victoires_adversaire;Le plus de victoires contre un même adversaire;1967;égalé;2;victoires;olympic | tp-mazembe;Al Hilal Omdurman / Abeilles FC;2;al-hilal-omdurman | as-real-bamako | asante-kotoko | stade-malien
+clean_sheets_edition;Le plus de matchs sans encaisser de but sur une édition;1967;égalé;2;matchs;hafia-fc;1967;2;al-hilal-omdurman | asante-kotoko | stade-malien
+titres;Le plus de titres;1968;battu;2;titres;tp-mazembe;;1;oryx-douala | stade-d-abidjan | tp-mazembe
+finales;Le plus de finales disputées;1968;battu;2;finales;tp-mazembe;;1;oryx-douala | stade-malien | as-real-bamako | stade-d-abidjan | asante-kotoko | tp-mazembe
+participations;Le plus de participations;1968;égalé;3;éditions;oryx-douala;;3;al-hilal-omdurman | invincible-eleven
+matchs;Le plus de matchs joués;1968;battu;14;matchs;tp-mazembe;;12;asante-kotoko | stade-d-abidjan
+victoires;Le plus de victoires;1968;égalé;7;victoires;tp-mazembe;;7;as-real-bamako | asante-kotoko
+buts;Le plus de buts marqués;1968;battu;31;buts;tp-mazembe;;28;asante-kotoko
+demis;Le plus de demi-finales disputées;1968;égalé;2;demi-finales;tp-mazembe;;2;oryx-douala
+qualifications;Le plus de doubles confrontations remportées;1968;battu;6;qualifications;tp-mazembe;;4;stade-malien | asante-kotoko | stade-d-abidjan
+victoires_dom;Le plus de victoires à domicile;1968;égalé;4;victoires;etoile-filante-togo | tp-mazembe; / ;4;as-real-bamako | stade-d-abidjan
+clean_sheets;Le plus de matchs sans encaisser de but;1968;battu;4;matchs;tp-mazembe;;3;asante-kotoko
+victoires_ko;Le plus de victoires en quarts, demies et finales;1968;égalé;5;victoires;tp-mazembe;;5;as-real-bamako
+titres_pays;Le pays le plus titré;1968;battu;2;titres;RD Congo;;1;Cameroun | Côte d'Ivoire | RD Congo
+titres_consecutifs;Le plus de titres consécutifs;1968;battu;2;titres;tp-mazembe;;1;oryx-douala | stade-d-abidjan | tp-mazembe
+ecart_finale;La plus large victoire en finale;1968;battu;5;buts d'écart;tp-mazembe;TP Mazembe 5-0 Etoile Filante (1968, finale);3;stade-d-abidjan
+ecart_ext;La plus large victoire à l'extérieur;1968;égalé;3;buts d'écart;etoile-filante-togo;US Ouagadougou 1-4 Etoile Filante (1968, premier tour);3;al-hilal-omdurman | al-hilal-omdurman
+serie_domicile;La plus longue série sans défaite à domicile;1968;battu;7;matchs;tp-mazembe;de 1967 à 1968;5;stade-d-abidjan
+serie_victoires_dom;La plus longue série de victoires à domicile;1968;égalé;4;matchs;etoile-filante-togo;de 1968 à 1968;4;as-real-bamako
+quarts_consecutifs;Le plus d'éditions consécutives en quarts de finale ou au-delà;1968;égalé;2;éditions;hafia-fc | tp-mazembe;1967 à 1968 / 1967 à 1968;2;asante-kotoko | oryx-douala | stade-d-abidjan
+demis_consecutives;Le plus de demi-finales consécutives;1968;égalé;2;éditions;tp-mazembe;1967 à 1968;2;oryx-douala
+finales_consecutives;Le plus de finales consécutives;1968;battu;2;finales;tp-mazembe;1967 à 1968;1;as-real-bamako | asante-kotoko | oryx-douala | stade-d-abidjan | stade-malien | tp-mazembe
+matchs_ko;Le plus de matchs en quarts, demies et finales;1968;battu;10;matchs;tp-mazembe;;8;asante-kotoko | stade-d-abidjan
+adversaires_battus;Le plus d'adversaires différents battus;1968;égalé;5;clubs;tp-mazembe;;5;stade-d-abidjan
+pays_battus;Le plus de pays différents battus;1968;égalé;5;pays;tp-mazembe;;5;stade-d-abidjan
+victoires_adversaire;Le plus de victoires contre un même adversaire;1968;égalé;2;victoires;as-far | etoile-filante-togo | oryx-douala;Foyer France / US Ouagadougou / Etoile du Congo;2;al-hilal-omdurman | as-real-bamako | asante-kotoko | olympic | stade-malien | tp-mazembe
+clean_sheets_edition;Le plus de matchs sans encaisser de but sur une édition;1968;battu;3;matchs;as-far | etoile-filante-togo | tp-mazembe;1968 / 1968 / 1968;2;al-hilal-omdurman | asante-kotoko | hafia-fc | stade-malien
+participations;Le plus de participations;1969;égalé;3;éditions;asante-kotoko | etoile-filante-togo | hafia-fc | saint-george | secteur-6 | tp-mazembe; /  /  /  /  / ;3;al-hilal-omdurman | invincible-eleven | oryx-douala
+victoires;Le plus de victoires;1969;battu;10;victoires;tp-mazembe;;7;as-real-bamako | asante-kotoko | tp-mazembe
+demis;Le plus de demi-finales disputées;1969;battu;3;demi-finales;tp-mazembe;;2;oryx-douala | tp-mazembe
+victoires_dom;Le plus de victoires à domicile;1969;battu;7;victoires;tp-mazembe;;4;as-real-bamako | stade-d-abidjan | etoile-filante-togo | tp-mazembe
+victoires_ext;Le plus de victoires à l'extérieur;1969;égalé;4;victoires;hafia-fc;;4;asante-kotoko
+clean_sheets;Le plus de matchs sans encaisser de but;1969;battu;5;matchs;etoile-filante-togo | tp-mazembe; / ;4;tp-mazembe
+victoires_ko;Le plus de victoires en quarts, demies et finales;1969;battu;7;victoires;tp-mazembe;;5;as-real-bamako | tp-mazembe
+participations_consecutives;Le plus de participations consécutives;1969;égalé;3;éditions;hafia-fc | saint-george | secteur-6 | tp-mazembe; /  /  / ;3;al-hilal-omdurman | invincible-eleven
+ecart_ext;La plus large victoire à l'extérieur;1969;battu;5;buts d'écart;hafia-fc;USFRAN 2-7 Hafia FC (1969, premier tour);3;al-hilal-omdurman | al-hilal-omdurman | etoile-filante-togo
+serie_invaincu;La plus longue série sans défaite;1969;battu;14;matchs;asante-kotoko;de 1966 à 1969;9;asante-kotoko
+serie_domicile;La plus longue série sans défaite à domicile;1969;battu;11;matchs;tp-mazembe;de 1967 à 1969;7;tp-mazembe
+serie_invaincu_ext;La plus longue série sans défaite à l'extérieur;1969;battu;8;matchs;asante-kotoko;de 1966 à 1969;6;asante-kotoko
+serie_victoires_dom;La plus longue série de victoires à domicile;1969;battu;6;matchs;etoile-filante-togo;de 1968 à 1969;4;as-real-bamako | etoile-filante-togo
+titres_invaincus;Le plus de titres remportés sans la moindre défaite;1969;égalé;1;titres;ismaily;1969;1;oryx-douala
+quarts_consecutifs;Le plus d'éditions consécutives en quarts de finale ou au-delà;1969;battu;3;éditions;hafia-fc | tp-mazembe;1967 à 1969 / 1967 à 1969;2;asante-kotoko | hafia-fc | oryx-douala | stade-d-abidjan | tp-mazembe
+demis_consecutives;Le plus de demi-finales consécutives;1969;battu;3;éditions;tp-mazembe;1967 à 1969;2;oryx-douala | tp-mazembe
+adversaires_battus;Le plus d'adversaires différents battus;1969;battu;7;clubs;tp-mazembe;;5;stade-d-abidjan | tp-mazembe
+pays_battus;Le plus de pays différents battus;1969;battu;7;pays;tp-mazembe;;5;stade-d-abidjan | tp-mazembe
+victoires_adversaire;Le plus de victoires contre un même adversaire;1969;égalé;2;victoires;africa-sports | hafia-fc | ismaily;Olympique Sportif / FC Saint Eloi-Lupopo / Al-Tahadi;2;al-hilal-omdurman | as-far | as-real-bamako | asante-kotoko | etoile-filante-togo | olympic | oryx-douala | stade-malien | tp-mazembe
+participations;Le plus de participations;1970;battu;4;éditions;al-hilal-omdurman | asante-kotoko | secteur-6 | tp-mazembe; /  /  / ;3;al-hilal-omdurman | invincible-eleven | oryx-douala | asante-kotoko | etoile-filante-togo | hafia-fc | saint-george | secteur-6 | tp-mazembe
+victoires_ext;Le plus de victoires à l'extérieur;1970;battu;5;victoires;asante-kotoko;;4;asante-kotoko | hafia-fc
+clean_sheets;Le plus de matchs sans encaisser de but;1970;battu;7;matchs;tp-mazembe;;5;etoile-filante-togo | tp-mazembe
+participations_consecutives;Le plus de participations consécutives;1970;battu;4;éditions;secteur-6 | tp-mazembe; / ;3;al-hilal-omdurman | invincible-eleven | hafia-fc | saint-george | secteur-6 | tp-mazembe
+serie_domicile;La plus longue série sans défaite à domicile;1970;battu;14;matchs;tp-mazembe;de 1967 à 1970;11;tp-mazembe
+serie_victoires_dom;La plus longue série de victoires à domicile;1970;égalé;6;matchs;ismaily;de 1969 à 1970;6;etoile-filante-togo
+quarts_consecutifs;Le plus d'éditions consécutives en quarts de finale ou au-delà;1970;battu;4;éditions;tp-mazembe;1967 à 1970;3;hafia-fc | tp-mazembe
+pays_battus;Le plus de pays différents battus;1970;battu;8;pays;asante-kotoko;;7;tp-mazembe
+victoires_adversaire;Le plus de victoires contre un même adversaire;1970;battu;3;victoires;stade-d-abidjan;AS Real Bamako;2;africa-sports | al-hilal-omdurman | as-far | as-real-bamako | asante-kotoko | etoile-filante-togo | hafia-fc | ismaily | olympic | oryx-douala | stade-malien | tp-mazembe
+clean_sheets_edition;Le plus de matchs sans encaisser de but sur une édition;1970;égalé;3;matchs;asante-kotoko | ismaily;1970 / 1970;3;as-far | etoile-filante-togo | tp-mazembe
+participations;Le plus de participations;1971;battu;5;éditions;asante-kotoko | secteur-6; / ;4;al-hilal-omdurman | asante-kotoko | secteur-6 | tp-mazembe
+matchs;Le plus de matchs joués;1971;battu;33;matchs;asante-kotoko;;30;tp-mazembe
+victoires;Le plus de victoires;1971;battu;15;victoires;asante-kotoko;;14;tp-mazembe
+demis;Le plus de demi-finales disputées;1971;égalé;4;demi-finales;asante-kotoko;;4;tp-mazembe
+qualifications;Le plus de doubles confrontations remportées;1971;égalé;12;qualifications;asante-kotoko;;12;tp-mazembe
+tab;Le plus de séances de tirs au but gagnées;1971;établi;1;séances;al-merreikh | asante-kotoko | canon-yaounde; /  / ;;
+victoires_dom;Le plus de victoires à domicile;1971;égalé;10;victoires;asante-kotoko;;10;tp-mazembe
+clean_sheets;Le plus de matchs sans encaisser de but;1971;battu;11;matchs;asante-kotoko;;7;tp-mazembe
+titres_pays;Le pays le plus titré;1971;égalé;2;titres;Cameroun;;2;RD Congo
+participations_consecutives;Le plus de participations consécutives;1971;battu;5;éditions;secteur-6;;4;secteur-6 | tp-mazembe
+ecart_match;La plus large victoire;1971;battu;7;buts d'écart;great-olympics;Great Olympics 7-0 MMM Tamatave (1971, deuxième tour);6;al-hilal-omdurman | as-real-bamako
+buts_match;Le match le plus prolifique;1971;égalé;10;buts;;Canon Yaoundé 7-3 AS Solidarité (1971, premier tour);10;
+buts_edition;Le plus de buts marqués par un club sur une édition;1971;égalé;25;buts;canon-yaounde;1971;25;stade-malien | as-real-bamako
+victoires_edition;Le plus de victoires d'un club sur une édition;1971;égalé;7;victoires;canon-yaounde;1971;7;as-real-bamako
+serie_domicile;La plus longue série sans défaite à domicile;1971;égalé;14;matchs;asante-kotoko;de 1967 à 1971;14;tp-mazembe
+matchs_ko;Le plus de matchs en quarts, demies et finales;1971;battu;24;matchs;asante-kotoko;;22;tp-mazembe
+adversaires_battus;Le plus d'adversaires différents battus;1971;battu;11;clubs;asante-kotoko;;10;tp-mazembe
+clean_sheets_edition;Le plus de matchs sans encaisser de but sur une édition;1971;battu;5;matchs;asante-kotoko;1971;3;as-far | asante-kotoko | etoile-filante-togo | ismaily | tp-mazembe
+participations;Le plus de participations;1972;égalé;5;éditions;tp-mazembe;;5;asante-kotoko | secteur-6
+matchs;Le plus de matchs joués;1972;battu;37;matchs;tp-mazembe;;33;asante-kotoko
+victoires;Le plus de victoires;1972;battu;20;victoires;tp-mazembe;;15;asante-kotoko
+demis;Le plus de demi-finales disputées;1972;battu;5;demi-finales;tp-mazembe;;4;tp-mazembe | asante-kotoko
+qualifications;Le plus de doubles confrontations remportées;1972;battu;15;qualifications;tp-mazembe;;12;tp-mazembe | asante-kotoko
+tab;Le plus de séances de tirs au but gagnées;1972;égalé;1;séances;al-ahly-tripoli;;1;al-merreikh | asante-kotoko | canon-yaounde
+victoires_dom;Le plus de victoires à domicile;1972;battu;14;victoires;tp-mazembe;;10;tp-mazembe | asante-kotoko
+victoires_ext;Le plus de victoires à l'extérieur;1972;battu;6;victoires;tp-mazembe;;5;asante-kotoko
+buts_ext;Le plus de buts marqués à l'extérieur;1972;battu;27;buts;tp-mazembe;;26;asante-kotoko
+ecart_match;La plus large victoire;1972;battu;9;buts d'écart;kabwe-warriors;Kabwe Warriors 9-0 Majantja (1972, premier tour);7;great-olympics
+ecart_confrontation;Le plus large score cumulé sur un double match;1972;égalé;9;buts d'écart;kabwe-warriors;Majantja 2-11 Kabwe Warriors (1972, premier tour);9;al-hilal-omdurman
+serie_victoires_dom;La plus longue série de victoires à domicile;1972;égalé;6;matchs;canon-yaounde | hafia-fc;de 1971 à 1972 / de 1969 à 1972;6;etoile-filante-togo | ismaily
+matchs_ko;Le plus de matchs en quarts, demies et finales;1972;battu;25;matchs;tp-mazembe;;24;asante-kotoko
+adversaires_battus;Le plus d'adversaires différents battus;1972;battu;12;clubs;tp-mazembe;;11;asante-kotoko
+victoires_adversaire;Le plus de victoires contre un même adversaire;1972;égalé;3;victoires;tp-mazembe;Africa Sports;3;stade-d-abidjan
+finales;Le plus de finales disputées;1973;égalé;4;finales;asante-kotoko;;4;tp-mazembe
+participations;Le plus de participations;1973;battu;6;éditions;asante-kotoko;;5;asante-kotoko | secteur-6 | tp-mazembe
+matchs;Le plus de matchs joués;1973;battu;41;matchs;asante-kotoko;;37;tp-mazembe
+victoires;Le plus de victoires;1973;égalé;20;victoires;asante-kotoko;;20;tp-mazembe
+demis;Le plus de demi-finales disputées;1973;égalé;5;demi-finales;asante-kotoko;;5;tp-mazembe
+qualifications;Le plus de doubles confrontations remportées;1973;égalé;15;qualifications;asante-kotoko;;15;tp-mazembe
+tab;Le plus de séances de tirs au but gagnées;1973;égalé;1;séances;breweries | hafia-fc; / ;1;al-merreikh | asante-kotoko | canon-yaounde | al-ahly-tripoli
+victoires_dom;Le plus de victoires à domicile;1973;égalé;14;victoires;asante-kotoko;;14;tp-mazembe
+victoires_ext;Le plus de victoires à l'extérieur;1973;égalé;6;victoires;asante-kotoko | hafia-fc; / ;6;tp-mazembe
+buts_ext;Le plus de buts marqués à l'extérieur;1973;battu;30;buts;asante-kotoko | hafia-fc; / ;27;tp-mazembe
+victoires_ko;Le plus de victoires en quarts, demies et finales;1973;égalé;13;victoires;asante-kotoko;;13;tp-mazembe
+titres_pays;Le pays le plus titré;1973;battu;3;titres;RD Congo;;2;Cameroun | RD Congo
+participations_consecutives;Le plus de participations consécutives;1973;égalé;5;éditions;ismaily | young-africans; / ;5;secteur-6
+serie_domicile;La plus longue série sans défaite à domicile;1973;battu;18;matchs;asante-kotoko;de 1967 à 1973;14;tp-mazembe | asante-kotoko
+serie_victoires_dom;La plus longue série de victoires à domicile;1973;battu;8;matchs;asante-kotoko;de 1971 à 1973;6;etoile-filante-togo | ismaily | canon-yaounde | hafia-fc
+matchs_ko;Le plus de matchs en quarts, demies et finales;1973;battu;30;matchs;asante-kotoko;;25;tp-mazembe
+adversaires_battus;Le plus d'adversaires différents battus;1973;battu;14;clubs;asante-kotoko;;12;tp-mazembe
+participations;Le plus de participations;1974;égalé;6;éditions;hafia-fc;;6;asante-kotoko
+tab;Le plus de séances de tirs au but gagnées;1974;battu;2;séances;mehalla-al-kubra;;1;al-merreikh | asante-kotoko | canon-yaounde | al-ahly-tripoli | breweries | hafia-fc
+buts_edition;Le plus de buts marqués par un club sur une édition;1974;battu;26;buts;cara-brazzaville;1974;25;stade-malien | as-real-bamako | canon-yaounde
+victoires_edition;Le plus de victoires d'un club sur une édition;1974;battu;8;victoires;cara-brazzaville;1974;7;as-real-bamako | canon-yaounde
+victoires_ext_edition;Le plus de victoires à l'extérieur sur une édition;1974;égalé;3;victoires;cara-brazzaville | simba-sc;1974 / 1974;3;as-real-bamako | asante-kotoko
+serie_victoires_dom;La plus longue série de victoires à domicile;1974;égalé;8;matchs;asec-mimosas;de 1971 à 1974;8;asante-kotoko
+serie_victoires_ext;La plus longue série de victoires à l'extérieur;1974;égalé;3;matchs;simba-sc;de 1974 à 1974;3;as-real-bamako | asante-kotoko
+victoires_adversaire;Le plus de victoires contre un même adversaire;1974;égalé;3;victoires;asec-mimosas;Mighty Barolle;3;stade-d-abidjan | tp-mazembe
+clean_sheets_edition;Le plus de matchs sans encaisser de but sur une édition;1974;égalé;5;matchs;cara-brazzaville;1974;5;asante-kotoko
+titres;Le plus de titres;1975;égalé;2;titres;hafia-fc;;2;tp-mazembe
+participations;Le plus de participations;1975;battu;7;éditions;hafia-fc;;6;asante-kotoko | hafia-fc
+tab;Le plus de séances de tirs au but gagnées;1975;égalé;2;séances;hafia-fc;;2;mehalla-al-kubra
+victoires_ext;Le plus de victoires à l'extérieur;1975;battu;7;victoires;hafia-fc;;6;asante-kotoko | hafia-fc | tp-mazembe
+buts_ext;Le plus de buts marqués à l'extérieur;1975;battu;33;buts;hafia-fc;;30;asante-kotoko | hafia-fc
+serie_victoires;La plus longue série de victoires;1975;battu;8;matchs;cara-brazzaville;de 1974 à 1975;7;as-real-bamako
+serie_victoires_dom;La plus longue série de victoires à domicile;1975;battu;9;matchs;asec-mimosas | cara-brazzaville;de 1971 à 1975 / de 1973 à 1975;8;asante-kotoko | asec-mimosas
+serie_victoires_ext;La plus longue série de victoires à l'extérieur;1975;égalé;3;matchs;cara-brazzaville;de 1974 à 1975;3;as-real-bamako | asante-kotoko | simba-sc
+remontadas;Le plus de qualifications après une défaite au match aller;1975;égalé;3;qualifications;hafia-fc;;3;stade-d-abidjan
+adversaires_battus;Le plus d'adversaires différents battus;1975;battu;15;clubs;hafia-fc;;14;asante-kotoko
+victoires;Le plus de victoires;1976;battu;22;victoires;asante-kotoko | hafia-fc; / ;20;asante-kotoko | tp-mazembe
+buts;Le plus de buts marqués;1976;battu;91;buts;hafia-fc;;83;tp-mazembe
+qualifications;Le plus de doubles confrontations remportées;1976;battu;17;qualifications;asante-kotoko;;15;asante-kotoko | tp-mazembe
+victoires_dom;Le plus de victoires à domicile;1976;battu;16;victoires;asante-kotoko;;14;asante-kotoko | tp-mazembe
+victoires_ko;Le plus de victoires en quarts, demies et finales;1976;battu;14;victoires;asante-kotoko | hafia-fc; / ;13;asante-kotoko | tp-mazembe
+participations_consecutives;Le plus de participations consécutives;1976;égalé;5;éditions;hafia-fc;;5;ismaily | secteur-6 | young-africans
+serie_domicile;La plus longue série sans défaite à domicile;1976;battu;20;matchs;asante-kotoko;de 1967 à 1976;18;asante-kotoko
+serie_victoires_dom;La plus longue série de victoires à domicile;1976;battu;11;matchs;cara-brazzaville;de 1973 à 1976;9;asec-mimosas | cara-brazzaville
+remontadas;Le plus de qualifications après une défaite au match aller;1976;battu;5;qualifications;hafia-fc;;3;hafia-fc | stade-d-abidjan
+pays_battus;Le plus de pays différents battus;1976;égalé;13;pays;hafia-fc;;13;asante-kotoko
+victoires_adversaire;Le plus de victoires contre un même adversaire;1976;égalé;3;victoires;djoliba-ac;Hafia FC;3;asec-mimosas | stade-d-abidjan | tp-mazembe
+titres;Le plus de titres;1977;battu;3;titres;hafia-fc;;2;hafia-fc | tp-mazembe
+finales;Le plus de finales disputées;1977;égalé;4;finales;hafia-fc;;4;asante-kotoko | tp-mazembe
+matchs;Le plus de matchs joués;1977;battu;48;matchs;hafia-fc;;45;asante-kotoko
+victoires;Le plus de victoires;1977;battu;27;victoires;hafia-fc;;22;asante-kotoko | hafia-fc
+demis;Le plus de demi-finales disputées;1977;égalé;5;demi-finales;hafia-fc;;5;asante-kotoko | tp-mazembe
+qualifications;Le plus de doubles confrontations remportées;1977;battu;19;qualifications;hafia-fc;;17;asante-kotoko
+victoires_dom;Le plus de victoires à domicile;1977;battu;18;victoires;hafia-fc;;16;asante-kotoko
+victoires_ko;Le plus de victoires en quarts, demies et finales;1977;battu;18;victoires;hafia-fc;;14;asante-kotoko | hafia-fc
+titres_pays;Le pays le plus titré;1977;égalé;3;titres;Guinée;;3;RD Congo
+participations_consecutives;Le plus de participations consécutives;1977;battu;6;éditions;hafia-fc;;5;ismaily | secteur-6 | young-africans | hafia-fc
+matchs_ko;Le plus de matchs en quarts, demies et finales;1977;égalé;32;matchs;hafia-fc;;32;asante-kotoko
+pays_battus;Le plus de pays différents battus;1977;battu;14;pays;hafia-fc;;13;asante-kotoko | hafia-fc
+finales;Le plus de finales disputées;1978;battu;5;finales;hafia-fc;;4;asante-kotoko | tp-mazembe | hafia-fc
+demis;Le plus de demi-finales disputées;1978;battu;6;demi-finales;hafia-fc;;5;asante-kotoko | tp-mazembe | hafia-fc
+tab;Le plus de séances de tirs au but gagnées;1978;égalé;2;séances;canon-yaounde;;2;hafia-fc | mehalla-al-kubra
+clean_sheets;Le plus de matchs sans encaisser de but;1978;battu;19;matchs;hafia-fc;;15;asante-kotoko
+titres_pays;Le pays le plus titré;1978;égalé;3;titres;Cameroun;;3;RD Congo | Guinée
+serie_victoires;La plus longue série de victoires;1978;égalé;8;matchs;hafia-fc;de 1977 à 1978;8;cara-brazzaville
+serie_victoires_ext;La plus longue série de victoires à l'extérieur;1978;égalé;3;matchs;hafia-fc;de 1977 à 1978;3;as-real-bamako | asante-kotoko | simba-sc | cara-brazzaville
+quarts_consecutifs;Le plus d'éditions consécutives en quarts de finale ou au-delà;1978;égalé;4;éditions;hafia-fc;1975 à 1978;4;tp-mazembe
+demis_consecutives;Le plus de demi-finales consécutives;1978;égalé;4;éditions;hafia-fc;1975 à 1978;4;tp-mazembe
+finales_consecutives;Le plus de finales consécutives;1978;égalé;4;finales;hafia-fc;1975 à 1978;4;tp-mazembe
+matchs_ko;Le plus de matchs en quarts, demies et finales;1978;battu;38;matchs;hafia-fc;;32;asante-kotoko | hafia-fc
+clean_sheets_edition;Le plus de matchs sans encaisser de but sur une édition;1978;battu;6;matchs;canon-yaounde;1978;5;asante-kotoko | cara-brazzaville
+tab;Le plus de séances de tirs au but gagnées;1979;battu;3;séances;hafia-fc;;2;hafia-fc | mehalla-al-kubra | canon-yaounde
+titres_pays;Le pays le plus titré;1979;battu;4;titres;Cameroun;;3;RD Congo | Guinée | Cameroun
+ecart_ext;La plus large victoire à l'extérieur;1979;égalé;5;buts d'écart;simba-sc;Mufulira Wanderers 0-5 Simba SC (1979, premier tour);5;hafia-fc
+quarts_consecutifs;Le plus d'éditions consécutives en quarts de finale ou au-delà;1979;battu;5;éditions;hafia-fc;1975 à 1979;4;hafia-fc | tp-mazembe
+victoires_adversaire;Le plus de victoires contre un même adversaire;1979;égalé;3;victoires;hafia-fc;Hearts of Oak;3;asec-mimosas | djoliba-ac | stade-d-abidjan | tp-mazembe
+titres;Le plus de titres;1980;égalé;3;titres;canon-yaounde;;3;hafia-fc
+victoires_ext_edition;Le plus de victoires à l'extérieur sur une édition;1980;battu;4;victoires;canon-yaounde;1980;3;as-real-bamako | asante-kotoko | cara-brazzaville | simba-sc
+serie_victoires_dom;La plus longue série de victoires à domicile;1980;battu;12;matchs;mc-alger;de 1976 à 1980;11;cara-brazzaville
+victoires_adversaire;Le plus de victoires contre un même adversaire;1980;égalé;3;victoires;simba-sc;Linare FC;3;asec-mimosas | djoliba-ac | hafia-fc | stade-d-abidjan | tp-mazembe
+serie_domicile;La plus longue série sans défaite à domicile;1981;battu;22;matchs;asante-kotoko;de 1967 à 1981;20;asante-kotoko
+serie_victoires_dom;La plus longue série de victoires à domicile;1981;égalé;12;matchs;asante-kotoko;de 1971 à 1981;12;mc-alger
+titres_invaincus;Le plus de titres remportés sans la moindre défaite;1981;égalé;1;titres;js-kabylie;1981;1;ismaily | oryx-douala
+pays_battus;Le plus de pays différents battus;1981;égalé;15;pays;asante-kotoko;;15;hafia-fc
+victoires_adversaire;Le plus de victoires contre un même adversaire;1981;égalé;3;victoires;js-kabylie;AS Vita Club;3;asec-mimosas | djoliba-ac | hafia-fc | simba-sc | stade-d-abidjan | tp-mazembe
+finales;Le plus de finales disputées;1982;égalé;5;finales;asante-kotoko;;5;hafia-fc
+demis;Le plus de demi-finales disputées;1982;égalé;6;demi-finales;asante-kotoko;;6;hafia-fc
+serie_domicile;La plus longue série sans défaite à domicile;1982;battu;27;matchs;asante-kotoko;de 1967 à 1982;22;asante-kotoko
+serie_victoires_dom;La plus longue série de victoires à domicile;1982;battu;16;matchs;asante-kotoko;de 1971 à 1982;12;mc-alger | asante-kotoko
+pays_battus;Le plus de pays différents battus;1982;battu;17;pays;asante-kotoko;;15;asante-kotoko | hafia-fc
+finales;Le plus de finales disputées;1983;battu;6;finales;asante-kotoko;;5;hafia-fc | asante-kotoko
+matchs;Le plus de matchs joués;1983;battu;69;matchs;asante-kotoko;;64;hafia-fc
+demis;Le plus de demi-finales disputées;1983;battu;7;demi-finales;asante-kotoko;;6;hafia-fc | asante-kotoko
+qualifications;Le plus de doubles confrontations remportées;1983;battu;26;qualifications;asante-kotoko;;24;hafia-fc
+victoires_dom;Le plus de victoires à domicile;1983;battu;27;victoires;asante-kotoko;;24;hafia-fc
+clean_sheets;Le plus de matchs sans encaisser de but;1983;battu;28;matchs;asante-kotoko;;23;hafia-fc
+serie_domicile;La plus longue série sans défaite à domicile;1983;battu;32;matchs;asante-kotoko;de 1967 à 1983;27;asante-kotoko
+serie_victoires_dom;La plus longue série de victoires à domicile;1983;égalé;16;matchs;al-ahly;de 1976 à 1983;16;asante-kotoko
+matchs_ko;Le plus de matchs en quarts, demies et finales;1983;battu;44;matchs;asante-kotoko;;40;hafia-fc
+adversaires_battus;Le plus d'adversaires différents battus;1983;battu;25;clubs;asante-kotoko;;23;hafia-fc
+clean_sheets_edition;Le plus de matchs sans encaisser de but sur une édition;1983;égalé;6;matchs;al-ahly | asante-kotoko | asc-diaraf;1983 / 1983 / 1983;6;canon-yaounde
+serie_domicile;La plus longue série sans défaite à domicile;1984;battu;33;matchs;asante-kotoko;de 1967 à 1984;32;asante-kotoko
+victoires_adversaire;Le plus de victoires contre un même adversaire;1985;égalé;3;victoires;enugu-rangers | hearts-of-oak;AS Kaloum Star / US Gorée;3;asec-mimosas | djoliba-ac | hafia-fc | js-kabylie | simba-sc | stade-d-abidjan | tp-mazembe
+clean_sheets_edition;Le plus de matchs sans encaisser de but sur une édition;1985;égalé;6;matchs;as-bilima;1985;6;al-ahly | asante-kotoko | asc-diaraf | canon-yaounde
+victoires;Le plus de victoires;1987;battu;38;victoires;asante-kotoko;;37;hafia-fc
+buts;Le plus de buts marqués;1987;égalé;130;buts;asante-kotoko;;130;hafia-fc
+victoires_ko;Le plus de victoires en quarts, demies et finales;1987;égalé;22;victoires;asante-kotoko;;22;hafia-fc
+titres_pays;Le pays le plus titré;1987;égalé;5;titres;Égypte;;5;Cameroun
+serie_domicile;La plus longue série sans défaite à domicile;1987;battu;36;matchs;asante-kotoko;de 1967 à 1987;33;asante-kotoko
+serie_victoires_dom;La plus longue série de victoires à domicile;1987;égalé;16;matchs;zamalek;de 1979 à 1987;16;asante-kotoko | al-ahly
+clean_sheets_edition;Le plus de matchs sans encaisser de but sur une édition;1987;égalé;6;matchs;al-hilal-omdurman;1987;6;al-ahly | as-bilima | asante-kotoko | asc-diaraf | canon-yaounde
+buts;Le plus de buts marqués;1988;battu;132;buts;asante-kotoko;;130;hafia-fc | asante-kotoko
+serie_domicile;La plus longue série sans défaite à domicile;1988;battu;37;matchs;asante-kotoko;de 1967 à 1988;36;asante-kotoko
+victoires_adversaire;Le plus de victoires contre un même adversaire;1988;égalé;3;victoires;asante-kotoko;FC 105;3;asec-mimosas | djoliba-ac | enugu-rangers | hafia-fc | hearts-of-oak | js-kabylie | simba-sc | stade-d-abidjan | tp-mazembe
+serie_victoires_dom;La plus longue série de victoires à domicile;1989;battu;17;matchs;zamalek;de 1979 à 1989;16;asante-kotoko | al-ahly | zamalek
+participations;Le plus de participations;1990;égalé;14;éditions;asante-kotoko;;14;hafia-fc
+buts_ext;Le plus de buts marqués à l'extérieur;1990;battu;51;buts;asante-kotoko;;49;hafia-fc
+victoires_ko;Le plus de victoires en quarts, demies et finales;1990;battu;24;victoires;asante-kotoko;;22;asante-kotoko | hafia-fc
+ecart_confrontation;Le plus large score cumulé sur un double match;1990;battu;10;buts d'écart;js-kabylie;JS Kabylie 10-0 ASKO Kara (1990, premier tour);9;al-hilal-omdurman | kabwe-warriors
+victoires_edition;Le plus de victoires d'un club sur une édition;1990;battu;9;victoires;nkana-fc;1990;8;cara-brazzaville
+victoires_ext_edition;Le plus de victoires à l'extérieur sur une édition;1990;égalé;4;victoires;nkana-fc;1990;4;canon-yaounde
+serie_victoires;La plus longue série de victoires;1990;égalé;8;matchs;nkana-fc;de 1990 à 1990;8;cara-brazzaville | hafia-fc
+serie_domicile;La plus longue série sans défaite à domicile;1990;battu;41;matchs;asante-kotoko;de 1967 à 1990;37;asante-kotoko
+serie_victoires_ext;La plus longue série de victoires à l'extérieur;1990;battu;4;matchs;nkana-fc;de 1990 à 1990;3;as-real-bamako | asante-kotoko | simba-sc | cara-brazzaville | hafia-fc
+clean_sheets_edition;Le plus de matchs sans encaisser de but sur une édition;1990;égalé;6;matchs;js-kabylie | nkana-fc;1990 / 1990;6;al-ahly | al-hilal-omdurman | as-bilima | asante-kotoko | asc-diaraf | canon-yaounde
+tab;Le plus de séances de tirs au but gagnées;1991;égalé;3;séances;asec-mimosas;;3;hafia-fc
+victoires_adversaire;Le plus de victoires contre un même adversaire;1991;égalé;3;victoires;al-ahly | petro-de-luanda;SC Villa / AS Tempête Mocaf;3;asante-kotoko | asec-mimosas | djoliba-ac | enugu-rangers | hafia-fc | hearts-of-oak | js-kabylie | simba-sc | stade-d-abidjan | tp-mazembe
+participations;Le plus de participations;1992;battu;15;éditions;asante-kotoko;;14;asante-kotoko | hafia-fc
+tab;Le plus de séances de tirs au but gagnées;1992;égalé;3;séances;al-hilal-omdurman | canon-yaounde; / ;3;hafia-fc | asec-mimosas
+serie_domicile;La plus longue série sans défaite à domicile;1992;battu;43;matchs;asante-kotoko;de 1967 à 1992;41;asante-kotoko
+serie_victoires_dom;La plus longue série de victoires à domicile;1992;égalé;17;matchs;nkana-fc;de 1987 à 1992;17;zamalek
+victoires_adversaire;Le plus de victoires contre un même adversaire;1992;égalé;3;victoires;nkana-fc;Highlanders;3;al-ahly | asante-kotoko | asec-mimosas | djoliba-ac | enugu-rangers | hafia-fc | hearts-of-oak | js-kabylie | petro-de-luanda | simba-sc | stade-d-abidjan | tp-mazembe
+titres;Le plus de titres;1993;égalé;3;titres;zamalek;;3;canon-yaounde | hafia-fc
+titres_pays;Le pays le plus titré;1993;battu;6;titres;Égypte;;5;Cameroun | Égypte
+serie_victoires_dom;La plus longue série de victoires à domicile;1993;battu;21;matchs;zamalek;de 1979 à 1993;17;zamalek | nkana-fc
+quarts_consecutifs;Le plus d'éditions consécutives en quarts de finale ou au-delà;1993;égalé;5;éditions;nkana-fc;1989 à 1993;5;hafia-fc
+remontadas;Le plus de qualifications après une défaite au match aller;1993;battu;8;qualifications;asante-kotoko;;7;hafia-fc
+clean_sheets_edition;Le plus de matchs sans encaisser de but sur une édition;1993;battu;7;matchs;asante-kotoko;1993;6;al-ahly | al-hilal-omdurman | as-bilima | asante-kotoko | asc-diaraf | canon-yaounde | js-kabylie | nkana-fc
+buts_match;Le match le plus prolifique;1994;battu;11;buts;;MC Oran 7-4 AS Tempête Mocaf (1994, deuxième tour);10; | 
+titres_invaincus;Le plus de titres remportés sans la moindre défaite;1994;égalé;1;titres;esperance-tunis;1994;1;ismaily | js-kabylie | oryx-douala
+quarts_consecutifs;Le plus d'éditions consécutives en quarts de finale ou au-delà;1994;battu;6;éditions;nkana-fc;1989 à 1994;5;hafia-fc | nkana-fc
+victoires_adversaire;Le plus de victoires contre un même adversaire;1994;battu;4;victoires;esperance-tunis;Stade Malien;3;al-ahly | asante-kotoko | asec-mimosas | djoliba-ac | enugu-rangers | hafia-fc | hearts-of-oak | js-kabylie | nkana-fc | petro-de-luanda | simba-sc | stade-d-abidjan | tp-mazembe
+serie_invaincu;La plus longue série sans défaite;1995;battu;15;matchs;esperance-tunis;de 1992 à 1995;14;asante-kotoko
+serie_invaincu_ext;La plus longue série sans défaite à l'extérieur;1995;égalé;8;matchs;esperance-tunis;de 1994 à 1995;8;asante-kotoko
+titres;Le plus de titres;1996;battu;4;titres;zamalek;;3;canon-yaounde | hafia-fc | zamalek
+tab;Le plus de séances de tirs au but gagnées;1996;battu;4;séances;zamalek;;3;al-hilal-omdurman | asec-mimosas | canon-yaounde | hafia-fc
+victoires_ext;Le plus de victoires à l'extérieur;1996;égalé;12;victoires;asec-mimosas;;12;hafia-fc
+serie_victoires_ext;La plus longue série de victoires à l'extérieur;1996;égalé;4;matchs;dynamos-harare;de 1995 à 1996;4;nkana-fc
+remontadas;Le plus de qualifications après une défaite au match aller;1996;égalé;8;qualifications;zamalek;;8;asante-kotoko
+poules;Le plus de phases de poules disputées;1997;établi;1;phases de poules;ashantigold | club-africain | ferroviario-maputo | orlando-pirates | primeiro-de-agosto | raja-casablanca | usm-alger | zamalek; /  /  /  /  /  /  / ;;
+tab;Le plus de séances de tirs au but gagnées;1997;égalé;4;séances;al-hilal-omdurman;;4;zamalek
+victoires_poules;Le plus de victoires en phase de poules;1997;établi;3;victoires;ashantigold | primeiro-de-agosto | raja-casablanca | usm-alger | zamalek; /  /  /  / ;;
+ecart_ext;La plus large victoire à l'extérieur;1997;égalé;5;buts d'écart;club-africain;JS Saint-Pierroise 0-5 Club Africain (1997, deuxième tour);5;hafia-fc | simba-sc
+ecart_confrontation;Le plus large score cumulé sur un double match;1997;égalé;10;buts d'écart;club-africain;Club Africain 11-1 JS Saint-Pierroise (1997, deuxième tour);10;js-kabylie
+points_poules;Le plus de points en phase de poules;1997;établi;11;points;raja-casablanca | usm-alger;1997 / 1997;;
+poules_consecutives;Le plus de phases de poules consécutives (depuis 1997);1997;établi;1;éditions;ashantigold | club-africain | ferroviario-maputo | orlando-pirates | primeiro-de-agosto | raja-casablanca | usm-alger | zamalek;1997 / 1997 / 1997 / 1997 / 1997 / 1997 / 1997 / 1997;;
+points_poules_total;Le plus de points en phase de poules (victoire à 3 points);1997;établi;11;points;raja-casablanca | usm-alger; / ;;
+poules;Le plus de phases de poules disputées;1998;battu;2;phases de poules;raja-casablanca;;1;ashantigold | club-africain | ferroviario-maputo | orlando-pirates | primeiro-de-agosto | raja-casablanca | usm-alger | zamalek
+victoires_ext;Le plus de victoires à l'extérieur;1998;battu;14;victoires;asec-mimosas;;12;asec-mimosas | hafia-fc
+victoires_poules;Le plus de victoires en phase de poules;1998;battu;5;victoires;raja-casablanca;;3;ashantigold | primeiro-de-agosto | raja-casablanca | usm-alger | zamalek
+buts_match;Le match le plus prolifique;1998;égalé;11;buts;;Petro de Luanda 9-2 Desportivo (1998, premier tour);11;
+ecart_confrontation;Le plus large score cumulé sur un double match;1998;égalé;10;buts d'écart;petro-de-luanda;Desportivo 3-13 Petro de Luanda (1998, premier tour);10;js-kabylie | club-africain
+points_poules;Le plus de points en phase de poules;1998;battu;13;points;asec-mimosas;1998;11;raja-casablanca | usm-alger
+poules_consecutives;Le plus de phases de poules consécutives (depuis 1997);1998;battu;2;éditions;raja-casablanca;1997 à 1998;1;ashantigold | club-africain | ferroviario-maputo | orlando-pirates | primeiro-de-agosto | raja-casablanca | usm-alger | zamalek
+points_poules_total;Le plus de points en phase de poules (victoire à 3 points);1998;battu;19;points;raja-casablanca;;11;raja-casablanca | usm-alger
+participations;Le plus de participations;1999;égalé;16;éditions;al-hilal-omdurman;;16;asante-kotoko
+victoires;Le plus de victoires;1999;battu;52;victoires;asec-mimosas;;51;asante-kotoko
+tab;Le plus de séances de tirs au but gagnées;1999;égalé;4;séances;raja-casablanca;;4;al-hilal-omdurman | zamalek
+points_poules;Le plus de points en phase de poules;1999;battu;15;points;esperance-tunis;1999;13;asec-mimosas
+serie_invaincu_ext;La plus longue série sans défaite à l'extérieur;1999;battu;11;matchs;esperance-tunis;de 1994 à 1999;8;asante-kotoko | esperance-tunis
+remontadas;Le plus de qualifications après une défaite au match aller;1999;égalé;8;qualifications;asec-mimosas;;8;asante-kotoko | zamalek
+pays_battus;Le plus de pays différents battus;1999;battu;24;pays;asec-mimosas;;23;asante-kotoko
+clean_sheets_edition;Le plus de matchs sans encaisser de but sur une édition;1999;battu;9;matchs;esperance-tunis;1999;7;asante-kotoko
+participations;Le plus de participations;2000;battu;17;éditions;al-hilal-omdurman;;16;asante-kotoko | al-hilal-omdurman
+poules;Le plus de phases de poules disputées;2000;égalé;3;phases de poules;hearts-of-oak;;3;raja-casablanca
+victoires_poules;Le plus de victoires en phase de poules;2000;battu;9;victoires;esperance-tunis | hearts-of-oak; / ;8;raja-casablanca
+poules_consecutives;Le plus de phases de poules consécutives (depuis 1997);2000;égalé;3;éditions;hearts-of-oak;1998 à 2000;3;raja-casablanca
+points_poules_total;Le plus de points en phase de poules (victoire à 3 points);2000;battu;32;points;hearts-of-oak;;30;raja-casablanca
+poules;Le plus de phases de poules disputées;2001;égalé;3;phases de poules;al-ahly | asec-mimosas | esperance-tunis; /  / ;3;raja-casablanca | hearts-of-oak
+matchs;Le plus de matchs joués;2001;battu;104;matchs;asec-mimosas;;103;asante-kotoko
+buts;Le plus de buts marqués;2001;battu;176;buts;asec-mimosas;;168;asante-kotoko
+tab;Le plus de séances de tirs au but gagnées;2001;battu;5;séances;asec-mimosas;;4;al-hilal-omdurman | raja-casablanca | zamalek
+victoires_dom;Le plus de victoires à domicile;2001;battu;42;victoires;asec-mimosas;;41;asante-kotoko
+clean_sheets;Le plus de matchs sans encaisser de but;2001;battu;44;matchs;al-ahly;;42;asante-kotoko
+victoires_poules;Le plus de victoires en phase de poules;2001;battu;11;victoires;esperance-tunis;;9;esperance-tunis | hearts-of-oak
+poules_consecutives;Le plus de phases de poules consécutives (depuis 1997);2001;égalé;3;éditions;al-ahly | esperance-tunis;1999 à 2001 / 1999 à 2001;3;hearts-of-oak | raja-casablanca
+points_poules_total;Le plus de points en phase de poules (victoire à 3 points);2001;battu;36;points;esperance-tunis;;32;hearts-of-oak
+adversaires_battus;Le plus d'adversaires différents battus;2001;battu;38;clubs;asec-mimosas;;36;asante-kotoko
+victoires_adversaire;Le plus de victoires contre un même adversaire;2001;égalé;4;victoires;asec-mimosas;Petro de Luanda;4;esperance-tunis
+poules;Le plus de phases de poules disputées;2002;battu;4;phases de poules;al-ahly | asec-mimosas | esperance-tunis | raja-casablanca; /  /  / ;3;raja-casablanca | hearts-of-oak | al-ahly | asec-mimosas | esperance-tunis
+buts_ext;Le plus de buts marqués à l'extérieur;2002;battu;61;buts;asec-mimosas;;57;asante-kotoko
+victoires_poules;Le plus de victoires en phase de poules;2002;battu;14;victoires;asec-mimosas | esperance-tunis; / ;11;esperance-tunis
+buts_edition;Le plus de buts marqués par un club sur une édition;2002;battu;27;buts;asec-mimosas;2002;26;cara-brazzaville
+poules_consecutives;Le plus de phases de poules consécutives (depuis 1997);2002;battu;4;éditions;al-ahly | esperance-tunis;1999 à 2002 / 1999 à 2002;3;al-ahly | esperance-tunis | hearts-of-oak | raja-casablanca
+victoires_adversaire;Le plus de victoires contre un même adversaire;2002;égalé;4;victoires;raja-casablanca | zamalek;Jeanne d'Arc / Nkana FC;4;asec-mimosas | esperance-tunis
+clean_sheets_edition;Le plus de matchs sans encaisser de but sur une édition;2002;égalé;9;matchs;zamalek;2002;9;esperance-tunis
+participations;Le plus de participations;2003;égalé;17;éditions;asec-mimosas;;17;al-hilal-omdurman
+poules;Le plus de phases de poules disputées;2003;battu;5;phases de poules;asec-mimosas | esperance-tunis; / ;4;al-ahly | asec-mimosas | esperance-tunis | raja-casablanca
+victoires_poules;Le plus de victoires en phase de poules;2003;battu;18;victoires;esperance-tunis;;14;asec-mimosas | esperance-tunis
+buts_edition;Le plus de buts marqués par un club sur une édition;2003;battu;31;buts;enyimba;2003;27;asec-mimosas
+victoires_edition;Le plus de victoires d'un club sur une édition;2003;égalé;9;victoires;enyimba | ismaily;2003 / 2003;9;nkana-fc
+serie_domicile;La plus longue série sans défaite à domicile;2003;battu;44;matchs;zamalek;de 1979 à 2003;43;asante-kotoko
+poules_consecutives;Le plus de phases de poules consécutives (depuis 1997);2003;battu;5;éditions;esperance-tunis;1999 à 2003;4;al-ahly | esperance-tunis
+poules;Le plus de phases de poules disputées;2004;battu;6;phases de poules;esperance-tunis;;5;asec-mimosas | esperance-tunis
+clean_sheets;Le plus de matchs sans encaisser de but;2004;battu;49;matchs;esperance-tunis;;47;al-ahly
+titres_consecutifs;Le plus de titres consécutifs;2004;égalé;2;titres;enyimba;;2;tp-mazembe
+serie_domicile;La plus longue série sans défaite à domicile;2004;battu;45;matchs;zamalek;de 1979 à 2004;44;zamalek
+victoires_adversaire;Le plus de victoires contre un même adversaire;2004;battu;5;victoires;raja-casablanca;Jeanne d'Arc;4;asec-mimosas | esperance-tunis | raja-casablanca | zamalek
+clean_sheets;Le plus de matchs sans encaisser de but;2005;battu;58;matchs;al-ahly;;49;esperance-tunis
+ecart_ext;La plus large victoire à l'extérieur;2005;égalé;5;buts d'écart;enyimba;Red Arrows 1-6 Enyimba (2005, huitièmes de finale);5;hafia-fc | simba-sc | club-africain
+victoires_edition;Le plus de victoires d'un club sur une édition;2005;égalé;9;victoires;al-ahly;2005;9;nkana-fc | enyimba | ismaily
+serie_invaincu;La plus longue série sans défaite;2005;égalé;15;matchs;al-ahly;de 2004 à 2005;15;esperance-tunis
+serie_domicile;La plus longue série sans défaite à domicile;2005;battu;50;matchs;zamalek;de 1979 à 2005;45;zamalek
+serie_victoires_dom;La plus longue série de victoires à domicile;2005;battu;22;matchs;zamalek;de 1996 à 2005;21;zamalek
+titres_invaincus;Le plus de titres remportés sans la moindre défaite;2005;égalé;1;titres;al-ahly;2005;1;esperance-tunis | ismaily | js-kabylie | oryx-douala
+remontadas;Le plus de qualifications après une défaite au match aller;2005;battu;9;qualifications;asec-mimosas;;8;asante-kotoko | asec-mimosas | zamalek
+adversaires_battus;Le plus d'adversaires différents battus;2005;battu;44;clubs;al-ahly | asec-mimosas; / ;42;asec-mimosas
+pays_battus;Le plus de pays différents battus;2005;battu;26;pays;al-ahly;;24;asec-mimosas
+clean_sheets_edition;Le plus de matchs sans encaisser de but sur une édition;2005;battu;10;matchs;al-ahly;2005;9;esperance-tunis | zamalek
+titres;Le plus de titres;2006;égalé;5;titres;al-ahly;;5;zamalek
+poules;Le plus de phases de poules disputées;2006;égalé;7;phases de poules;asec-mimosas;;7;esperance-tunis
+titres_consecutifs;Le plus de titres consécutifs;2006;égalé;2;titres;al-ahly;;2;enyimba | tp-mazembe
+participations_consecutives;Le plus de participations consécutives;2006;égalé;9;éditions;hearts-of-oak;;9;hafia-fc
+ecart_ext;La plus large victoire à l'extérieur;2006;égalé;5;buts d'écart;orlando-pirates | orlando-pirates;Mbabane Swallows 0-5 Orlando Pirates (2006, tour préliminaire) / AS Port-Louis 2000 0-5 Orlando Pirates (2006, tour préliminaire);5;hafia-fc | simba-sc | club-africain | enyimba
+victoires_edition;Le plus de victoires d'un club sur une édition;2006;égalé;9;victoires;asec-mimosas | cs-sfaxien;2006 / 2006;9;nkana-fc | enyimba | ismaily | al-ahly
+victoires_ext_edition;Le plus de victoires à l'extérieur sur une édition;2006;égalé;4;victoires;cs-sfaxien;2006;4;canon-yaounde | nkana-fc
+serie_invaincu;La plus longue série sans défaite;2006;battu;21;matchs;al-ahly;de 2004 à 2006;15;esperance-tunis | al-ahly
+serie_invaincu_ext;La plus longue série sans défaite à l'extérieur;2006;battu;12;matchs;al-ahly;de 2002 à 2006;11;esperance-tunis
+serie_victoires_ext;La plus longue série de victoires à l'extérieur;2006;égalé;4;matchs;cs-sfaxien;de 2006 à 2006;4;nkana-fc | dynamos-harare
+adversaires_battus;Le plus d'adversaires différents battus;2006;battu;49;clubs;asec-mimosas;;44;al-ahly | asec-mimosas
+clean_sheets_edition;Le plus de matchs sans encaisser de but sur une édition;2006;égalé;10;matchs;asec-mimosas;2006;10;al-ahly
+finales;Le plus de finales disputées;2007;égalé;7;finales;al-ahly;;7;asante-kotoko
+victoires_ext_edition;Le plus de victoires à l'extérieur sur une édition;2007;égalé;4;victoires;etoile-sahel;2007;4;canon-yaounde | nkana-fc | cs-sfaxien
+pays_battus;Le plus de pays différents battus;2007;égalé;27;pays;asec-mimosas;;27;al-ahly
+titres;Le plus de titres;2008;battu;6;titres;al-ahly;;5;al-ahly | zamalek
+finales;Le plus de finales disputées;2008;battu;8;finales;al-ahly;;7;asante-kotoko | al-ahly
+poules;Le plus de phases de poules disputées;2008;battu;9;phases de poules;asec-mimosas;;8;asec-mimosas | esperance-tunis
+demis;Le plus de demi-finales disputées;2008;égalé;10;demi-finales;al-ahly;;10;asante-kotoko
+qualifications;Le plus de doubles confrontations remportées;2008;battu;45;qualifications;asec-mimosas;;44;asante-kotoko
+victoires_dom;Le plus de victoires à domicile;2008;battu;66;victoires;al-ahly | asec-mimosas; / ;65;asec-mimosas
+victoires_poules;Le plus de victoires en phase de poules;2008;battu;24;victoires;al-ahly;;23;esperance-tunis
+victoires_edition;Le plus de victoires d'un club sur une édition;2008;égalé;9;victoires;cotonsport-garoua;2008;9;nkana-fc | enyimba | ismaily | al-ahly | asec-mimosas | cs-sfaxien
+demis_consecutives;Le plus de demi-finales consécutives;2008;égalé;4;éditions;al-ahly;2005 à 2008;4;hafia-fc | tp-mazembe
+finales_consecutives;Le plus de finales consécutives;2008;égalé;4;finales;al-ahly;2005 à 2008;4;hafia-fc | tp-mazembe
+points_poules_total;Le plus de points en phase de poules (victoire à 3 points);2008;battu;84;points;al-ahly;;81;esperance-tunis
+victoires_dom;Le plus de victoires à domicile;2009;battu;68;victoires;asec-mimosas;;66;al-ahly | asec-mimosas
+participations_consecutives;Le plus de participations consécutives;2009;égalé;9;éditions;asec-mimosas;;9;hafia-fc | hearts-of-oak
+ecart_ext;La plus large victoire à l'extérieur;2009;battu;6;buts d'écart;young-africans;Etoile d'Or 0-6 Young Africans (2009, tour préliminaire);5;hafia-fc | simba-sc | club-africain | enyimba | orlando-pirates | orlando-pirates
+ecart_confrontation;Le plus large score cumulé sur un double match;2009;battu;13;buts d'écart;young-africans;Young Africans 14-1 Etoile d'Or (2009, tour préliminaire);10;js-kabylie | club-africain | petro-de-luanda
+buts_edition;Le plus de buts marqués par un club sur une édition;2009;battu;33;buts;heartland;2009;31;enyimba
+victoires_edition;Le plus de victoires d'un club sur une édition;2009;battu;10;victoires;heartland;2009;9;nkana-fc | enyimba | ismaily | al-ahly | asec-mimosas | cs-sfaxien | cotonsport-garoua
+poules;Le plus de phases de poules disputées;2010;égalé;9;phases de poules;al-ahly | esperance-tunis; / ;9;asec-mimosas
+demis;Le plus de demi-finales disputées;2010;battu;11;demi-finales;al-ahly;;10;al-ahly | asante-kotoko
+qualifications;Le plus de doubles confrontations remportées;2010;égalé;46;qualifications;al-ahly;;46;asec-mimosas
+victoires_dom;Le plus de victoires à domicile;2010;battu;72;victoires;al-ahly;;68;asec-mimosas
+victoires_poules;Le plus de victoires en phase de poules;2010;battu;27;victoires;esperance-tunis;;24;al-ahly
+participations_consecutives;Le plus de participations consécutives;2010;battu;10;éditions;asec-mimosas;;9;hafia-fc | hearts-of-oak | asec-mimosas
+ecart_finale;La plus large victoire en finale;2010;égalé;5;buts d'écart;tp-mazembe;TP Mazembe 5-0 Espérance de Tunis (2010, finale);5;tp-mazembe
+points_poules_total;Le plus de points en phase de poules (victoire à 3 points);2010;battu;94;points;esperance-tunis;;84;al-ahly
+adversaires_battus;Le plus d'adversaires différents battus;2010;égalé;53;clubs;al-ahly;;53;asec-mimosas
+poules;Le plus de phases de poules disputées;2011;battu;10;phases de poules;al-ahly | esperance-tunis; / ;9;asec-mimosas | al-ahly | esperance-tunis
+matchs;Le plus de matchs joués;2011;battu;186;matchs;al-ahly;;178;asec-mimosas
+victoires;Le plus de victoires;2011;battu;92;victoires;al-ahly | asec-mimosas; / ;90;asec-mimosas
+ecart_match;La plus large victoire;2011;égalé;9;buts d'écart;raja-casablanca;Raja Casablanca 10-1 Tourbillon (2011, tour préliminaire);9;kabwe-warriors
+buts_match;Le match le plus prolifique;2011;égalé;11;buts;;Raja Casablanca 10-1 Tourbillon (2011, tour préliminaire);11; | 
+adversaires_battus;Le plus d'adversaires différents battus;2011;battu;55;clubs;al-ahly;;53;al-ahly | asec-mimosas
+pays_battus;Le plus de pays différents battus;2011;battu;28;pays;asec-mimosas;;27;al-ahly | asec-mimosas
+clean_sheets_edition;Le plus de matchs sans encaisser de but sur une édition;2011;égalé;10;matchs;esperance-tunis | wydad-ac;2011 / 2011;10;al-ahly | asec-mimosas
+participations;Le plus de participations;2012;battu;26;éditions;al-hilal-omdurman;;25;al-hilal-omdurman | asec-mimosas
+victoires;Le plus de victoires;2012;battu;99;victoires;al-ahly;;92;al-ahly | asec-mimosas
+buts;Le plus de buts marqués;2012;battu;310;buts;al-ahly;;290;asec-mimosas
+qualifications;Le plus de doubles confrontations remportées;2012;battu;51;qualifications;al-ahly;;48;al-ahly | asec-mimosas
+victoires_ext;Le plus de victoires à l'extérieur;2012;égalé;23;victoires;esperance-tunis;;23;asec-mimosas
+pays_battus;Le plus de pays différents battus;2012;battu;29;pays;al-ahly;;28;asec-mimosas
+victoires_adversaire;Le plus de victoires contre un même adversaire;2012;égalé;5;victoires;esperance-tunis;Dynamos Harare;5;raja-casablanca
+victoires_ext;Le plus de victoires à l'extérieur;2013;battu;26;victoires;esperance-tunis;;23;asec-mimosas | esperance-tunis
+buts_ext;Le plus de buts marqués à l'extérieur;2013;battu;88;buts;esperance-tunis;;85;asec-mimosas
+points_poules;Le plus de points en phase de poules;2013;égalé;15;points;esperance-tunis;2013;15;esperance-tunis
+demis_consecutives;Le plus de demi-finales consécutives;2013;égalé;4;éditions;esperance-tunis;2010 à 2013;4;al-ahly | hafia-fc | tp-mazembe
+victoires_adversaire;Le plus de victoires contre un même adversaire;2013;égalé;5;victoires;al-ahly;Tusker;5;esperance-tunis | raja-casablanca
+poules;Le plus de phases de poules disputées;2014;battu;13;phases de poules;esperance-tunis;;12;al-ahly | esperance-tunis
+participations_consecutives;Le plus de participations consécutives;2014;égalé;11;éditions;al-ahly | al-hilal-omdurman; / ;11;asec-mimosas
+victoires_adversaire;Le plus de victoires contre un même adversaire;2014;égalé;5;victoires;zamalek;Nkana FC;5;al-ahly | esperance-tunis | raja-casablanca
+participations_consecutives;Le plus de participations consécutives;2015;battu;12;éditions;al-ahly | al-hilal-omdurman; / ;11;asec-mimosas | al-ahly | al-hilal-omdurman
+points_poules;Le plus de points en phase de poules;2015;égalé;15;points;usm-alger;2015;15;esperance-tunis | esperance-tunis
+poules;Le plus de phases de poules disputées;2016;égalé;13;phases de poules;al-ahly;;13;esperance-tunis
+victoires_adversaire;Le plus de victoires contre un même adversaire;2016;battu;6;victoires;al-ahly;Young Africans;5;al-ahly | esperance-tunis | raja-casablanca | zamalek
+victoires_ko;Le plus de victoires en quarts, demies et finales;2017;battu;28;victoires;al-ahly;;27;asante-kotoko
+matchs_ko;Le plus de matchs en quarts, demies et finales;2017;battu;64;matchs;al-ahly;;60;asante-kotoko
+pays_battus;Le plus de pays différents battus;2017;égalé;30;pays;esperance-tunis;;30;al-ahly
+ecart_match;La plus large victoire;2018;battu;10;buts d'écart;dh-el-jadida;DH El Jadida 10-0 Benfica (2018, premier tour);9;kabwe-warriors | raja-casablanca
+remontadas;Le plus de qualifications après une défaite au match aller;2018;égalé;10;qualifications;al-hilal-omdurman;;10;asec-mimosas
+pays_battus;Le plus de pays différents battus;2018;battu;33;pays;esperance-tunis;;30;al-ahly | esperance-tunis
+titres_consecutifs;Le plus de titres consécutifs;2018-19;égalé;2;titres;esperance-tunis;;2;al-ahly | enyimba | tp-mazembe
+titres_invaincus;Le plus de titres remportés sans la moindre défaite;2018-19;battu;2;titres;esperance-tunis;1994, 2018-19;1;al-ahly | esperance-tunis | ismaily | js-kabylie | oryx-douala
+ecart_match;La plus large victoire;2019-20;égalé;10;buts d'écart;mamelodi-sundowns;Mamelodi Sundowns 11-1 Côte d'Or (2019-20, deuxième tour);10;dh-el-jadida
+ecart_ext;La plus large victoire à l'extérieur;2019-20;battu;7;buts d'écart;zamalek;Dekedda 0-7 Zamalek (2019-20, premier tour);6;young-africans
+buts_match;Le match le plus prolifique;2019-20;battu;12;buts;;Mamelodi Sundowns 11-1 Côte d'Or (2019-20, deuxième tour);11; |  | 
+ecart_confrontation;Le plus large score cumulé sur un double match;2019-20;battu;15;buts d'écart;mamelodi-sundowns;Côte d'Or 1-16 Mamelodi Sundowns (2019-20, deuxième tour);13;young-africans
+buts_edition;Le plus de buts marqués par un club sur une édition;2019-20;battu;36;buts;al-ahly;2019-20;33;heartland
+victoires_edition;Le plus de victoires d'un club sur une édition;2019-20;battu;11;victoires;al-ahly;2019-20;10;heartland
+serie_domicile;La plus longue série sans défaite à domicile;2019-20;égalé;50;matchs;tp-mazembe;de 2009 à 2019-20;50;zamalek
+pays_battus;Le plus de pays différents battus;2019-20;égalé;33;pays;al-ahly;;33;esperance-tunis
+serie_domicile;La plus longue série sans défaite à domicile;2020-21;battu;53;matchs;tp-mazembe;de 2009 à 2020-21;50;zamalek | tp-mazembe
+serie_victoires_ext;La plus longue série de victoires à l'extérieur;2020-21;égalé;4;matchs;al-hilal-omdurman;de 2019-20 à 2020-21;4;nkana-fc | dynamos-harare | cs-sfaxien
+quarts_consecutifs;Le plus d'éditions consécutives en quarts de finale ou au-delà;2020-21;égalé;6;éditions;wydad-ac;2016 à 2020-21;6;nkana-fc
+pays_battus;Le plus de pays différents battus;2020-21;battu;34;pays;al-ahly;;33;al-ahly | esperance-tunis
+clean_sheets_edition;Le plus de matchs sans encaisser de but sur une édition;2020-21;battu;11;matchs;kaizer-chiefs;2020-21;10;al-ahly | asec-mimosas | esperance-tunis | wydad-ac
+points_poules;Le plus de points en phase de poules;2021-22;battu;16;points;mamelodi-sundowns;2021-22;15;esperance-tunis | esperance-tunis | usm-alger
+poules_consecutives;Le plus de phases de poules consécutives (depuis 1997);2021-22;égalé;7;éditions;al-ahly | mamelodi-sundowns | wydad-ac;2016 à 2021-22 / 2016 à 2021-22 / 2016 à 2021-22;7;esperance-tunis
+quarts_consecutifs;Le plus d'éditions consécutives en quarts de finale ou au-delà;2021-22;battu;7;éditions;wydad-ac;2016 à 2021-22;6;nkana-fc | wydad-ac
+demis_consecutives;Le plus de demi-finales consécutives;2021-22;égalé;4;éditions;wydad-ac;2018-19 à 2021-22;4;al-ahly | esperance-tunis | hafia-fc | tp-mazembe
+ecart_ext;La plus large victoire à l'extérieur;2022-23;égalé;7;buts d'écart;mamelodi-sundowns;La Passe 0-7 Mamelodi Sundowns (2022-23, deuxième tour);7;zamalek
+buts_edition;Le plus de buts marqués par un club sur une édition;2022-23;battu;37;buts;mamelodi-sundowns;2022-23;36;al-ahly
+points_poules;Le plus de points en phase de poules;2022-23;égalé;16;points;raja-casablanca;2022-23;16;mamelodi-sundowns
+poules_consecutives;Le plus de phases de poules consécutives (depuis 1997);2022-23;battu;8;éditions;al-ahly | mamelodi-sundowns | wydad-ac;2016 à 2022-23 / 2016 à 2022-23 / 2016 à 2022-23;7;al-ahly | esperance-tunis | mamelodi-sundowns | wydad-ac
+demis_consecutives;Le plus de demi-finales consécutives;2022-23;battu;5;éditions;wydad-ac;2018-19 à 2022-23;4;al-ahly | esperance-tunis | hafia-fc | tp-mazembe | wydad-ac
+remontadas;Le plus de qualifications après une défaite au match aller;2022-23;battu;11;qualifications;al-hilal-omdurman;;10;al-hilal-omdurman | asec-mimosas
+buts_ext;Le plus de buts marqués à l'extérieur;2023-24;battu;136;buts;al-ahly | esperance-tunis; / ;131;esperance-tunis
+titres_invaincus;Le plus de titres remportés sans la moindre défaite;2023-24;égalé;2;titres;al-ahly;2005, 2023-24;2;esperance-tunis
+quarts_consecutifs;Le plus d'éditions consécutives en quarts de finale ou au-delà;2023-24;égalé;8;éditions;al-ahly | esperance-tunis;2017 à 2023-24 / 2017 à 2023-24;8;wydad-ac
+demis_consecutives;Le plus de demi-finales consécutives;2023-24;égalé;5;éditions;al-ahly;2019-20 à 2023-24;5;wydad-ac
+finales_consecutives;Le plus de finales consécutives;2023-24;battu;5;finales;al-ahly;2019-20 à 2023-24;4;al-ahly | hafia-fc | tp-mazembe
+clean_sheets_edition;Le plus de matchs sans encaisser de but sur une édition;2023-24;battu;13;matchs;al-ahly;2023-24;11;kaizer-chiefs
+victoires_ext;Le plus de victoires à l'extérieur;2024-25;battu;43;victoires;al-ahly | esperance-tunis; / ;41;esperance-tunis
+buts_ext;Le plus de buts marqués à l'extérieur;2024-25;battu;143;buts;al-ahly;;136;al-ahly | esperance-tunis
+buts_edition;Le plus de buts marqués par un club sur une édition;2024-25;égalé;37;buts;pyramids;2024-25;37;mamelodi-sundowns
+victoires_ext_edition;Le plus de victoires à l'extérieur sur une édition;2024-25;égalé;4;victoires;orlando-pirates;2024-25;4;canon-yaounde | nkana-fc | cs-sfaxien | etoile-sahel
+serie_invaincu;La plus longue série sans défaite;2024-25;battu;26;matchs;al-ahly;de 2022-23 à 2024-25;21;al-ahly
+serie_invaincu_ext;La plus longue série sans défaite à l'extérieur;2024-25;battu;13;matchs;al-ahly;de 2022-23 à 2024-25;12;al-ahly
+poules_consecutives;Le plus de phases de poules consécutives (depuis 1997);2024-25;battu;10;éditions;al-ahly | mamelodi-sundowns;2016 à 2024-25 / 2016 à 2024-25;9;al-ahly | mamelodi-sundowns | wydad-ac
+quarts_consecutifs;Le plus d'éditions consécutives en quarts de finale ou au-delà;2024-25;battu;9;éditions;al-ahly | esperance-tunis;2017 à 2024-25 / 2017 à 2024-25;8;al-ahly | esperance-tunis | wydad-ac
+demis_consecutives;Le plus de demi-finales consécutives;2024-25;battu;6;éditions;al-ahly;2019-20 à 2024-25;5;al-ahly | wydad-ac
+pays_battus;Le plus de pays différents battus;2024-25;égalé;34;pays;esperance-tunis;;34;al-ahly
+victoires_ext;Le plus de victoires à l'extérieur;2025-26;battu;46;victoires;esperance-tunis;;43;al-ahly | esperance-tunis
+buts_ext;Le plus de buts marqués à l'extérieur;2025-26;battu;152;buts;esperance-tunis;;143;al-ahly
+points_poules;Le plus de points en phase de poules;2025-26;égalé;16;points;pyramids;2025-26;16;mamelodi-sundowns | raja-casablanca
+poules;Le plus de phases de poules disputées;2026-27;battu;24;phases de poules;esperance-tunis;;23;al-ahly | esperance-tunis
+participations_consecutives;Le plus de participations consécutives;2026-27;battu;24;éditions;al-hilal-omdurman;;23;al-ahly | al-hilal-omdurman
+poules_consecutives;Le plus de phases de poules consécutives (depuis 1997);2026-27;égalé;11;éditions;esperance-tunis;2017 à 2026-27;11;al-ahly | mamelodi-sundowns

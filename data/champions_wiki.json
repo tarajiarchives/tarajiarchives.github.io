@@ -1,0 +1,1485 @@
+[
+ {
+  "annee": 2020,
+  "saison": "2019-20",
+  "source": "2019–20 Espérance Sportive de Tunis season",
+  "joueurs": [
+   {
+    "fr": "Moez Ben Cherifia",
+    "titre": "Moez Ben Cherifia",
+    "pos": "GK",
+    "matchs": 20,
+    "buts": 0,
+    "ar": "معز بن شريفية"
+   },
+   {
+    "fr": "Rami Jridi",
+    "titre": "Rami Jridi",
+    "pos": "GK",
+    "matchs": 6,
+    "buts": 0,
+    "ar": "رامي الجريدي"
+   },
+   {
+    "fr": "Mohamed Ali Yacoubi",
+    "titre": "Mohamed Ali Yacoubi",
+    "pos": "DF",
+    "matchs": 20,
+    "buts": 3,
+    "ar": "محمد علي اليعقوبي"
+   },
+   {
+    "fr": "Abdelkader Bedrane",
+    "titre": "Abdelkader Bedrane",
+    "pos": "DF",
+    "matchs": 15,
+    "buts": 1,
+    "ar": ""
+   },
+   {
+    "fr": "Chamseddine Dhaouadi",
+    "titre": "Chamseddine Dhaouadi",
+    "pos": "DF",
+    "matchs": 12,
+    "buts": 0,
+    "ar": "شمس الدين الذوادي"
+   },
+   {
+    "fr": "Khalil Chemmam",
+    "titre": "Khalil Chemmam",
+    "pos": "DF",
+    "matchs": 12,
+    "buts": 0,
+    "ar": "خليل شمام"
+   },
+   {
+    "fr": "Sameh Derbali",
+    "titre": "Sameh Derbali",
+    "pos": "DF",
+    "matchs": 12,
+    "buts": 0,
+    "ar": "سامح الدربالي"
+   },
+   {
+    "fr": "Iheb Mbarki",
+    "titre": "Iheb Mbarki",
+    "pos": "DF",
+    "matchs": 10,
+    "buts": 1,
+    "ar": "إيهاب المباركي"
+   },
+   {
+    "fr": "Farouk Mimouni",
+    "titre": "",
+    "pos": "DF",
+    "matchs": 7,
+    "buts": 0,
+    "ar": ""
+   },
+   {
+    "fr": "Raed Fedaa",
+    "titre": "",
+    "pos": "DF",
+    "matchs": 6,
+    "buts": 1,
+    "ar": ""
+   },
+   {
+    "fr": "Amine Ben Hamida",
+    "titre": "",
+    "pos": "DF",
+    "matchs": 5,
+    "buts": 0,
+    "ar": ""
+   },
+   {
+    "fr": "Mohamed Amine Tougai",
+    "titre": "Mohamed Amine Tougai",
+    "pos": "DF",
+    "matchs": 4,
+    "buts": 0,
+    "ar": ""
+   },
+   {
+    "fr": "Raouf Benguit",
+    "titre": "Raouf Benguit",
+    "pos": "MF",
+    "matchs": 21,
+    "buts": 1,
+    "ar": "عبد الرؤوف بن غيث"
+   },
+   {
+    "fr": "Kwame Bonsu",
+    "titre": "Kwame Bonsu",
+    "pos": "MF",
+    "matchs": 17,
+    "buts": 0,
+    "ar": "كوامي بونسو"
+   },
+   {
+    "fr": "Hamdou Elhouni",
+    "titre": "Hamdou Elhouni",
+    "pos": "MF",
+    "matchs": 17,
+    "buts": 5,
+    "ar": ""
+   },
+   {
+    "fr": "Fousseny Coulibaly",
+    "titre": "Fousseny Coulibaly",
+    "pos": "MF",
+    "matchs": 16,
+    "buts": 2,
+    "ar": ""
+   },
+   {
+    "fr": "Ilyes Chetti",
+    "titre": "Ilyes Chetti",
+    "pos": "MF",
+    "matchs": 15,
+    "buts": 1,
+    "ar": ""
+   },
+   {
+    "fr": "Mohamed Ali Ben Romdhane",
+    "titre": "Mohamed Ali Ben Romdhane",
+    "pos": "MF",
+    "matchs": 14,
+    "buts": 1,
+    "ar": ""
+   },
+   {
+    "fr": "Fedi Ben Choug",
+    "titre": "Fedi Ben Choug",
+    "pos": "MF",
+    "matchs": 13,
+    "buts": 4,
+    "ar": ""
+   },
+   {
+    "fr": "Youssef Mosrati",
+    "titre": "",
+    "pos": "MF",
+    "matchs": 10,
+    "buts": 1,
+    "ar": ""
+   },
+   {
+    "fr": "Mohamed Amine Meskini",
+    "titre": "",
+    "pos": "MF",
+    "matchs": 9,
+    "buts": 0,
+    "ar": ""
+   },
+   {
+    "fr": "Houcine Errabei",
+    "titre": "",
+    "pos": "MF",
+    "matchs": 8,
+    "buts": 0,
+    "ar": ""
+   },
+   {
+    "fr": "Taha Yassine Khenissi",
+    "titre": "Taha Yassine Khenissi",
+    "pos": "FW",
+    "matchs": 20,
+    "buts": 5,
+    "ar": "طه ياسين الخنيسي"
+   },
+   {
+    "fr": "Ibrahim Ouattara",
+    "titre": "",
+    "pos": "FW",
+    "matchs": 17,
+    "buts": 3,
+    "ar": ""
+   },
+   {
+    "fr": "Billel Bensaha",
+    "titre": "Billel Bensaha",
+    "pos": "FW",
+    "matchs": 15,
+    "buts": 1,
+    "ar": "بلال بن ساحة"
+   },
+   {
+    "fr": "Mohamed Ali Ben Hammouda",
+    "titre": "",
+    "pos": "FW",
+    "matchs": 14,
+    "buts": 1,
+    "ar": ""
+   },
+   {
+    "fr": "Abderrahmane Meziane",
+    "titre": "Abderrahmane Meziane",
+    "pos": "FW",
+    "matchs": 10,
+    "buts": 1,
+    "ar": "عبد الرحمن مزيان"
+   },
+   {
+    "fr": "Anice Badri",
+    "titre": "Anice Badri",
+    "pos": "FW",
+    "matchs": 9,
+    "buts": 6,
+    "ar": "أنيس بدري"
+   },
+   {
+    "fr": "Youssef Abdelli",
+    "titre": "",
+    "pos": "FW",
+    "matchs": 3,
+    "buts": 0,
+    "ar": ""
+   },
+   {
+    "fr": "Zied Berrima",
+    "titre": "Zied Berrima",
+    "pos": "FW",
+    "matchs": 2,
+    "buts": 1,
+    "ar": ""
+   },
+   {
+    "fr": "Maher Ben Seghaier",
+    "titre": "",
+    "pos": "FW",
+    "matchs": 2,
+    "buts": 0,
+    "ar": ""
+   },
+   {
+    "fr": "Haythem Jouini",
+    "titre": "Haythem Jouini",
+    "pos": "FW",
+    "matchs": 2,
+    "buts": 1,
+    "ar": "هيثم الجويني"
+   },
+   {
+    "fr": "Tayeb Meziani",
+    "titre": "Tayeb Meziani",
+    "pos": "FW",
+    "matchs": 1,
+    "buts": 0,
+    "ar": "طيب مزياني"
+   }
+  ]
+ },
+ {
+  "annee": 2021,
+  "saison": "2020-21",
+  "source": "2020–21 Espérance Sportive de Tunis season",
+  "joueurs": [
+   {
+    "fr": "Moez Ben Cherifia",
+    "titre": "Moez Ben Cherifia",
+    "pos": "GK",
+    "matchs": 14,
+    "buts": 0,
+    "ar": "معز بن شريفية"
+   },
+   {
+    "fr": "Farouk Ben Mustapha",
+    "titre": "Farouk Ben Mustapha",
+    "pos": "GK",
+    "matchs": 10,
+    "buts": 0,
+    "ar": "فاروق بن مصطفى"
+   },
+   {
+    "fr": "Mohamed Sedki Debchi",
+    "titre": "",
+    "pos": "GK",
+    "matchs": 1,
+    "buts": 0,
+    "ar": ""
+   },
+   {
+    "fr": "Hamdi Nagguez",
+    "titre": "Hamdi Nagguez",
+    "pos": "DF",
+    "matchs": 22,
+    "buts": 1,
+    "ar": ""
+   },
+   {
+    "fr": "Abdelkader Bedrane",
+    "titre": "Abdelkader Bedrane",
+    "pos": "DF",
+    "matchs": 16,
+    "buts": 2,
+    "ar": ""
+   },
+   {
+    "fr": "Mohamed Ali Yacoubi",
+    "titre": "Mohamed Ali Yacoubi",
+    "pos": "DF",
+    "matchs": 15,
+    "buts": 0,
+    "ar": "محمد علي اليعقوبي"
+   },
+   {
+    "fr": "Ilyes Chetti",
+    "titre": "Ilyes Chetti",
+    "pos": "DF",
+    "matchs": 14,
+    "buts": 0,
+    "ar": ""
+   },
+   {
+    "fr": "Amine Ben Hamida",
+    "titre": "",
+    "pos": "DF",
+    "matchs": 13,
+    "buts": 0,
+    "ar": ""
+   },
+   {
+    "fr": "Khalil Chemmam",
+    "titre": "Khalil Chemmam",
+    "pos": "DF",
+    "matchs": 12,
+    "buts": 0,
+    "ar": "خليل شمام"
+   },
+   {
+    "fr": "Raed Fedaa",
+    "titre": "",
+    "pos": "DF",
+    "matchs": 10,
+    "buts": 0,
+    "ar": ""
+   },
+   {
+    "fr": "Mohamed Amine Tougai",
+    "titre": "Mohamed Amine Tougai",
+    "pos": "DF",
+    "matchs": 9,
+    "buts": 0,
+    "ar": ""
+   },
+   {
+    "fr": "Farouk Mimouni",
+    "titre": "",
+    "pos": "DF",
+    "matchs": 5,
+    "buts": 0,
+    "ar": ""
+   },
+   {
+    "fr": "Sameh Derbali",
+    "titre": "Sameh Derbali",
+    "pos": "DF",
+    "matchs": 3,
+    "buts": 0,
+    "ar": "سامح الدربالي"
+   },
+   {
+    "fr": "Mohamed Ali Ben Romdhane",
+    "titre": "Mohamed Ali Ben Romdhane",
+    "pos": "MF",
+    "matchs": 23,
+    "buts": 5,
+    "ar": ""
+   },
+   {
+    "fr": "Alaeddine Marzouki",
+    "titre": "Alaeddine Marzouki",
+    "pos": "MF",
+    "matchs": 20,
+    "buts": 2,
+    "ar": ""
+   },
+   {
+    "fr": "Raouf Benguit",
+    "titre": "Raouf Benguit",
+    "pos": "MF",
+    "matchs": 20,
+    "buts": 2,
+    "ar": "عبد الرؤوف بن غيث"
+   },
+   {
+    "fr": "Fousseny Coulibaly",
+    "titre": "Fousseny Coulibaly",
+    "pos": "MF",
+    "matchs": 19,
+    "buts": 1,
+    "ar": ""
+   },
+   {
+    "fr": "Abderrahmane Meziane",
+    "titre": "Abderrahmane Meziane",
+    "pos": "MF",
+    "matchs": 15,
+    "buts": 0,
+    "ar": "عبد الرحمن مزيان"
+   },
+   {
+    "fr": "Fedi Ben Choug",
+    "titre": "Fedi Ben Choug",
+    "pos": "MF",
+    "matchs": 12,
+    "buts": 1,
+    "ar": ""
+   },
+   {
+    "fr": "Ghailene Chaalali",
+    "titre": "Ghailene Chaalali",
+    "pos": "MF",
+    "matchs": 11,
+    "buts": 1,
+    "ar": ""
+   },
+   {
+    "fr": "Mohamed Amine Meskini",
+    "titre": "",
+    "pos": "MF",
+    "matchs": 6,
+    "buts": 0,
+    "ar": ""
+   },
+   {
+    "fr": "Houcine Errabei",
+    "titre": "",
+    "pos": "MF",
+    "matchs": 6,
+    "buts": 0,
+    "ar": ""
+   },
+   {
+    "fr": "Taha Yassine Khenissi",
+    "titre": "Taha Yassine Khenissi",
+    "pos": "FW",
+    "matchs": 21,
+    "buts": 7,
+    "ar": "طه ياسين الخنيسي"
+   },
+   {
+    "fr": "Anice Badri",
+    "titre": "Anice Badri",
+    "pos": "FW",
+    "matchs": 16,
+    "buts": 6,
+    "ar": "أنيس بدري"
+   },
+   {
+    "fr": "Basit Abdul Khalid",
+    "titre": "Basit Abdul Khalid",
+    "pos": "FW",
+    "matchs": 13,
+    "buts": 2,
+    "ar": ""
+   },
+   {
+    "fr": "Hamdou Elhouni",
+    "titre": "Hamdou Elhouni",
+    "pos": "FW",
+    "matchs": 12,
+    "buts": 3,
+    "ar": ""
+   },
+   {
+    "fr": "Nassim Ben Khalifa",
+    "titre": "Nassim Ben Khalifa",
+    "pos": "FW",
+    "matchs": 12,
+    "buts": 1,
+    "ar": "نسيم بن خليفة"
+   },
+   {
+    "fr": "Cedrik Gbo",
+    "titre": "Cedrik Gbo",
+    "pos": "FW",
+    "matchs": 10,
+    "buts": 0,
+    "ar": ""
+   },
+   {
+    "fr": "William Togui",
+    "titre": "William Togui",
+    "pos": "FW",
+    "matchs": 9,
+    "buts": 3,
+    "ar": ""
+   },
+   {
+    "fr": "Mohamed Ali Ben Hammouda",
+    "titre": "",
+    "pos": "FW",
+    "matchs": 7,
+    "buts": 0,
+    "ar": ""
+   },
+   {
+    "fr": "Zied Berrima",
+    "titre": "Zied Berrima",
+    "pos": "FW",
+    "matchs": 3,
+    "buts": 0,
+    "ar": ""
+   },
+   {
+    "fr": "Maher Ben Seghaier",
+    "titre": "",
+    "pos": "FW",
+    "matchs": 1,
+    "buts": 0,
+    "ar": ""
+   },
+   {
+    "fr": "Badra Mouelhi",
+    "titre": "",
+    "pos": "FW",
+    "matchs": 1,
+    "buts": 0,
+    "ar": ""
+   }
+  ]
+ },
+ {
+  "annee": 2022,
+  "saison": "2021-22",
+  "source": "2021–22 Espérance Sportive de Tunis season",
+  "joueurs": [
+   {
+    "fr": "Mohamed Sedki Debchi",
+    "titre": "Mohamed Sedki Debchi",
+    "pos": "GK",
+    "matchs": 12,
+    "buts": 0,
+    "ar": "محمد صدقي الدبشي"
+   },
+   {
+    "fr": "Moez Ben Cherifia",
+    "titre": "Moez Ben Cherifia",
+    "pos": "GK",
+    "matchs": 9,
+    "buts": 0,
+    "ar": "معز بن شريفية"
+   },
+   {
+    "fr": "Farouk Ben Mustapha",
+    "titre": "Farouk Ben Mustapha",
+    "pos": "GK",
+    "matchs": 3,
+    "buts": 0,
+    "ar": "فاروق بن مصطفى"
+   },
+   {
+    "fr": "Wassim Karoui",
+    "titre": "Wassim Karoui",
+    "pos": "GK",
+    "matchs": 1,
+    "buts": 0,
+    "ar": ""
+   },
+   {
+    "fr": "Mohamed Amine Tougai",
+    "titre": "Mohamed Amine Tougai",
+    "pos": "DF",
+    "matchs": 20,
+    "buts": 3,
+    "ar": ""
+   },
+   {
+    "fr": "Raed Fedaa",
+    "titre": "Raed Fedaa",
+    "pos": "DF",
+    "matchs": 17,
+    "buts": 1,
+    "ar": ""
+   },
+   {
+    "fr": "Mohamed Amine Ben Hamida",
+    "titre": "Mohamed Amine Ben Hamida",
+    "pos": "DF",
+    "matchs": 16,
+    "buts": 0,
+    "ar": "محمد أمين بن حميدة"
+   },
+   {
+    "fr": "Ilyes Chetti",
+    "titre": "Ilyes Chetti",
+    "pos": "DF",
+    "matchs": 16,
+    "buts": 1,
+    "ar": ""
+   },
+   {
+    "fr": "Zied Machmoum",
+    "titre": "Zied Machmoum",
+    "pos": "DF",
+    "matchs": 14,
+    "buts": 0,
+    "ar": "زياد مشموم"
+   },
+   {
+    "fr": "Abdelkader Bedrane",
+    "titre": "Abdelkader Bedrane",
+    "pos": "DF",
+    "matchs": 13,
+    "buts": 0,
+    "ar": ""
+   },
+   {
+    "fr": "Khalil Chemmam",
+    "titre": "Khalil Chemmam",
+    "pos": "DF",
+    "matchs": 9,
+    "buts": 0,
+    "ar": "خليل شمام"
+   },
+   {
+    "fr": "Hani Amamou",
+    "titre": "Hani Amamou",
+    "pos": "DF",
+    "matchs": 8,
+    "buts": 0,
+    "ar": ""
+   },
+   {
+    "fr": "Mohamed Ali Yacoubi",
+    "titre": "Mohamed Ali Yacoubi",
+    "pos": "DF",
+    "matchs": 3,
+    "buts": 0,
+    "ar": "محمد علي اليعقوبي"
+   },
+   {
+    "fr": "Bilel Chabbar",
+    "titre": "Bilel Chabbar",
+    "pos": "DF",
+    "matchs": 2,
+    "buts": 0,
+    "ar": ""
+   },
+   {
+    "fr": "Sameh Derbali",
+    "titre": "Sameh Derbali",
+    "pos": "DF",
+    "matchs": 1,
+    "buts": 0,
+    "ar": "سامح الدربالي"
+   },
+   {
+    "fr": "Ghassen Mahersi",
+    "titre": "Ghassen Mahersi",
+    "pos": "DF",
+    "matchs": 1,
+    "buts": 0,
+    "ar": ""
+   },
+   {
+    "fr": "Raed Bouchniba",
+    "titre": "Raed Bouchniba",
+    "pos": "DF",
+    "matchs": 1,
+    "buts": 0,
+    "ar": ""
+   },
+   {
+    "fr": "Fousseny Coulibaly",
+    "titre": "Fousseny Coulibaly",
+    "pos": "MF",
+    "matchs": 22,
+    "buts": 3,
+    "ar": ""
+   },
+   {
+    "fr": "Mohamed Ali Ben Romdhane",
+    "titre": "Mohamed Ali Ben Romdhane",
+    "pos": "MF",
+    "matchs": 21,
+    "buts": 4,
+    "ar": ""
+   },
+   {
+    "fr": "Ghailene Chaalali",
+    "titre": "Ghailene Chaalali",
+    "pos": "MF",
+    "matchs": 17,
+    "buts": 1,
+    "ar": ""
+   },
+   {
+    "fr": "Sabir Bougrine",
+    "titre": "Sabir Bougrine",
+    "pos": "MF",
+    "matchs": 10,
+    "buts": 1,
+    "ar": "صابر بوغرين"
+   },
+   {
+    "fr": "Montassar Triki",
+    "titre": "Montassar Triki",
+    "pos": "MF",
+    "matchs": 8,
+    "buts": 0,
+    "ar": "منتصر التريكي"
+   },
+   {
+    "fr": "Fedi Ben Choug",
+    "titre": "Fedi Ben Choug",
+    "pos": "MF",
+    "matchs": 4,
+    "buts": 0,
+    "ar": ""
+   },
+   {
+    "fr": "Ghaith Ouahabi",
+    "titre": "",
+    "pos": "MF",
+    "matchs": 2,
+    "buts": 0,
+    "ar": ""
+   },
+   {
+    "fr": "Khalil Guenichi",
+    "titre": "Khalil Guenichi",
+    "pos": "MF",
+    "matchs": 2,
+    "buts": 0,
+    "ar": ""
+   },
+   {
+    "fr": "Mohamed Amine Meskini",
+    "titre": "Mohamed Amine Meskini",
+    "pos": "MF",
+    "matchs": 1,
+    "buts": 0,
+    "ar": "أمين المسكيني"
+   },
+   {
+    "fr": "Malek Mehri",
+    "titre": "",
+    "pos": "MF",
+    "matchs": 1,
+    "buts": 0,
+    "ar": ""
+   },
+   {
+    "fr": "Anayo Iwuala",
+    "titre": "Anayo Iwuala",
+    "pos": "FW",
+    "matchs": 19,
+    "buts": 0,
+    "ar": "أنايو إيوالا"
+   },
+   {
+    "fr": "Hamdou Elhouni",
+    "titre": "Hamdou Elhouni",
+    "pos": "FW",
+    "matchs": 16,
+    "buts": 3,
+    "ar": ""
+   },
+   {
+    "fr": "Alaeddine Marzouki",
+    "titre": "Alaeddine Marzouki",
+    "pos": "FW",
+    "matchs": 15,
+    "buts": 2,
+    "ar": ""
+   },
+   {
+    "fr": "Rached Arfaoui",
+    "titre": "Rached Arfaoui",
+    "pos": "FW",
+    "matchs": 13,
+    "buts": 1,
+    "ar": "رشاد العرفاوي"
+   },
+   {
+    "fr": "Kingsley Eduwo",
+    "titre": "Kingsley Eduwo",
+    "pos": "FW",
+    "matchs": 12,
+    "buts": 0,
+    "ar": "كينغسلي إيدوو"
+   },
+   {
+    "fr": "Farouk Mimouni",
+    "titre": "Farouk Mimouni",
+    "pos": "FW",
+    "matchs": 12,
+    "buts": 3,
+    "ar": ""
+   },
+   {
+    "fr": "Mohamed Ali Ben Hammouda",
+    "titre": "Mohamed Ali Ben Hammouda",
+    "pos": "FW",
+    "matchs": 11,
+    "buts": 8,
+    "ar": ""
+   },
+   {
+    "fr": "Anice Badri",
+    "titre": "Anice Badri",
+    "pos": "FW",
+    "matchs": 9,
+    "buts": 0,
+    "ar": "أنيس بدري"
+   },
+   {
+    "fr": "Zied Berrima",
+    "titre": "Zied Berrima",
+    "pos": "FW",
+    "matchs": 6,
+    "buts": 1,
+    "ar": ""
+   },
+   {
+    "fr": "Moussa Konaté",
+    "titre": "Moussa Konaté (footballer)",
+    "pos": "FW",
+    "matchs": 5,
+    "buts": 1,
+    "ar": "موسى كوناتي"
+   },
+   {
+    "fr": "David Koffi",
+    "titre": "David Koffi",
+    "pos": "FW",
+    "matchs": 3,
+    "buts": 1,
+    "ar": ""
+   },
+   {
+    "fr": "Nassim Ben Khalifa",
+    "titre": "Nassim Ben Khalifa",
+    "pos": "FW",
+    "matchs": 2,
+    "buts": 0,
+    "ar": "نسيم بن خليفة"
+   },
+   {
+    "fr": "Aziz Abid",
+    "titre": "Aziz Abid",
+    "pos": "FW",
+    "matchs": 1,
+    "buts": 0,
+    "ar": ""
+   }
+  ]
+ },
+ {
+  "annee": 2024,
+  "saison": "2023-24",
+  "source": "2023–24 Espérance Sportive de Tunis season",
+  "joueurs": [
+   {
+    "fr": "Amenallah Memmiche",
+    "titre": "Amenallah Memmiche",
+    "pos": "GK",
+    "matchs": 18,
+    "buts": 0,
+    "ar": ""
+   },
+   {
+    "fr": "Moez Ben Cherifia",
+    "titre": "Moez Ben Cherifia",
+    "pos": "GK",
+    "matchs": 4,
+    "buts": 0,
+    "ar": "معز بن شريفية"
+   },
+   {
+    "fr": "Yassine Meriah",
+    "titre": "Yassine Meriah",
+    "pos": "DF",
+    "matchs": 20,
+    "buts": 5,
+    "ar": "ياسين مرياح"
+   },
+   {
+    "fr": "Mohamed Amine Ben Hamida",
+    "titre": "Mohamed Amine Ben Hamida",
+    "pos": "DF",
+    "matchs": 17,
+    "buts": 0,
+    "ar": "محمد أمين بن حميدة"
+   },
+   {
+    "fr": "Raed Bouchniba",
+    "titre": "Raed Bouchniba",
+    "pos": "DF",
+    "matchs": 15,
+    "buts": 0,
+    "ar": ""
+   },
+   {
+    "fr": "Mohamed Amine Tougai",
+    "titre": "Mohamed Amine Tougai",
+    "pos": "DF",
+    "matchs": 15,
+    "buts": 0,
+    "ar": ""
+   },
+   {
+    "fr": "Mohamed Ben Ali",
+    "titre": "Mohamed Ben Ali",
+    "pos": "DF",
+    "matchs": 14,
+    "buts": 0,
+    "ar": "محمد بن علي"
+   },
+   {
+    "fr": "Hani Amamou",
+    "titre": "Hani Amamou",
+    "pos": "DF",
+    "matchs": 8,
+    "buts": 0,
+    "ar": ""
+   },
+   {
+    "fr": "Oussama Shili",
+    "titre": "Oussama Shili",
+    "pos": "DF",
+    "matchs": 6,
+    "buts": 0,
+    "ar": ""
+   },
+   {
+    "fr": "Amenallah Majhed",
+    "titre": "Amenallah Majhed",
+    "pos": "DF",
+    "matchs": 1,
+    "buts": 0,
+    "ar": ""
+   },
+   {
+    "fr": "Koussay Smiri",
+    "titre": "Koussay Smiri",
+    "pos": "DF",
+    "matchs": 1,
+    "buts": 0,
+    "ar": ""
+   },
+   {
+    "fr": "Zakaria El Ayeb",
+    "titre": "Zakaria El Ayeb",
+    "pos": "MF",
+    "matchs": 21,
+    "buts": 2,
+    "ar": ""
+   },
+   {
+    "fr": "Houssem Tka",
+    "titre": "Houssem Tka",
+    "pos": "MF",
+    "matchs": 18,
+    "buts": 0,
+    "ar": ""
+   },
+   {
+    "fr": "Wael Derbali",
+    "titre": "Wael Derbali",
+    "pos": "MF",
+    "matchs": 16,
+    "buts": 1,
+    "ar": ""
+   },
+   {
+    "fr": "Yan Sasse",
+    "titre": "Yan Sasse",
+    "pos": "MF",
+    "matchs": 16,
+    "buts": 3,
+    "ar": "يان ساس"
+   },
+   {
+    "fr": "Ghailene Chaalali",
+    "titre": "Ghailene Chaalali",
+    "pos": "MF",
+    "matchs": 12,
+    "buts": 0,
+    "ar": ""
+   },
+   {
+    "fr": "Ghaith Ouahabi",
+    "titre": "Ghaith Ouahabi",
+    "pos": "MF",
+    "matchs": 10,
+    "buts": 0,
+    "ar": ""
+   },
+   {
+    "fr": "Roger Aholou",
+    "titre": "Roger Aholou",
+    "pos": "MF",
+    "matchs": 9,
+    "buts": 0,
+    "ar": ""
+   },
+   {
+    "fr": "Onuche Ogbelu",
+    "titre": "Onuche Ogbelu",
+    "pos": "MF",
+    "matchs": 8,
+    "buts": 0,
+    "ar": ""
+   },
+   {
+    "fr": "Mootez Zaddem",
+    "titre": "Mootez Zaddem",
+    "pos": "MF",
+    "matchs": 5,
+    "buts": 1,
+    "ar": "معتز زدام"
+   },
+   {
+    "fr": "Youssouf Oumarou",
+    "titre": "Youssouf Oumarou",
+    "pos": "MF",
+    "matchs": 5,
+    "buts": 2,
+    "ar": "يوسف عومارو"
+   },
+   {
+    "fr": "Khalil Guenichi",
+    "titre": "Khalil Guenichi",
+    "pos": "MF",
+    "matchs": 1,
+    "buts": 0,
+    "ar": ""
+   },
+   {
+    "fr": "Oussama Bouguerra",
+    "titre": "Oussama Bouguerra",
+    "pos": "FW",
+    "matchs": 19,
+    "buts": 2,
+    "ar": "أسامة بوقرة"
+   },
+   {
+    "fr": "Rodrigo Rodrigues",
+    "titre": "Rodrigo Rodrigues (footballer)",
+    "pos": "FW",
+    "matchs": 16,
+    "buts": 10,
+    "ar": "رودريغو رودريغيز"
+   },
+   {
+    "fr": "Houssam Ghacha",
+    "titre": "Houssam Ghacha",
+    "pos": "FW",
+    "matchs": 13,
+    "buts": 2,
+    "ar": "حسام الدين غشة"
+   },
+   {
+    "fr": "Kebba Sowe",
+    "titre": "",
+    "pos": "FW",
+    "matchs": 11,
+    "buts": 2,
+    "ar": ""
+   },
+   {
+    "fr": "Mohamed Ali Ben Hammouda",
+    "titre": "Mohamed Ali Ben Hammouda",
+    "pos": "FW",
+    "matchs": 9,
+    "buts": 0,
+    "ar": ""
+   },
+   {
+    "fr": "Bilel Sahli",
+    "titre": "Bilel Sahli",
+    "pos": "FW",
+    "matchs": 7,
+    "buts": 0,
+    "ar": ""
+   },
+   {
+    "fr": "André Bukia",
+    "titre": "André Bukia",
+    "pos": "FW",
+    "matchs": 7,
+    "buts": 0,
+    "ar": "أندريه بوكيا"
+   },
+   {
+    "fr": "Aziz Abid",
+    "titre": "Aziz Abid",
+    "pos": "FW",
+    "matchs": 3,
+    "buts": 0,
+    "ar": ""
+   },
+   {
+    "fr": "Salmen Trabelsi",
+    "titre": "Salmen Trabelsi",
+    "pos": "FW",
+    "matchs": 3,
+    "buts": 0,
+    "ar": ""
+   },
+   {
+    "fr": "Zied Berrima",
+    "titre": "Zied Berrima",
+    "pos": "FW",
+    "matchs": 2,
+    "buts": 0,
+    "ar": ""
+   },
+   {
+    "fr": "Zinedine Kada",
+    "titre": "Zinedine Kada",
+    "pos": "FW",
+    "matchs": 1,
+    "buts": 0,
+    "ar": ""
+   },
+   {
+    "fr": "Rayen Hamrouni",
+    "titre": "Rayen Hamrouni",
+    "pos": "FW",
+    "matchs": 1,
+    "buts": 0,
+    "ar": ""
+   },
+   {
+    "fr": "Achref Jabri",
+    "titre": "Achref Jabri",
+    "pos": "FW",
+    "matchs": 1,
+    "buts": 0,
+    "ar": ""
+   },
+   {
+    "fr": "Sharara",
+    "titre": "Mohammad Abu Zrayq",
+    "pos": "FW",
+    "matchs": 1,
+    "buts": 0,
+    "ar": "محمد أبو زريق"
+   },
+   {
+    "fr": "Farouk Mimouni",
+    "titre": "Farouk Mimouni",
+    "pos": "FW",
+    "matchs": 1,
+    "buts": 0,
+    "ar": ""
+   }
+  ]
+ },
+ {
+  "annee": 2025,
+  "saison": "2024-25",
+  "source": "2024–25 Espérance Sportive de Tunis season",
+  "joueurs": [
+   {
+    "fr": "Amenallah Memmiche",
+    "titre": "Amenallah Memmiche",
+    "pos": "GK",
+    "matchs": 23,
+    "buts": 0,
+    "ar": ""
+   },
+   {
+    "fr": "Bechir Ben Saïd",
+    "titre": "Bechir Ben Saïd",
+    "pos": "GK",
+    "matchs": 6,
+    "buts": 0,
+    "ar": "بشير بن سعيد"
+   },
+   {
+    "fr": "Mokhtar Ifaoui",
+    "titre": "Mokhtar Ifaoui",
+    "pos": "GK",
+    "matchs": 1,
+    "buts": 0,
+    "ar": ""
+   },
+   {
+    "fr": "Mohamed Sedki Debchi",
+    "titre": "Mohamed Sedki Debchi",
+    "pos": "GK",
+    "matchs": 1,
+    "buts": 0,
+    "ar": "محمد صدقي الدبشي"
+   },
+   {
+    "fr": "Mohamed Amine Ben Hamida",
+    "titre": "Mohamed Amine Ben Hamida",
+    "pos": "DF",
+    "matchs": 28,
+    "buts": 3,
+    "ar": "محمد أمين بن حميدة"
+   },
+   {
+    "fr": "Hamza Jelassi",
+    "titre": "Hamza Jelassi",
+    "pos": "DF",
+    "matchs": 24,
+    "buts": 2,
+    "ar": "حمزة الجلاصي"
+   },
+   {
+    "fr": "Raed Bouchniba",
+    "titre": "Raed Bouchniba",
+    "pos": "DF",
+    "matchs": 23,
+    "buts": 3,
+    "ar": ""
+   },
+   {
+    "fr": "Mohamed Amine Tougai",
+    "titre": "Mohamed Amine Tougai",
+    "pos": "DF",
+    "matchs": 17,
+    "buts": 3,
+    "ar": ""
+   },
+   {
+    "fr": "Mohamed Ben Ali",
+    "titre": "Mohamed Ben Ali",
+    "pos": "DF",
+    "matchs": 15,
+    "buts": 0,
+    "ar": "محمد بن علي"
+   },
+   {
+    "fr": "Koussay Smiri",
+    "titre": "Koussay Smiri",
+    "pos": "DF",
+    "matchs": 12,
+    "buts": 0,
+    "ar": ""
+   },
+   {
+    "fr": "Ayman Ben Mohamed",
+    "titre": "Ayman Ben Mohamed",
+    "pos": "DF",
+    "matchs": 10,
+    "buts": 0,
+    "ar": "أيمن بن محمد"
+   },
+   {
+    "fr": "Yassine Meriah",
+    "titre": "Yassine Meriah",
+    "pos": "DF",
+    "matchs": 9,
+    "buts": 2,
+    "ar": "ياسين مرياح"
+   },
+   {
+    "fr": "Elyas Bouzaiene",
+    "titre": "Elyas Bouzaiene",
+    "pos": "DF",
+    "matchs": 8,
+    "buts": 0,
+    "ar": "إلياس بوزيان"
+   },
+   {
+    "fr": "Aziz Koudhai",
+    "titre": "Aziz Koudhai",
+    "pos": "DF",
+    "matchs": 4,
+    "buts": 0,
+    "ar": ""
+   },
+   {
+    "fr": "Houssem Tka",
+    "titre": "Houssem Tka",
+    "pos": "MF",
+    "matchs": 27,
+    "buts": 2,
+    "ar": ""
+   },
+   {
+    "fr": "Yan Sasse",
+    "titre": "Yan Sasse",
+    "pos": "MF",
+    "matchs": 27,
+    "buts": 10,
+    "ar": "يان ساس"
+   },
+   {
+    "fr": "Abdramane Konaté",
+    "titre": "Abdramane Konaté",
+    "pos": "MF",
+    "matchs": 21,
+    "buts": 2,
+    "ar": ""
+   },
+   {
+    "fr": "Onuche Ogbelu",
+    "titre": "Onuche Ogbelu",
+    "pos": "MF",
+    "matchs": 20,
+    "buts": 1,
+    "ar": ""
+   },
+   {
+    "fr": "Chiheb Jebali",
+    "titre": "Chiheb Jebali",
+    "pos": "MF",
+    "matchs": 13,
+    "buts": 1,
+    "ar": ""
+   },
+   {
+    "fr": "Roger Aholou",
+    "titre": "Roger Aholou",
+    "pos": "MF",
+    "matchs": 12,
+    "buts": 0,
+    "ar": ""
+   },
+   {
+    "fr": "Larry Azouni",
+    "titre": "Larry Azouni",
+    "pos": "MF",
+    "matchs": 12,
+    "buts": 0,
+    "ar": "لاري العزوني"
+   },
+   {
+    "fr": "Wael Derbali",
+    "titre": "Wael Derbali",
+    "pos": "MF",
+    "matchs": 11,
+    "buts": 0,
+    "ar": ""
+   },
+   {
+    "fr": "Khalil Guenichi",
+    "titre": "Khalil Guenichi",
+    "pos": "MF",
+    "matchs": 11,
+    "buts": 0,
+    "ar": ""
+   },
+   {
+    "fr": "Zakaria El Ayeb",
+    "titre": "Zakaria El Ayeb",
+    "pos": "MF",
+    "matchs": 9,
+    "buts": 0,
+    "ar": ""
+   },
+   {
+    "fr": "Mohamed Mouhli",
+    "titre": "Mohamed Mouhli",
+    "pos": "MF",
+    "matchs": 5,
+    "buts": 0,
+    "ar": "محمد الموحلي"
+   },
+   {
+    "fr": "Haytham Dhaou",
+    "titre": "Haytham Dhaou",
+    "pos": "MF",
+    "matchs": 2,
+    "buts": 0,
+    "ar": ""
+   },
+   {
+    "fr": "Mootez Zaddem",
+    "titre": "Mootez Zaddem",
+    "pos": "MF",
+    "matchs": 2,
+    "buts": 0,
+    "ar": "معتز زدام"
+   },
+   {
+    "fr": "Elias Mokwana",
+    "titre": "Elias Mokwana",
+    "pos": "FW",
+    "matchs": 25,
+    "buts": 3,
+    "ar": "إلياس موكوانا"
+   },
+   {
+    "fr": "Youcef Belaïli",
+    "titre": "Youcef Belaïli",
+    "pos": "FW",
+    "matchs": 21,
+    "buts": 9,
+    "ar": "يوسف بلايلي"
+   },
+   {
+    "fr": "Achref Jabri",
+    "titre": "Achref Jabri",
+    "pos": "FW",
+    "matchs": 14,
+    "buts": 4,
+    "ar": ""
+   },
+   {
+    "fr": "Rodrigo Rodrigues",
+    "titre": "Rodrigo Rodrigues (footballer)",
+    "pos": "FW",
+    "matchs": 10,
+    "buts": 4,
+    "ar": "رودريغو رودريغيز"
+   },
+   {
+    "fr": "Zinedine Kada",
+    "titre": "Zinedine Kada",
+    "pos": "FW",
+    "matchs": 10,
+    "buts": 2,
+    "ar": ""
+   },
+   {
+    "fr": "Koussay Maacha",
+    "titre": "Koussay Maacha",
+    "pos": "FW",
+    "matchs": 10,
+    "buts": 2,
+    "ar": "قصي معشة"
+   },
+   {
+    "fr": "Oussama Bouguerra",
+    "titre": "Oussama Bouguerra",
+    "pos": "FW",
+    "matchs": 8,
+    "buts": 0,
+    "ar": "أسامة بوقرة"
+   },
+   {
+    "fr": "Aboubacar Diakité",
+    "titre": "Aboubacar Diakité",
+    "pos": "FW",
+    "matchs": 7,
+    "buts": 0,
+    "ar": ""
+   },
+   {
+    "fr": "Youssef Abdelli",
+    "titre": "Youssef Abdelli",
+    "pos": "FW",
+    "matchs": 6,
+    "buts": 0,
+    "ar": "يوسف العبدلي"
+   },
+   {
+    "fr": "Kebba Sowe",
+    "titre": "Kebba Sowe",
+    "pos": "FW",
+    "matchs": 4,
+    "buts": 1,
+    "ar": ""
+   },
+   {
+    "fr": "Rayen Hamrouni",
+    "titre": "Rayen Hamrouni",
+    "pos": "FW",
+    "matchs": 3,
+    "buts": 0,
+    "ar": ""
+   }
+  ]
+ }
+]

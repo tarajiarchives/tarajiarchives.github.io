@@ -1,0 +1,8 @@
+competition_id;sport_id;nom;nom_ar;niveau;type;organisateur;debut
+TUN-L1;FOOT;Championnat de Tunisie – Ligue 1;الرابطة المحترفة الأولى;National;Championnat;FTF / LNFP;1955
+TUN-COUPE;FOOT;Coupe de Tunisie;كأس تونس;National;Coupe;FTF;1956
+CAF-CL;FOOT;Ligue des champions de la CAF;دوري أبطال إفريقيا;Continental;Coupe;CAF;1964
+CAF-CC;FOOT;Coupe de la Confédération;كأس الكونفدرالية الإفريقية;Continental;Coupe;CAF;2004
+CAF-CWC;FOOT;Coupe d'Afrique des vainqueurs de coupe;كأس الكؤوس الإفريقية;Continental;Coupe;CAF;1975
+CAF-CUP;FOOT;Coupe de la CAF;كأس الاتحاد الإفريقي;Continental;Coupe;CAF;1992
+CAF-SC;FOOT;Supercoupe de la CAF;كأس السوبر الإفريقي;Continental;Supercoupe;CAF;1993

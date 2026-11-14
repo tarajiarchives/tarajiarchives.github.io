@@ -1,0 +1,31 @@
+/* Taraji Archives — réglages propres à la version arabe */
+:root {
+  --display: "Cairo", "Noto Kufi Arabic", "Big Shoulders Display", sans-serif;
+  --body: "Noto Naskh Arabic", "Amiri", "Public Sans", serif;
+}
+html[lang=ar] body { font-family: var(--body); line-height: 1.85; }
+html[lang=ar] h1, html[lang=ar] h2, html[lang=ar] h3, html[lang=ar] h4,
+html[lang=ar] .kicker, html[lang=ar] nav, html[lang=ar] button, html[lang=ar] .btn,
+html[lang=ar] .tabbar, html[lang=ar] th, html[lang=ar] label { font-family: var(--display); }
+html[lang=ar] h1, html[lang=ar] h2, html[lang=ar] h3 { line-height: 1.45; }
+html[lang=ar] * { letter-spacing: 0 !important; }
+html[lang=ar] input, html[lang=ar] select, html[lang=ar] textarea { font-family: var(--display); }
+/* Les éléments de marque et le code restent en latin, de gauche à droite */
+html[lang=ar] .ta-brand, html[lang=ar] code, html[lang=ar] pre, html[lang=ar] .ltr { direction: ltr; unicode-bidi: isolate; }
+html[lang=ar] .ta-brand { font-family: "Big Shoulders Display", sans-serif; }
+html[lang=ar] td, html[lang=ar] .num { font-variant-numeric: tabular-nums; }
+/* Citation d'archive : texte original en français, sous la traduction */
+.vo { display: block; margin-top: .5em; padding: .45em .8em; border-inline-start: 3px solid var(--line, #d8cbb0);
+  font: italic 400 .86em/1.6 "Public Sans", system-ui, sans-serif; color: var(--stone, #6b6256); direction: ltr; text-align: left; }
+/* Bouton de langue */
+.lang-sw { display: inline-flex; align-items: center; justify-content: center; min-width: 40px; height: 32px; padding: 0 10px;
+  margin-inline-start: auto; border: 1.5px solid currentColor; border-radius: 999px; font: 700 14px/1 "Cairo", "Public Sans", sans-serif;
+  text-decoration: none; color: inherit; opacity: .9; white-space: nowrap; }
+.lang-sw:hover { opacity: 1; }
+.lang-sw[lang=fr] { font-family: "Public Sans", sans-serif; font-size: 13px; }
+.lang-sw .ls-s { display: none; }
+@media (max-width: 420px) { .lang-sw { min-width: 34px; height: 30px; padding: 0 8px; flex: none; } .lang-sw .ls-l { display: none; } .lang-sw .ls-s { display: inline; } header.ta-bar { column-gap: 8px !important; } }
+@media (max-width: 350px) { header.ta-bar .ta-brand { font-size: .88em; } header.ta-bar .ta-brand img { width: 32px; height: 32px; } }
+/* évite le flash de texte français produit par les scripts */
+html[lang=ar]:not(.ar-ready) [data-ar-wait] { visibility: hidden; }
+html[lang=ar] .sf-chip b { direction: rtl; }

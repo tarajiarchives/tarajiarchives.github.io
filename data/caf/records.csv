@@ -1,0 +1,47 @@
+record_id;categorie;libelle;valeur;unite;detenteurs;detail;etabli_en;derniere_evolution;derniere_evolution_type
+titres;Palmarès;Le plus de titres;12;titres;al-ahly;;2008;2008;battu
+finales;Palmarès;Le plus de finales disputées;17;finales;al-ahly;;2008;2008;battu
+titres_consecutifs;Palmarès;Le plus de titres consécutifs;2;titres;al-ahly | enyimba | esperance-tunis | tp-mazembe;;1968;2018-19;égalé
+participations;Palmarès;Le plus de participations;41;éditions;al-hilal-omdurman;;2012;2012;battu
+participations_consecutives;Palmarès;Le plus de participations consécutives;24;éditions;al-hilal-omdurman;;2026-27;2026-27;battu
+poules;Palmarès;Le plus de phases de poules disputées;24;phases de poules;esperance-tunis;;2026-27;2026-27;battu
+titres_pays;Palmarès;Le pays le plus titré;19;titres;Égypte;;1993;1993;battu
+matchs;Toute l'histoire;Le plus de matchs joués;361;matchs;al-ahly;;2011;2011;battu
+victoires;Toute l'histoire;Le plus de victoires;188;victoires;al-ahly;;2012;2012;battu
+buts;Toute l'histoire;Le plus de buts marqués;575;buts;al-ahly;;2012;2012;battu
+ecart_match;Matchs;La plus large victoire;10;buts d'écart;dh-el-jadida | mamelodi-sundowns;DH El Jadida 10-0 Benfica (2018, premier tour) / Mamelodi Sundowns 11-1 Côte d'Or (2019-20, deuxième tour);2018;2019-20;égalé
+buts_match;Matchs;Le match le plus prolifique;12;buts;;Mamelodi Sundowns 11-1 Côte d'Or (2019-20, deuxième tour);2019-20;2019-20;battu
+ecart_confrontation;Matchs;Le plus large score cumulé sur un double match;15;buts d'écart;mamelodi-sundowns;Côte d'Or 1-16 Mamelodi Sundowns (2019-20, deuxième tour);2019-20;2019-20;battu
+ecart_finale;Matchs;La plus large victoire en finale;5;buts d'écart;tp-mazembe | tp-mazembe;TP Mazembe 5-0 Etoile Filante (1968, finale) / TP Mazembe 5-0 Espérance de Tunis (2010, finale);1968;2010;égalé
+buts_edition;Sur une édition;Le plus de buts marqués par un club sur une édition;37;buts;mamelodi-sundowns | pyramids;2022-23 / 2024-25;2022-23;2024-25;égalé
+victoires_edition;Sur une édition;Le plus de victoires d'un club sur une édition;11;victoires;al-ahly;2019-20;2019-20;2019-20;battu
+points_poules;Sur une édition;Le plus de points en phase de poules;16;points;mamelodi-sundowns | raja-casablanca | pyramids;2021-22 / 2022-23 / 2025-26;2021-22;2025-26;égalé
+serie_invaincu;Séries;La plus longue série sans défaite;26;matchs;al-ahly;de 2022-23 à 2024-25;2024-25;2024-25;battu
+serie_victoires;Séries;La plus longue série de victoires;8;matchs;cara-brazzaville | hafia-fc | nkana-fc;de 1974 à 1975 / de 1977 à 1978 / de 1990 à 1990;1975;1990;égalé
+serie_domicile;Séries;La plus longue série sans défaite à domicile;53;matchs;tp-mazembe;de 2009 à 2020-21;2020-21;2020-21;battu
+demis;Palmarès;Le plus de demi-finales disputées;21;demi-finales;al-ahly;;2010;2010;battu
+qualifications;Palmarès;Le plus de doubles confrontations remportées;84;qualifications;al-ahly;;2012;2012;battu
+tab;Palmarès;Le plus de séances de tirs au but gagnées;7;séances;asec-mimosas;;2001;2001;battu
+victoires_dom;Toute l'histoire;Le plus de victoires à domicile;135;victoires;al-ahly;;2010;2010;battu
+victoires_ext;Toute l'histoire;Le plus de victoires à l'extérieur;46;victoires;esperance-tunis;;2025-26;2025-26;battu
+buts_ext;Toute l'histoire;Le plus de buts marqués à l'extérieur;152;buts;esperance-tunis;;2025-26;2025-26;battu
+clean_sheets;Toute l'histoire;Le plus de matchs sans encaisser de but;182;matchs;al-ahly;;2005;2005;battu
+victoires_poules;Toute l'histoire;Le plus de victoires en phase de poules;71;victoires;esperance-tunis;;2010;2010;battu
+victoires_ko;Toute l'histoire;Le plus de victoires en quarts, demies et finales;52;victoires;al-ahly;;2017;2017;battu
+ecart_ext;Matchs;La plus large victoire à l'extérieur;7;buts d'écart;zamalek | mamelodi-sundowns;Dekedda 0-7 Zamalek (2019-20, premier tour) / La Passe 0-7 Mamelodi Sundowns (2022-23, deuxième tour);2019-20;2022-23;égalé
+victoires_ext_edition;Sur une édition;Le plus de victoires à l'extérieur sur une édition;4;victoires;canon-yaounde | nkana-fc | cs-sfaxien | etoile-sahel | orlando-pirates;1980 / 1990 / 2006 / 2007 / 2024-25;1980;2024-25;égalé
+serie_invaincu_ext;Séries;La plus longue série sans défaite à l'extérieur;13;matchs;al-ahly;de 2022-23 à 2024-25;2024-25;2024-25;battu
+serie_victoires_dom;Séries;La plus longue série de victoires à domicile;22;matchs;zamalek;de 1996 à 2005;2005;2005;battu
+serie_victoires_ext;Séries;La plus longue série de victoires à l'extérieur;4;matchs;nkana-fc | dynamos-harare | cs-sfaxien | al-hilal-omdurman;de 1990 à 1990 / de 1995 à 1996 / de 2006 à 2006 / de 2019-20 à 2020-21;1990;2020-21;égalé
+titres_invaincus;Palmarès;Le plus de titres remportés sans la moindre défaite;2;titres;al-ahly | esperance-tunis;2005, 2023-24 / 1994, 2018-19;2018-19;2023-24;égalé
+poules_consecutives;Séries;Le plus de phases de poules consécutives (depuis 1997);11;éditions;al-ahly | esperance-tunis | mamelodi-sundowns;2016 à 2025-26 / 2017 à 2026-27 / 2016 à 2025-26;2024-25;2026-27;égalé
+quarts_consecutifs;Séries;Le plus d'éditions consécutives en quarts de finale ou au-delà;10;éditions;al-ahly | esperance-tunis;2017 à 2025-26 / 2017 à 2025-26;2024-25;2024-25;battu
+demis_consecutives;Séries;Le plus de demi-finales consécutives;6;éditions;al-ahly;2019-20 à 2024-25;2024-25;2024-25;battu
+finales_consecutives;Séries;Le plus de finales consécutives;5;finales;al-ahly;2019-20 à 2023-24;2023-24;2023-24;battu
+points_poules_total;Toute l'histoire;Le plus de points en phase de poules (victoire à 3 points);252;points;esperance-tunis;;2010;2010;battu
+matchs_ko;Toute l'histoire;Le plus de matchs en quarts, demies et finales;105;matchs;al-ahly;;2017;2017;battu
+remontadas;Toute l'histoire;Le plus de qualifications après une défaite au match aller;11;qualifications;al-hilal-omdurman;;2022-23;2022-23;battu
+adversaires_battus;Toute l'histoire;Le plus d'adversaires différents battus;87;clubs;al-ahly;;2011;2011;battu
+pays_battus;Toute l'histoire;Le plus de pays différents battus;34;pays;al-ahly | esperance-tunis; / ;2020-21;2024-25;égalé
+victoires_adversaire;Toute l'histoire;Le plus de victoires contre un même adversaire;11;victoires;al-ahly;Espérance de Tunis;2016;2016;battu
+clean_sheets_edition;Sur une édition;Le plus de matchs sans encaisser de but sur une édition;13;matchs;al-ahly;2023-24;2023-24;2023-24;battu
