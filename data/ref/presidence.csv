@@ -1,0 +1,133 @@
+presidence_id;club_id;president;annee_debut;annee_fin;en_cours;source_id
+esperance-tunis-01;esperance-tunis;Louis Montassier;1919;1919;;WIKI-FR-EST
+esperance-tunis-02;esperance-tunis;Mohamed Malki;1919;1922;;WIKI-FR-EST
+esperance-tunis-03;esperance-tunis;Abdeljelil Zaouche;1922;1923;;WIKI-FR-EST
+esperance-tunis-04;esperance-tunis;Sliman Ben Ali;1923;1925;;WIKI-FR-EST
+esperance-tunis-05;esperance-tunis;Mohamed Zouaoui;1925;1926;;WIKI-FR-EST
+esperance-tunis-06;esperance-tunis;Mustapha Kaak;1926;1930;;WIKI-FR-EST
+esperance-tunis-07;esperance-tunis;Chedly Zouiten;1930;1963;;WIKI-FR-EST
+esperance-tunis-08;esperance-tunis;Mohamed Ben Smaïl;1963;1968;;WIKI-FR-EST
+esperance-tunis-09;esperance-tunis;Ali Zouaoui;1968;1971;;WIKI-FR-EST
+esperance-tunis-10;esperance-tunis;Hassen Belkhodja;1971;1981;;WIKI-FR-EST
+esperance-tunis-11;esperance-tunis;Naceur Knani;1981;1984;;WIKI-FR-EST
+esperance-tunis-12;esperance-tunis;Abdelhamid Achour;1984;1985;;WIKI-FR-EST
+esperance-tunis-13;esperance-tunis;Moncef Zouhir;1985;1986;;WIKI-FR-EST
+esperance-tunis-14;esperance-tunis;Mondher Zenaidi;1986;1987;;WIKI-FR-EST
+esperance-tunis-15;esperance-tunis;Hédi Djilani;1987;1989;;WIKI-FR-EST
+esperance-tunis-16;esperance-tunis;Slim Chiboub;1989;2004;;WIKI-FR-EST
+esperance-tunis-17;esperance-tunis;Aziz Zouhir;2004;2007;;WIKI-FR-EST
+esperance-tunis-18;esperance-tunis;Hamdi Meddeb;2007;;Oui;WIKI-FR-EST
+club-africain-01;club-africain;Béchir Ben Mustapha;1920;1921;;WIKI-FR-CA
+club-africain-02;club-africain;Hadi Ginati;1921;1922;;WIKI-FR-CA
+club-africain-03;club-africain;Béchir Ben Mustapha;1922;1923;;WIKI-FR-CA
+club-africain-04;club-africain;Ouannes Laâjimi;1923;1924;;WIKI-FR-CA
+club-africain-05;club-africain;Hsouna Abdelkefi;1924;1926;;WIKI-FR-CA
+club-africain-06;club-africain;Abdelaziz Ounaies;1926;1927;;WIKI-FR-CA
+club-africain-07;club-africain;Mustapha Sfar;1927;1930;;WIKI-FR-CA
+club-africain-08;club-africain;Abdelaziz Ounaies;1930;1931;;WIKI-FR-CA
+club-africain-09;club-africain;Ali Belhaj;1931;1932;;WIKI-FR-CA
+club-africain-10;club-africain;Abdelaziz Ounaies;1932;1934;;WIKI-FR-CA
+club-africain-11;club-africain;Moncef El Okby;1934;1946;;WIKI-FR-CA
+club-africain-12;club-africain;Salah Aouidj;1946;1950;;WIKI-FR-CA
+club-africain-13;club-africain;Mhammed Mestiri;1950;1953;;WIKI-FR-CA
+club-africain-14;club-africain;Mohamed El Asmi;1953;1954;;WIKI-FR-CA
+club-africain-15;club-africain;Salah Aouidj;1954;1957;;WIKI-FR-CA
+club-africain-16;club-africain;Mohamed El Asmi;1957;1958;;WIKI-FR-CA
+club-africain-17;club-africain;Salah Aouidj;1958;1964;;WIKI-FR-CA
+club-africain-18;club-africain;Abdelaziz Lasram;1964;1966;;WIKI-FR-CA
+club-africain-19;club-africain;Mahmoud Mestiri;1966;1967;;WIKI-FR-CA
+club-africain-20;club-africain;Fathi Zouhir;1967;1970;;WIKI-FR-CA
+club-africain-21;club-africain;Abdeljelil Mehiri;1970;1971;;WIKI-FR-CA
+club-africain-22;club-africain;Abdelaziz Lasram;1971;1977;;WIKI-FR-CA
+club-africain-23;club-africain;Farid Mokhtar;1977;1980;;WIKI-FR-CA
+club-africain-24;club-africain;Ridha Azzabi;1980;1981;;WIKI-FR-CA
+club-africain-25;club-africain;Farid Mokhtar;1981;1986;;WIKI-FR-CA
+club-africain-26;club-africain;Mahmoud Mestiri;1986;1987;;WIKI-FR-CA
+club-africain-27;club-africain;Ridha Azzabi;1987;1988;;WIKI-FR-CA
+club-africain-28;club-africain;Hamadi Bousbiaâ;1988;1990;;WIKI-FR-CA
+club-africain-29;club-africain;Farid Abbes;1990;1991;;WIKI-FR-CA
+club-africain-30;club-africain;Ridha Azzabi;1991;1992;;WIKI-FR-CA
+club-africain-31;club-africain;Chérif Bellamine;1992;1993;;WIKI-FR-CA
+club-africain-32;club-africain;Hamadi Bousbiaâ;1993;1994;;WIKI-FR-CA
+club-africain-33;club-africain;Hammouda Ben Ammar;1994;1996;;WIKI-FR-CA
+club-africain-34;club-africain;Saïd Néji;1996;1997;;WIKI-FR-CA
+club-africain-35;club-africain;Chérif Bellamine;1997;2000;;WIKI-FR-CA
+club-africain-36;club-africain;Farid Abbes;2000;2002;;WIKI-FR-CA
+club-africain-37;club-africain;Chérif Bellamine;2002;2005;;WIKI-FR-CA
+club-africain-38;club-africain;Kamel Idir;2005;2010;;WIKI-FR-CA
+club-africain-39;club-africain;Jamel Atrous;2010;2010;;WIKI-FR-CA
+club-africain-40;club-africain;Chérif Bellamine;2010;2010;;WIKI-FR-CA
+club-africain-41;club-africain;Jamel Atrous;2011;2012;;WIKI-FR-CA
+club-africain-42;club-africain;Slim Riahi;2012;2017;;WIKI-FR-CA
+club-africain-43;club-africain;Marwen Hamoudia;2017;2018;;WIKI-FR-CA
+club-africain-44;club-africain;Abdessalem Younsi;2018;2021;;WIKI-FR-CA
+club-africain-45;club-africain;Youssef El Almi;2021;2024;;WIKI-FR-CA
+club-africain-46;club-africain;Haykel Dkhil;2024;2025;;WIKI-FR-CA
+club-africain-47;club-africain;Mohsen Trabelsi;2025;;Oui;WIKI-FR-CA
+etoile-sahel-01;etoile-sahel;Chedly Boujemla;1925;1926;;WIKI-FR-ESS
+etoile-sahel-02;etoile-sahel;Ali Laârbi;1926;1927;;WIKI-FR-ESS
+etoile-sahel-03;etoile-sahel;Younès Bouraoui;1927;1929;;WIKI-FR-ESS
+etoile-sahel-04;etoile-sahel;Ali Laâdhari;1929;1932;;WIKI-FR-ESS
+etoile-sahel-05;etoile-sahel;M'hammed Maârouf;1932;1935;;WIKI-FR-ESS
+etoile-sahel-06;etoile-sahel;Hamed Akacha;1935;1944;;WIKI-FR-ESS
+etoile-sahel-07;etoile-sahel;M'hamed Ghachem;1944;1953;;WIKI-FR-ESS
+etoile-sahel-08;etoile-sahel;Sadok Mellouli;1953;1954;;WIKI-FR-ESS
+etoile-sahel-09;etoile-sahel;Abdelhamid Sakka;1954;1956;;WIKI-FR-ESS
+etoile-sahel-10;etoile-sahel;Ali Driss;1956;1959;;WIKI-FR-ESS
+etoile-sahel-11;etoile-sahel;Mohamed Atoui;1959;1960;;WIKI-FR-ESS
+etoile-sahel-12;etoile-sahel;Ali Driss;1960;1961;;WIKI-FR-ESS
+etoile-sahel-13;etoile-sahel;Hamed Karoui;1961;1981;;WIKI-FR-ESS
+etoile-sahel-14;etoile-sahel;Abdeljelil Bouraoui;1981;1984;;WIKI-FR-ESS
+etoile-sahel-15;etoile-sahel;Hamadi Mestiri;1984;1988;;WIKI-FR-ESS
+etoile-sahel-16;etoile-sahel;Abdeljelil Bouraoui;1988;1990;;WIKI-FR-ESS
+etoile-sahel-17;etoile-sahel;Hamadi Mestiri;1990;1993;;WIKI-FR-ESS
+etoile-sahel-18;etoile-sahel;Othman Jenayah;1993;2006;;WIKI-FR-ESS
+etoile-sahel-19;etoile-sahel;Moez Driss;2006;2009;;WIKI-FR-ESS
+etoile-sahel-20;etoile-sahel;Hamed Kammoun;2009;2011;;WIKI-FR-ESS
+etoile-sahel-21;etoile-sahel;Hafedh Hmaied;2011;2012;;WIKI-FR-ESS
+etoile-sahel-22;etoile-sahel;Ridha Charfeddine;2012;2021;;WIKI-FR-ESS
+etoile-sahel-23;etoile-sahel;Maher Karoui;2021;2022;;WIKI-FR-ESS
+etoile-sahel-24;etoile-sahel;Othman Jenayah;2022;2024;;WIKI-FR-ESS
+etoile-sahel-25;etoile-sahel;Zoubaier Baya;2024;2025;;WIKI-FR-ESS
+etoile-sahel-26;etoile-sahel;Foued Kacem;2025;2026;;WIKI-FR-ESS
+etoile-sahel-27;etoile-sahel;Karim Akrout;2026;;Oui;WIKI-FR-ESS
+cs-sfaxien-01;cs-sfaxien;Zouhair Ayadi;1928;1931;;WIKI-FR-CSS
+cs-sfaxien-02;cs-sfaxien;Ali Cherif;1931;1932;;WIKI-FR-CSS
+cs-sfaxien-03;cs-sfaxien;Messaoud Ben Saad;1932;1934;;WIKI-FR-CSS
+cs-sfaxien-04;cs-sfaxien;Ahmed Bouslama;1934;1936;;WIKI-FR-CSS
+cs-sfaxien-05;cs-sfaxien;Abderrahman Aloulou;1936;1938;;WIKI-FR-CSS
+cs-sfaxien-06;cs-sfaxien;Mohamed Elloumi;1938;1946;;WIKI-FR-CSS
+cs-sfaxien-07;cs-sfaxien;Habib Meziou;1946;1948;;WIKI-FR-CSS
+cs-sfaxien-08;cs-sfaxien;Abdelkader Jemal;1948;1950;;WIKI-FR-CSS
+cs-sfaxien-09;cs-sfaxien;Abdelaziz Hammami;1950;1951;;WIKI-FR-CSS
+cs-sfaxien-10;cs-sfaxien;Tahar Elleuch;1951;1953;;WIKI-FR-CSS
+cs-sfaxien-11;cs-sfaxien;Tahar Gargouri;1953;1954;;WIKI-FR-CSS
+cs-sfaxien-12;cs-sfaxien;Mohamed Halouani;1954;1955;;WIKI-FR-CSS
+cs-sfaxien-13;cs-sfaxien;Ahmed Akrout;1955;1956;;WIKI-FR-CSS
+cs-sfaxien-14;cs-sfaxien;Habib Larguech;1956;1961;;WIKI-FR-CSS
+cs-sfaxien-15;cs-sfaxien;Abdesselem Kallel;1961;1964;;WIKI-FR-CSS
+cs-sfaxien-16;cs-sfaxien;Mohamed Driss;1964;1965;;WIKI-FR-CSS
+cs-sfaxien-17;cs-sfaxien;Taoufik Zahaf;1965;1966;;WIKI-FR-CSS
+cs-sfaxien-18;cs-sfaxien;Hédi Bouricha;1966;1967;;WIKI-FR-CSS
+cs-sfaxien-19;cs-sfaxien;Taoufik Zahaf;1967;1970;;WIKI-FR-CSS
+cs-sfaxien-20;cs-sfaxien;Mohamed Mezghanni;1970;1976;;WIKI-FR-CSS
+cs-sfaxien-21;cs-sfaxien;Taoufik Zahaf;1976;1978;;WIKI-FR-CSS
+cs-sfaxien-22;cs-sfaxien;Ismaïl Baklouti;1978;1979;;WIKI-FR-CSS
+cs-sfaxien-23;cs-sfaxien;Hédi Bouricha;1979;1980;;WIKI-FR-CSS
+cs-sfaxien-24;cs-sfaxien;Abdelaziz Ben Abdallah;1980;1988;;WIKI-FR-CSS
+cs-sfaxien-25;cs-sfaxien;Mohamed Aloulou;1988;1989;;WIKI-FR-CSS
+cs-sfaxien-26;cs-sfaxien;Taoufik Zahaf;1989;1990;;WIKI-FR-CSS
+cs-sfaxien-27;cs-sfaxien;Ismaïl Baklouti;1990;1992;;WIKI-FR-CSS
+cs-sfaxien-28;cs-sfaxien;Abdelaziz Ben Abdallah;1992;1996;;WIKI-FR-CSS
+cs-sfaxien-29;cs-sfaxien;Jamel Arem;1996;1998;;WIKI-FR-CSS
+cs-sfaxien-30;cs-sfaxien;Lotfi Abdennadher;1998;2002;;WIKI-FR-CSS
+cs-sfaxien-31;cs-sfaxien;Slaheddine Zahaf;2002;2008;;WIKI-FR-CSS
+cs-sfaxien-32;cs-sfaxien;Moncef Sellami;2008;2010;;WIKI-FR-CSS
+cs-sfaxien-33;cs-sfaxien;Naoufal Zahaf;2010;2011;;WIKI-FR-CSS
+cs-sfaxien-34;cs-sfaxien;Moncef Sellami;2011;2012;;WIKI-FR-CSS
+cs-sfaxien-35;cs-sfaxien;Lotfi Abdennadher;2012;2016;;WIKI-FR-CSS
+cs-sfaxien-36;cs-sfaxien;Moncef Khemakhem;2016;2022;;WIKI-FR-CSS
+cs-sfaxien-37;cs-sfaxien;Mohamed Trabelsi;2022;2023;;WIKI-FR-CSS
+cs-sfaxien-38;cs-sfaxien;Jawhar Lâadhar;2023;2024;;WIKI-FR-CSS
+cs-sfaxien-39;cs-sfaxien;Abdelaziz Makhloufi;2024;2025;;WIKI-FR-CSS
+cs-sfaxien-40;cs-sfaxien;Mehdi Frikha;2025;;Oui;WIKI-FR-CSS

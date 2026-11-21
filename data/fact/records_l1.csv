@@ -1,0 +1,21 @@
+record_id;categorie;libelle;valeur;unite;detenteurs;detail;etabli_en;derniere_evolution;derniere_evolution_type
+titres;Palmarès;Le plus de titres de champion;33;titres;esperance-tunis;;1984-85;1984-85;battu
+titres_consecutifs;Palmarès;Le plus de titres consécutifs;7;titres;esperance-tunis;1997-98 à 2003-04;1999-00;1999-00;battu
+deuxiemes;Palmarès;Le plus de places de 2e;21;saisons;club-africain;;1970-71;1970-71;battu
+podiums;Palmarès;Le plus de podiums;57;podiums;esperance-tunis;;2011-12;2011-12;battu
+podiums_consecutifs;Palmarès;Le plus de podiums consécutifs;21;saisons;esperance-tunis;2005-06 à 2025-26;2001-02;2001-02;battu
+saisons;Palmarès;Le plus de saisons en Ligue 1;71;saisons;club-africain | cs-sfaxien | esperance-tunis; /  / ;2016-17;2016-17;battu
+saisons_consecutives;Palmarès;Le plus de saisons consécutives en Ligue 1;71;saisons;club-africain | cs-sfaxien | esperance-tunis;1955-56 à 2025-26 / 1955-56 à 2025-26 / 1955-56 à 2025-26;2016-17;2016-17;battu
+saisons_invaincues;Palmarès;Le plus de saisons terminées sans la moindre défaite;3;saisons;esperance-tunis;;1999-00;1999-00;battu
+matchs;Toute l'histoire;Le plus de matchs joués;1796;matchs;club-africain | cs-sfaxien; / ;2012-13;2012-13;battu
+victoires;Toute l'histoire;Le plus de victoires;1028;victoires;esperance-tunis;;1993-94;1993-94;battu
+points;Toute l'histoire;Le plus de points (victoire à 3 points);3572;points;esperance-tunis;;1996-97;1996-97;battu
+buts;Toute l'histoire;Le plus de buts marqués;2909;buts;esperance-tunis;;1980-81;1980-81;battu
+pct_points;Sur une saison;Le meilleur pourcentage de points pris sur une saison;90.9;% des points;esperance-tunis;1999-00;1999-00;1999-00;battu
+pct_victoires;Sur une saison;Le meilleur pourcentage de victoires sur une saison;86.4;% de victoires;esperance-tunis;1999-00;1999-00;1999-00;battu
+victoires_saison;Sur une saison;Le plus de victoires sur une saison;24;victoires;etoile-sahel;2015-16;2015-16;2015-16;battu
+attaque;Sur une saison;La meilleure attaque (buts marqués par match);2.71;buts par match;esperance-tunis;1959-60;1959-60;1959-60;battu
+buts_saison;Sur une saison;Le plus de buts marqués sur une saison;66;buts;etoile-sahel;1957-58;1957-58;1957-58;battu
+defense;Sur une saison;La meilleure défense (buts encaissés par match);0.27;buts par match;club-africain;1979-80;1979-80;1979-80;battu
+diff_saison;Sur une saison;La meilleure différence de buts sur une saison;53;buts;esperance-tunis;1997-98;1997-98;1997-98;battu
+ecart_titre;Sur une saison;Le titre gagné avec la plus large avance sur le 2e (victoire à 3 points);19;points;esperance-tunis;1998-99;1998-99;1998-99;battu
