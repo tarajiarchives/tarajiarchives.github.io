@@ -1,0 +1,72 @@
+edition_id;competition_id;saison;nb_equipes;format;pts_victoire;pts_nul;pts_defaite;champion_club_id;source_id
+TUN-L1-1955-56;TUN-L1;1955-56;12;Poule unique;3;2;1;cs-hammam-lif;RSSSF-TUN
+TUN-L1-1956-57;TUN-L1;1956-57;12;Poule unique;3;2;1;stade-tunisien;RSSSF-TUN
+TUN-L1-1957-58;TUN-L1;1957-58;15;Poule unique;3;2;1;etoile-sahel;RSSSF-TUN
+TUN-L1-1958-59;TUN-L1;1958-59;14;Poule unique;3;2;1;esperance-tunis;RSSSF-TUN
+TUN-L1-1959-60;TUN-L1;1959-60;13;Poule unique;3;2;1;esperance-tunis;RSSSF-TUN
+TUN-L1-1960-61;TUN-L1;1960-61;11;Poule unique;3;2;1;stade-tunisien;RSSSF-TUN
+TUN-L1-1961-62;TUN-L1;1961-62;12;Poule unique;3;2;1;stade-tunisien;RSSSF-TUN
+TUN-L1-1962-63;TUN-L1;1962-63;12;Poule unique;3;2;1;etoile-sahel;RSSSF-TUN
+TUN-L1-1963-64;TUN-L1;1963-64;12;Poule unique;3;2;1;club-africain;RSSSF-TUN
+TUN-L1-1964-65;TUN-L1;1964-65;12;Poule unique;3;2;1;stade-tunisien;RSSSF-TUN
+TUN-L1-1965-66;TUN-L1;1965-66;12;Poule unique;3;2;1;etoile-sahel;RSSSF-TUN
+TUN-L1-1966-67;TUN-L1;1966-67;12;Poule unique;3;2;1;club-africain;RSSSF-TUN
+TUN-L1-1967-68;TUN-L1;1967-68;12;Poule unique;3;2;1;sfax-railways;RSSSF-TUN
+TUN-L1-1968-69;TUN-L1;1968-69;14;Poule unique;3;2;1;cs-sfaxien;RSSSF-TUN
+TUN-L1-1969-70;TUN-L1;1969-70;14;Poule unique;3;2;1;esperance-tunis;RSSSF-TUN
+TUN-L1-1970-71;TUN-L1;1970-71;13;Poule unique;3;2;1;cs-sfaxien;RSSSF-TUN
+TUN-L1-1971-72;TUN-L1;1971-72;14;Poule unique;3;2;1;etoile-sahel;RSSSF-TUN
+TUN-L1-1972-73;TUN-L1;1972-73;14;Poule unique;3;2;1;club-africain;RSSSF-TUN
+TUN-L1-1973-74;TUN-L1;1973-74;14;Poule unique;3;2;1;club-africain;RSSSF-TUN
+TUN-L1-1974-75;TUN-L1;1974-75;14;Poule unique;3;2;1;esperance-tunis;RSSSF-TUN
+TUN-L1-1975-76;TUN-L1;1975-76;14;Poule unique;3;2;1;esperance-tunis;RSSSF-TUN
+TUN-L1-1976-77;TUN-L1;1976-77;14;Poule unique;3;2;1;js-kairouan;RSSSF-TUN
+TUN-L1-1977-78;TUN-L1;1977-78;14;Poule unique;3;2;1;cs-sfaxien;RSSSF-TUN
+TUN-L1-1978-79;TUN-L1;1978-79;14;Poule unique;3;2;1;club-africain;RSSSF-TUN
+TUN-L1-1979-80;TUN-L1;1979-80;14;Poule unique;3;2;1;club-africain;RSSSF-TUN
+TUN-L1-1980-81;TUN-L1;1980-81;14;Poule unique;3;2;1;cs-sfaxien;RSSSF-TUN
+TUN-L1-1981-82;TUN-L1;1981-82;14;Poule unique;3;2;1;esperance-tunis;RSSSF-TUN
+TUN-L1-1982-83;TUN-L1;1982-83;14;Poule unique;3;2;1;cs-sfaxien;RSSSF-TUN
+TUN-L1-1983-84;TUN-L1;1983-84;14;Poule unique;3;2;1;ca-bizertin;RSSSF-TUN
+TUN-L1-1984-85;TUN-L1;1984-85;14;Poule unique;3;2;1;esperance-tunis;RSSSF-TUN
+TUN-L1-1985-86;TUN-L1;1985-86;14;Poule unique;3;2;1;etoile-sahel;RSSSF-TUN
+TUN-L1-1986-87;TUN-L1;1986-87;14;Poule unique;4;2;1;etoile-sahel;RSSSF-TUN
+TUN-L1-1987-88;TUN-L1;1987-88;14;Poule unique;4;2;1;esperance-tunis;RSSSF-TUN
+TUN-L1-1988-89;TUN-L1;1988-89;14;Poule unique;4;2;1;esperance-tunis;RSSSF-TUN
+TUN-L1-1989-90;TUN-L1;1989-90;14;Poule unique;4;2;1;club-africain;RSSSF-TUN
+TUN-L1-1990-91;TUN-L1;1990-91;14;Poule unique;4;2;1;esperance-tunis;RSSSF-TUN
+TUN-L1-1991-92;TUN-L1;1991-92;14;Poule unique;4;2;1;club-africain;RSSSF-TUN
+TUN-L1-1992-93;TUN-L1;1992-93;14;Poule unique;2;1;0;esperance-tunis;RSSSF-TUN
+TUN-L1-1993-94;TUN-L1;1993-94;14;Poule unique;2;1;0;esperance-tunis;RSSSF-TUN
+TUN-L1-1994-95;TUN-L1;1994-95;14;Poule unique;2;1;0;cs-sfaxien;RSSSF-TUN
+TUN-L1-1995-96;TUN-L1;1995-96;14;Poule unique;3;1;0;club-africain;RSSSF-TUN
+TUN-L1-1996-97;TUN-L1;1996-97;14;Poule unique;3;1;0;etoile-sahel;RSSSF-TUN
+TUN-L1-1997-98;TUN-L1;1997-98;14;Poule unique;3;1;0;esperance-tunis;RSSSF-TUN
+TUN-L1-1998-99;TUN-L1;1998-99;16;Poules + play-offs;3;1;0;esperance-tunis;RSSSF-TUN
+TUN-L1-1999-00;TUN-L1;1999-00;12;Poule unique;3;1;0;esperance-tunis;RSSSF-TUN
+TUN-L1-2000-01;TUN-L1;2000-01;12;Poule unique;3;1;0;esperance-tunis;RSSSF-TUN
+TUN-L1-2001-02;TUN-L1;2001-02;12;Poule unique;3;1;0;esperance-tunis;RSSSF-TUN
+TUN-L1-2002-03;TUN-L1;2002-03;12;Poule unique;3;1;0;esperance-tunis;RSSSF-TUN
+TUN-L1-2003-04;TUN-L1;2003-04;12;Poule unique;3;1;0;esperance-tunis;RSSSF-TUN
+TUN-L1-2004-05;TUN-L1;2004-05;14;Poule unique;3;1;0;cs-sfaxien;RSSSF-TUN
+TUN-L1-2005-06;TUN-L1;2005-06;14;Poule unique;3;1;0;esperance-tunis;RSSSF-TUN
+TUN-L1-2006-07;TUN-L1;2006-07;14;Poule unique;3;1;0;etoile-sahel;RSSSF-TUN
+TUN-L1-2007-08;TUN-L1;2007-08;14;Poule unique;3;1;0;club-africain;RSSSF-TUN
+TUN-L1-2008-09;TUN-L1;2008-09;14;Poule unique;3;1;0;esperance-tunis;RSSSF-TUN
+TUN-L1-2009-10;TUN-L1;2009-10;14;Poule unique;3;1;0;esperance-tunis;RSSSF-TUN
+TUN-L1-2010-11;TUN-L1;2010-11;14;Poule unique;3;1;0;esperance-tunis;RSSSF-TUN
+TUN-L1-2011-12;TUN-L1;2011-12;16;Poule unique;3;1;0;esperance-tunis;RSSSF-TUN
+TUN-L1-2012-13;TUN-L1;2012-13;16;Poules + play-offs;3;1;0;cs-sfaxien;RSSSF-TUN
+TUN-L1-2013-14;TUN-L1;2013-14;16;Poule unique;3;1;0;esperance-tunis;RSSSF-TUN
+TUN-L1-2014-15;TUN-L1;2014-15;16;Poule unique;3;1;0;club-africain;RSSSF-TUN
+TUN-L1-2015-16;TUN-L1;2015-16;16;Poule unique;3;1;0;etoile-sahel;RSSSF-TUN
+TUN-L1-2016-17;TUN-L1;2016-17;16;Poules + play-offs;3;1;0;esperance-tunis;RSSSF-TUN
+TUN-L1-2017-18;TUN-L1;2017-18;14;Poule unique;3;1;0;esperance-tunis;RSSSF-TUN
+TUN-L1-2018-19;TUN-L1;2018-19;14;Poule unique;3;1;0;esperance-tunis;RSSSF-TUN
+TUN-L1-2019-20;TUN-L1;2019-20;14;Poule unique;3;1;0;esperance-tunis;RSSSF-TUN
+TUN-L1-2020-21;TUN-L1;2020-21;14;Poule unique;3;1;0;esperance-tunis;RSSSF-TUN
+TUN-L1-2021-22;TUN-L1;2021-22;16;Poules + play-offs;3;1;0;esperance-tunis;RSSSF-TUN
+TUN-L1-2022-23;TUN-L1;2022-23;16;Poules + play-offs;3;1;0;etoile-sahel;RSSSF-TUN
+TUN-L1-2023-24;TUN-L1;2023-24;14;Poules + play-offs;3;1;0;esperance-tunis;RSSSF-TUN
+TUN-L1-2024-25;TUN-L1;2024-25;16;Poule unique;3;1;0;esperance-tunis;RSSSF-TUN
+TUN-L1-2025-26;TUN-L1;2025-26;16;Poule unique;3;1;0;club-africain;RSSSF-TUN

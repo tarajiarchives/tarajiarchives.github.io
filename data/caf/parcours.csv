@@ -1,0 +1,2632 @@
+edition;club_id;phase_max;resultat;elimine_par
+2000;tusker;prelim;Tours préliminaires;al-ahly
+2000;red-sea;prelim;Tours préliminaires;tusker
+2000;sc-villa;prelim;Tours préliminaires;saint-george
+2000;saint-george;prelim;Tours préliminaires;vital-o
+2000;vital-o;prelim;Tours préliminaires;al-ahly
+2000;nyasa-big-bullets;prelim;Tours préliminaires;vital-o
+2000;dragons-de-l-oueme;prelim;Tours préliminaires;raja-casablanca
+2000;gambia-ports-authority;prelim;Tours préliminaires;dragons-de-l-oueme
+2000;sporting-praia-cruz;prelim;Tours préliminaires;as-tempete-mocaf
+2000;as-tempete-mocaf;prelim;Tours préliminaires;lobi-stars
+2000;primeiro-de-agosto;prelim;Tours préliminaires;lobi-stars
+2000;akonangui;prelim;Tours préliminaires;primeiro-de-agosto
+2000;horoya-ac;prelim;Tours préliminaires;hearts-of-oak
+2000;sporting-clube-bissau;prelim;Tours préliminaires;horoya-ac
+2000;notwane;prelim;Tours préliminaires;black-africa
+2000;black-africa;prelim;Tours préliminaires;dc-motema-pembe
+2000;vacoas-phoenix-fc;prelim;Tours préliminaires;saint-michel-united
+2000;saint-michel-united;prelim;Tours préliminaires;highlanders
+2000;fortior-mahajanga;prelim;Tours préliminaires;lesotho-defence-force
+2000;lesotho-defence-force;prelim;Tours préliminaires;mamelodi-sundowns
+2000;al-ahly-tripoli;prelim;Tours préliminaires;africa-sports
+2000;olympic-niamey;prelim;Tours préliminaires;al-ahly-tripoli
+2000;apr;prelim;Tours préliminaires;esperance-tunis
+2000;renaissance;prelim;Tours préliminaires;apr
+2000;ferroviario-maputo;prelim;Tours préliminaires;africa-sports
+2000;prisons;prelim;Tours préliminaires;ferroviario-maputo
+2000;raja-casablanca;prelim;Tours préliminaires;jeanne-d-arc
+2000;mc-alger;prelim;Tours préliminaires;jeanne-d-arc
+2000;jeanne-d-arc;poules;Phase de poules;
+2000;al-ahly;poules;Phase de poules;
+2000;esperance-tunis;finale;Finaliste;hearts-of-oak
+2000;asfa-yennenga;prelim;Tours préliminaires;djoliba-ac
+2000;djoliba-ac;prelim;Tours préliminaires;esperance-tunis
+2000;lobi-stars;poules;Phase de poules;
+2000;v-club;prelim;Tours préliminaires;primeiro-de-agosto
+2000;hearts-of-oak;finale;Vainqueur;
+2000;dc-motema-pembe;prelim;Tours préliminaires;hearts-of-oak
+2000;highlanders;prelim;Tours préliminaires;sable-batie
+2000;sable-batie;poules;Phase de poules;
+2000;fc-105;prelim;Tours préliminaires;sable-batie
+2000;us-stade-tamponnaise;prelim;Tours préliminaires;nkana-fc
+2000;nkana-fc;prelim;Tours préliminaires;mamelodi-sundowns
+2000;mamelodi-sundowns;poules;Phase de poules;
+2000;africa-sports;poules;Phase de poules;
+2000;al-hilal-omdurman;prelim;Tours préliminaires;ferroviario-maputo
+2001;real-banjul;prelim;Tours préliminaires;asc-diaraf
+2001;fc-derby;prelim;Tours préliminaires;real-banjul
+2001;inter-de-bom-bom;prelim;Tours préliminaires;sony-de-ela-nguema
+2001;sony-de-ela-nguema;prelim;Tours préliminaires;julius-berger
+2001;fortior-mahajanga;prelim;Tours préliminaires;saint-michel-united
+2001;saint-michel-united;prelim;Tours préliminaires;al-ahly
+2001;red-sea;prelim;Tours préliminaires;al-ahly
+2001;tourbillon;prelim;Tours préliminaires;red-sea
+2001;asdr-fatima;prelim;Tours préliminaires;tp-mazembe
+2001;rayon-sport;prelim;Tours préliminaires;asdr-fatima
+2001;as-marsouins;prelim;Tours préliminaires;saint-michel-united
+2001;highlanders-eswatini;prelim;Tours préliminaires;as-marsouins
+2001;mangasport;prelim;Tours préliminaires;usfa
+2001;usfa;prelim;Tours préliminaires;raja-casablanca
+2001;asc-diaraf;prelim;Tours préliminaires;asec-mimosas
+2001;asec-mimosas;poules;Phase de poules;
+2001;stade-malien;prelim;Tours préliminaires;asec-mimosas
+2001;julius-berger;poules;Phase de poules;
+2001;sc-villa;prelim;Tours préliminaires;julius-berger
+2001;vital-o;prelim;Tours préliminaires;sc-villa
+2001;al-ahly;finale;Vainqueur;
+2001;esperance-tunis;demis;Demi-finaliste;al-ahly
+2001;js-tenere;prelim;Tours préliminaires;esperance-tunis
+2001;saint-george;prelim;Tours préliminaires;tusker
+2001;tusker;prelim;Tours préliminaires;esperance-tunis
+2001;young-africans;prelim;Tours préliminaires;mamelodi-sundowns
+2001;highlanders;prelim;Tours préliminaires;young-africans
+2001;mamelodi-sundowns;finale;Finaliste;al-ahly
+2001;costa-do-sol;prelim;Tours préliminaires;mamelodi-sundowns
+2001;cr-belouizdad;poules;Phase de poules;
+2001;al-ahly-tripoli;prelim;Tours préliminaires;cr-belouizdad
+2001;al-merreikh;prelim;Tours préliminaires;cr-belouizdad
+2001;power-dynamos;prelim;Tours préliminaires;al-merreikh
+2001;raja-casablanca;prelim;Tours préliminaires;tp-mazembe
+2001;tp-mazembe;poules;Phase de poules;
+2001;hearts-of-oak;prelim;Tours préliminaires;etoile-du-congo
+2001;etoile-du-congo;prelim;Tours préliminaires;petro-de-luanda
+2001;fovu-de-baham;prelim;Tours préliminaires;petro-de-luanda
+2001;petro-de-luanda;demis;Demi-finaliste;mamelodi-sundowns
+2002;stade-olymp-de-l-emyrne;prelim;Tours préliminaires;costa-do-sol
+2002;olympique-de-moka;prelim;Tours préliminaires;stade-olymp-de-l-emyrne
+2002;costa-do-sol;poules;Phase de poules;
+2002;prince-louis-fc;prelim;Tours préliminaires;costa-do-sol
+2002;hintsa-fc;prelim;Tours préliminaires;apr
+2002;apr;prelim;Tours préliminaires;zamalek
+2002;red-star;prelim;Tours préliminaires;simba-sc
+2002;simba-sc;prelim;Tours préliminaires;nkana-fc
+2002;wallidan;prelim;Tours préliminaires;raja-casablanca
+2002;horoya-ac;prelim;Tours préliminaires;wallidan
+2002;tourbillon;prelim;Tours préliminaires;esperance-tunis
+2002;dynamic-togolais;prelim;Tours préliminaires;tourbillon
+2002;olympique-real;prelim;Tours préliminaires;akonangui
+2002;akonangui;prelim;Tours préliminaires;al-medina
+2002;mogoditshane-fighters;prelim;Tours préliminaires;lesotho-defence-force
+2002;lesotho-defence-force;prelim;Tours préliminaires;tp-mazembe
+2002;petro-de-luanda;prelim;Tours préliminaires;stade-olymp-de-l-emyrne
+2002;highlanders;prelim;Tours préliminaires;costa-do-sol
+2002;asec-mimosas;demis;Demi-finaliste;raja-casablanca
+2002;fc-105;prelim;Tours préliminaires;asec-mimosas
+2002;enyimba;prelim;Tours préliminaires;asec-mimosas
+2002;etoile-filante;prelim;Tours préliminaires;enyimba
+2002;zamalek;finale;Vainqueur;
+2002;nkana-fc;prelim;Tours préliminaires;zamalek
+2002;raja-casablanca;finale;Finaliste;zamalek
+2002;cotonsport-garoua;prelim;Tours préliminaires;etoile-du-congo
+2002;etoile-du-congo;prelim;Tours préliminaires;raja-casablanca
+2002;esperance-tunis;poules;Phase de poules;
+2002;al-medina;prelim;Tours préliminaires;esperance-tunis
+2002;hearts-of-oak;prelim;Tours préliminaires;stade-malien
+2002;stade-malien;prelim;Tours préliminaires;jeanne-d-arc
+2002;cr-belouizdad;prelim;Tours préliminaires;jeanne-d-arc
+2002;jeanne-d-arc;poules;Phase de poules;
+2002;tp-mazembe;demis;Demi-finaliste;zamalek
+2002;orlando-pirates;prelim;Tours préliminaires;tp-mazembe
+2002;ss-saint-louisienne;prelim;Tours préliminaires;orlando-pirates
+2002;al-merreikh;prelim;Tours préliminaires;al-ahly
+2002;sc-villa;prelim;Tours préliminaires;al-merreikh
+2002;al-ahly;poules;Phase de poules;
+2003;wallidan;prelim;Tours préliminaires;usm-alger
+2003;dragons-de-l-oueme;prelim;Tours préliminaires;wallidan
+2003;fc-nouadhibou;prelim;Tours préliminaires;as-niamey
+2003;as-niamey;prelim;Tours préliminaires;asec-mimosas
+2003;sony-de-ela-nguema;prelim;Tours préliminaires;as-douanes-togo
+2003;as-douanes-togo;prelim;Tours préliminaires;hearts-of-oak
+2003;sc-villa;prelim;Tours préliminaires;atletico-sport-aviacao
+2003;muzinga;prelim;Tours préliminaires;sc-villa
+2003;saint-george;prelim;Tours préliminaires;rayon-sport
+2003;rayon-sport;prelim;Tours préliminaires;esperance-tunis
+2003;as-adema;prelim;Tours préliminaires;ss-saint-louisienne
+2003;ss-saint-louisienne;prelim;Tours préliminaires;highlanders
+2003;red-sea;prelim;Tours préliminaires;nzoia-sugar
+2003;nzoia-sugar;prelim;Tours préliminaires;zamalek
+2003;simba-sc;poules;Phase de poules;
+2003;botswana-defence-force;prelim;Tours préliminaires;simba-sc
+2003;la-passe;prelim;Tours préliminaires;as-port-louis-2000
+2003;as-port-louis-2000;prelim;Tours préliminaires;ismaily
+2003;usm-alger;demis;Demi-finaliste;enyimba
+2003;stade-malien;prelim;Tours préliminaires;usm-alger
+2003;as-police-brazzaville;prelim;Tours préliminaires;stade-malien
+2003;canon-yaounde;poules;Phase de poules;
+2003;al-merreikh;prelim;Tours préliminaires;canon-yaounde
+2003;fc-saint-eloi-lupopo;prelim;Tours préliminaires;canon-yaounde
+2003;usm-libreville;prelim;Tours préliminaires;fc-saint-eloi-lupopo
+2003;asec-mimosas;poules;Phase de poules;
+2003;hus-agadir;prelim;Tours préliminaires;asec-mimosas
+2003;al-ittihad-tripoli;prelim;Tours préliminaires;hus-agadir
+2003;hearts-of-oak;prelim;Tours préliminaires;atletico-sport-aviacao
+2003;atletico-sport-aviacao;poules;Phase de poules;
+2003;jeanne-d-arc;prelim;Tours préliminaires;enyimba
+2003;asfa-yennenga;prelim;Tours préliminaires;jeanne-d-arc
+2003;enyimba;finale;Vainqueur;
+2003;satellite-fc;prelim;Tours préliminaires;enyimba
+2003;esperance-tunis;demis;Demi-finaliste;ismaily
+2003;highlanders;prelim;Tours préliminaires;esperance-tunis
+2003;zamalek;prelim;Tours préliminaires;simba-sc
+2003;santos;prelim;Tours préliminaires;simba-sc
+2003;ismaily;finale;Finaliste;enyimba
+2003;zanaco;prelim;Tours préliminaires;ismaily
+2003;ferroviario-maputo;prelim;Tours préliminaires;as-port-louis-2000
+2004;us-stade-tamponnaise;prelim;Tours préliminaires;as-port-louis-2000
+2004;as-port-louis-2000;prelim;Tours préliminaires;supersport-united
+2004;supersport-united;poules;Phase de poules;
+2004;civics-cc;prelim;Tours préliminaires;supersport-united
+2004;saint-george;prelim;Tours préliminaires;al-hilal-omdurman
+2004;al-hilal-omdurman;prelim;Tours préliminaires;supersport-united
+2004;ecoredipharm;prelim;Tours préliminaires;saint-michel-united
+2004;saint-michel-united;prelim;Tours préliminaires;orlando-pirates
+2004;matlama-fc;prelim;Tours préliminaires;orlando-pirates
+2004;orlando-pirates;prelim;Tours préliminaires;nyasa-big-bullets
+2004;simba-sc;prelim;Tours préliminaires;zanaco
+2004;zanaco;prelim;Tours préliminaires;nyasa-big-bullets
+2004;nyasa-big-bullets;poules;Phase de poules;
+2004;sc-villa;prelim;Tours préliminaires;nyasa-big-bullets
+2004;apr;prelim;Tours préliminaires;africa-sports
+2004;anseba-sc;prelim;Tours préliminaires;apr
+2004;dragons-de-l-oueme;prelim;Tours préliminaires;as-douanes-togo
+2004;as-douanes-togo;prelim;Tours préliminaires;africa-sports
+2004;al-ittihad-tripoli;prelim;Tours préliminaires;sahel-sc
+2004;sahel-sc;prelim;Tours préliminaires;esperance-tunis
+2004;saint-michel-d-ouenze;prelim;Tours préliminaires;cotonsport-garoua
+2004;us-bitam;prelim;Tours préliminaires;saint-michel-d-ouenze
+2004;asfa-yennenga;prelim;Tours préliminaires;usm-alger
+2004;julius-berger;prelim;Tours préliminaires;asfa-yennenga
+2004;asante-kotoko;prelim;Tours préliminaires;usm-alger
+2004;as-tempete-mocaf;prelim;Tours préliminaires;asante-kotoko
+2004;armed-forces;prelim;Tours préliminaires;jeanne-d-arc
+2004;jeanne-d-arc;demis;Demi-finaliste;etoile-sahel
+2004;as-vita-club;prelim;Tours préliminaires;canon-yaounde
+2004;ulinzi-stars;prelim;Tours préliminaires;as-vita-club
+2004;stade-malien;prelim;Tours préliminaires;hearts-of-oak
+2004;hearts-of-oak;prelim;Tours préliminaires;etoile-sahel
+2004;atletico-sport-aviacao;prelim;Tours préliminaires;hearts-of-oak
+2004;sc-cilu;prelim;Tours préliminaires;atletico-sport-aviacao
+2004;hus-agadir;prelim;Tours préliminaires;etoile-sahel
+2004;asc-nasr-de-sebkha;prelim;Tours préliminaires;hus-agadir
+2004;asfag;prelim;Tours préliminaires;asc-diaraf
+2004;asc-diaraf;prelim;Tours préliminaires;enyimba
+2004;amazulu;prelim;Tours préliminaires;petro-de-luanda
+2004;maxaquene;prelim;Tours préliminaires;amazulu
+2004;petro-de-luanda;prelim;Tours préliminaires;enyimba
+2004;atletico-malabo;prelim;Tours préliminaires;petro-de-luanda
+2004;al-ahly;prelim;Tours préliminaires;al-hilal-omdurman
+2004;zamalek;prelim;Tours préliminaires;apr
+2004;africa-sports;poules;Phase de poules;
+2004;esperance-tunis;demis;Demi-finaliste;enyimba
+2004;cotonsport-garoua;prelim;Tours préliminaires;esperance-tunis
+2004;usm-alger;poules;Phase de poules;
+2004;asec-mimosas;prelim;Tours préliminaires;asante-kotoko
+2004;raja-casablanca;prelim;Tours préliminaires;jeanne-d-arc
+2004;canon-yaounde;prelim;Tours préliminaires;jeanne-d-arc
+2004;etoile-sahel;finale;Finaliste;enyimba
+2004;enyimba;finale;Vainqueur;
+2005;asante-kotoko;prelim;Tours préliminaires;as-far
+2005;wallidan;prelim;Tours préliminaires;asante-kotoko
+2005;as-far;prelim;Tours préliminaires;etoile-sahel
+2005;acs-ksar;prelim;Tours préliminaires;as-far
+2005;djoliba-ac;prelim;Tours préliminaires;as-douanes
+2005;as-douanes;prelim;Tours préliminaires;etoile-sahel
+2005;racing-bafoussam;prelim;Tours préliminaires;africa-sports
+2005;donjo;prelim;Tours préliminaires;racing-bafoussam
+2005;dc-motema-pembe;prelim;Tours préliminaires;raja-casablanca
+2005;rayon-sport;prelim;Tours préliminaires;dc-motema-pembe
+2005;dolphin-fc;prelim;Tours préliminaires;asec-mimosas
+2005;renacimiento-fc;prelim;Tours préliminaires;dolphin-fc
+2005;sagrada-esperanca;prelim;Tours préliminaires;asec-mimosas
+2005;mangasport;prelim;Tours préliminaires;sagrada-esperanca
+2005;atletico-sport-aviacao;prelim;Tours préliminaires;zamalek
+2005;blue-waters;prelim;Tours préliminaires;atletico-sport-aviacao
+2005;tusker;prelim;Tours préliminaires;zamalek
+2005;kmkm;prelim;Tours préliminaires;tusker
+2005;tp-mazembe;prelim;Tours préliminaires;asfa-yennenga
+2005;asfa-yennenga;prelim;Tours préliminaires;ajax-cape-town
+2005;ajax-cape-town;poules;Phase de poules;
+2005;mhlambanyatsi-rovers;prelim;Tours préliminaires;ajax-cape-town
+2005;asc-diaraf;prelim;Tours préliminaires;fello-star-de-labe
+2005;fello-star-de-labe;prelim;Tours préliminaires;ajax-cape-town
+2005;al-hilal-omdurman;prelim;Tours préliminaires;esperance-tunis
+2005;awassa-kenema;prelim;Tours préliminaires;al-hilal-omdurman
+2005;la-passe;prelim;Tours préliminaires;usjf-ravinala
+2005;usjf-ravinala;prelim;Tours préliminaires;kaizer-chiefs
+2005;kaizer-chiefs;prelim;Tours préliminaires;esperance-tunis
+2005;as-port-louis-2000;prelim;Tours préliminaires;kaizer-chiefs
+2005;simba-sc;prelim;Tours préliminaires;enyimba
+2005;ferroviario-nampula;prelim;Tours préliminaires;simba-sc
+2005;caps-united;prelim;Tours préliminaires;red-arrows
+2005;lesotho-defence-force;prelim;Tours préliminaires;caps-united
+2005;red-arrows;prelim;Tours préliminaires;enyimba
+2005;diables-noirs-brazz;prelim;Tours préliminaires;red-arrows
+2005;al-olympique;prelim;Tours préliminaires;usm-alger
+2005;renaissance;prelim;Tours préliminaires;al-olympique
+2005;sc-villa;prelim;Tours préliminaires;al-ahly
+2005;adulis;prelim;Tours préliminaires;sc-villa
+2005;etoile-sahel;finale;Finaliste;al-ahly
+2005;africa-sports;prelim;Tours préliminaires;raja-casablanca
+2005;raja-casablanca;demis;Demi-finaliste;etoile-sahel
+2005;hearts-of-oak;prelim;Tours préliminaires;dolphin-fc
+2005;asec-mimosas;poules;Phase de poules;
+2005;cotonsport-garoua;prelim;Tours préliminaires;atletico-sport-aviacao
+2005;zamalek;demis;Demi-finaliste;al-ahly
+2005;js-kabylie;prelim;Tours préliminaires;fello-star-de-labe
+2005;esperance-tunis;poules;Phase de poules;
+2005;enyimba;poules;Phase de poules;
+2005;usm-alger;prelim;Tours préliminaires;al-ahly
+2005;al-ahly;finale;Vainqueur;
+2006;renacimiento-fc;prelim;Tours préliminaires;al-ahly
+2006;africa-sports;prelim;Tours préliminaires;renacimiento-fc
+2006;stade-malien;prelim;Tours préliminaires;renacimiento-fc
+2006;satellite-fc;prelim;Tours préliminaires;stade-malien
+2006;tusker;prelim;Tours préliminaires;al-ahly
+2006;red-sea;prelim;Tours préliminaires;tusker
+2006;rc-kadiogo;prelim;Tours préliminaires;usm-alger
+2006;usm-alger;prelim;Tours préliminaires;port-autonome
+2006;as-douanes-togo;prelim;Tours préliminaires;port-autonome
+2006;port-autonome;prelim;Tours préliminaires;asec-mimosas
+2006;civics;prelim;Tours préliminaires;asec-mimosas
+2006;sagrada-esperanca;prelim;Tours préliminaires;civics
+2006;east-end-lions;prelim;Tours préliminaires;asec-mimosas
+2006;asec-mimosas;demis;Demi-finaliste;al-ahly
+2006;mbabane-swallows;prelim;Tours préliminaires;orlando-pirates
+2006;orlando-pirates;demis;Demi-finaliste;cs-sfaxien
+2006;as-port-louis-2000;prelim;Tours préliminaires;orlando-pirates
+2006;coin-nord;prelim;Tours préliminaires;as-port-louis-2000
+2006;police;prelim;Tours préliminaires;al-hilal-omdurman
+2006;al-hilal-omdurman;prelim;Tours préliminaires;orlando-pirates
+2006;police-xi;prelim;Tours préliminaires;enugu-rangers
+2006;enugu-rangers;prelim;Tours préliminaires;al-hilal-omdurman
+2006;mangasport;prelim;Tours préliminaires;enyimba
+2006;enyimba;poules;Phase de poules;
+2006;lprc-oilers;prelim;Tours préliminaires;asc-diaraf
+2006;asc-diaraf;prelim;Tours préliminaires;enyimba
+2006;renaissance;prelim;Tours préliminaires;cotonsport-garoua
+2006;cotonsport-garoua;prelim;Tours préliminaires;fc-saint-eloi-lupopo
+2006;fc-saint-eloi-lupopo;prelim;Tours préliminaires;enyimba
+2006;as-police-pointe-noire;prelim;Tours préliminaires;fc-saint-eloi-lupopo
+2006;asdr-fatima;prelim;Tours préliminaires;dc-motema-pembe
+2006;dc-motema-pembe;prelim;Tours préliminaires;cs-sfaxien
+2006;as-fnis;prelim;Tours préliminaires;cs-sfaxien
+2006;cs-sfaxien;finale;Finaliste;al-ahly
+2006;apr;prelim;Tours préliminaires;as-far
+2006;atletico-sport-aviacao;prelim;Tours préliminaires;apr
+2006;aigle-royal-de-la-menoua;prelim;Tours préliminaires;asante-kotoko
+2006;asante-kotoko;poules;Phase de poules;
+2006;la-passe;prelim;Tours préliminaires;ferroviario-maputo
+2006;ferroviario-maputo;prelim;Tours préliminaires;asante-kotoko
+2006;likhopo;prelim;Tours préliminaires;mamelodi-sundowns
+2006;mamelodi-sundowns;prelim;Tours préliminaires;uscafoot
+2006;excelsior;prelim;Tours préliminaires;uscafoot
+2006;uscafoot;prelim;Tours préliminaires;asante-kotoko
+2006;wallidan;prelim;Tours préliminaires;hearts-of-oak
+2006;hearts-of-oak;poules;Phase de poules;
+2006;enppi;prelim;Tours préliminaires;saint-george
+2006;saint-george;prelim;Tours préliminaires;hearts-of-oak
+2006;as-polisi;prelim;Tours préliminaires;etoile-sahel
+2006;civo-united;prelim;Tours préliminaires;as-polisi
+2006;al-ittihad-tripoli;prelim;Tours préliminaires;js-kabylie
+2006;js-kabylie;poules;Phase de poules;
+2006;young-africans;prelim;Tours préliminaires;zanaco
+2006;zanaco;prelim;Tours préliminaires;js-kabylie
+2006;fc-inter-star;prelim;Tours préliminaires;raja-casablanca
+2006;caps-united;prelim;Tours préliminaires;raja-casablanca
+2006;el-ahmedi-fc;prelim;Tours préliminaires;raja-casablanca
+2006;raja-casablanca;prelim;Tours préliminaires;js-kabylie
+2006;al-ahly;finale;Vainqueur;
+2006;as-far;prelim;Tours préliminaires;cs-sfaxien
+2006;etoile-sahel;prelim;Tours préliminaires;hearts-of-oak
+2007;highlanders;prelim;Tours préliminaires;al-ahly
+2007;pamplemousses-sc;prelim;Tours préliminaires;highlanders
+2007;mamelodi-sundowns;prelim;Tours préliminaires;al-ahly
+2007;royal-leopards;prelim;Tours préliminaires;mamelodi-sundowns
+2007;js-saint-pierroise;prelim;Tours préliminaires;desportivo-maputo
+2007;desportivo-maputo;prelim;Tours préliminaires;mamelodi-sundowns
+2007;zamalek;prelim;Tours préliminaires;al-hilal-omdurman
+2007;vital-o;prelim;Tours préliminaires;zamalek
+2007;al-hilal-omdurman;demis;Demi-finaliste;etoile-sahel
+2007;polisi;prelim;Tours préliminaires;al-hilal-omdurman
+2007;asante-kotoko;prelim;Tours préliminaires;gambia-ports-authority
+2007;gambia-ports-authority;prelim;Tours préliminaires;nasarawa-united
+2007;asfa-yennenga;prelim;Tours préliminaires;nasarawa-united
+2007;nasarawa-united;prelim;Tours préliminaires;al-hilal-omdurman
+2007;fello-star-de-labe;prelim;Tours préliminaires;etoile-sahel
+2007;sporting-clube-da-praia;prelim;Tours préliminaires;fello-star-de-labe
+2007;asc-diaraf;prelim;Tours préliminaires;maranatha
+2007;maranatha;prelim;Tours préliminaires;etoile-sahel
+2007;fc-saint-eloi-lupopo;prelim;Tours préliminaires;apr
+2007;apr;prelim;Tours préliminaires;maranatha
+2007;usm-alger;prelim;Tours préliminaires;as-fnis
+2007;as-fnis;prelim;Tours préliminaires;al-ittihad-tripoli
+2007;al-ittihad-tripoli;demis;Demi-finaliste;al-ahly
+2007;mogas-90;prelim;Tours préliminaires;al-ittihad-tripoli
+2007;canon-yaounde;prelim;Tours préliminaires;etoile-du-congo
+2007;etoile-du-congo;prelim;Tours préliminaires;al-ittihad-tripoli
+2007;saint-george;prelim;Tours préliminaires;etoile-du-congo
+2007;super-escom;prelim;Tours préliminaires;saint-george
+2007;wydad-ac;prelim;Tours préliminaires;asec-mimosas
+2007;asc-mauritel-mobile;prelim;Tours préliminaires;wydad-ac
+2007;stade-malien;prelim;Tours préliminaires;wydad-ac
+2007;as-douanes;prelim;Tours préliminaires;
+2007;ocean-boys;prelim;Tours préliminaires;kallon-fc
+2007;kallon-fc;prelim;Tours préliminaires;asec-mimosas
+2007;petro-de-luanda;prelim;Tours préliminaires;young-africans
+2007;civics;prelim;Tours préliminaires;petro-de-luanda
+2007;young-africans;prelim;Tours préliminaires;esperance-tunis
+2007;ajsm;prelim;Tours préliminaires;young-africans
+2007;likhopo;prelim;Tours préliminaires;zanaco
+2007;zanaco;prelim;Tours préliminaires;esperance-tunis
+2007;esperance-tunis;poules;Phase de poules;
+2007;renaissance;prelim;Tours préliminaires;esperance-tunis
+2007;renacimiento-fc;prelim;Tours préliminaires;ashantigold
+2007;ashantigold;prelim;Tours préliminaires;as-far
+2007;tp-mazembe;prelim;Tours préliminaires;as-far
+2007;police-xi;prelim;Tours préliminaires;tp-mazembe
+2007;as-adema;prelim;Tours préliminaires;tp-mazembe
+2007;anse-reunion;prelim;Tours préliminaires;as-adema
+2007;js-kabylie;poules;Phase de poules;
+2007;os-balantas;prelim;Tours préliminaires;js-kabylie
+2007;primeiro-de-agosto;prelim;Tours préliminaires;mangasport
+2007;mangasport;prelim;Tours préliminaires;js-kabylie
+2007;cotonsport-garoua;prelim;Tours préliminaires;js-kabylie
+2007;ura;prelim;Tours préliminaires;cotonsport-garoua
+2007;sewe-sport;prelim;Tours préliminaires;cotonsport-garoua
+2007;mighty-barolle;prelim;Tours préliminaires;sewe-sport
+2007;al-ahly;finale;Finaliste;etoile-sahel
+2007;etoile-sahel;finale;Vainqueur;
+2007;asec-mimosas;poules;Phase de poules;
+2007;as-far;poules;Phase de poules;
+2008;asc-snim;prelim;Tours préliminaires;es-setif
+2008;es-setif;prelim;Tours préliminaires;oc-khouribga
+2008;sporting-clube-bissau;prelim;Tours préliminaires;oc-khouribga
+2008;oc-khouribga;prelim;Tours préliminaires;asec-mimosas
+2008;invincible-eleven;prelim;Tours préliminaires;as-kaloum-star
+2008;as-kaloum-star;prelim;Tours préliminaires;asec-mimosas
+2008;renacimiento-fc;prelim;Tours préliminaires;interclube
+2008;interclube;prelim;Tours préliminaires;zamalek
+2008;as-far;prelim;Tours préliminaires;sporting-clube
+2008;sporting-clube;prelim;Tours préliminaires;interclube
+2008;tonnerre-fc;prelim;Tours préliminaires;africa-sports
+2008;africa-sports;prelim;Tours préliminaires;zamalek
+2008;apr;prelim;Tours préliminaires;zamalek
+2008;zamalek;poules;Phase de poules;
+2008;as-douanes;prelim;Tours préliminaires;etoile-sahel
+2008;cfo;prelim;Tours préliminaires;as-douanes
+2008;costa-do-sol;prelim;Tours préliminaires;dynamos-harare
+2008;ajesaia;prelim;Tours préliminaires;costa-do-sol
+2008;royal-leopards;prelim;Tours préliminaires;dynamos-harare
+2008;dynamos-harare;demis;Demi-finaliste;cotonsport-garoua
+2008;sahel-sc;prelim;Tours préliminaires;
+2008;ashantigold;prelim;Tours préliminaires;js-kabylie
+2008;dc-motema-pembe;prelim;Tours préliminaires;gombe-united
+2008;gombe-united;prelim;Tours préliminaires;cotonsport-garoua
+2008;vital-o;prelim;Tours préliminaires;cotonsport-garoua
+2008;cotonsport-garoua;finale;Finaliste;al-ahly
+2008;fc-105;prelim;Tours préliminaires;tp-mazembe
+2008;hearts-of-oak;prelim;Tours préliminaires;fc-105
+2008;renaissance;prelim;Tours préliminaires;tp-mazembe
+2008;tp-mazembe;poules;Phase de poules;
+2008;stade-malien;prelim;Tours préliminaires;primeiro-de-agosto
+2008;primeiro-de-agosto;prelim;Tours préliminaires;al-ittihad-tripoli
+2008;asc-saloum;prelim;Tours préliminaires;club-africain
+2008;club-africain;prelim;Tours préliminaires;enyimba
+2008;asko-kara;prelim;Tours préliminaires;club-africain
+2008;union-douala;prelim;Tours préliminaires;asko-kara
+2008;simba-sc;prelim;Tours préliminaires;enyimba
+2008;awassa-kenema;prelim;Tours préliminaires;simba-sc
+2008;enyimba;demis;Demi-finaliste;al-ahly
+2008;diables-noirs-brazz;prelim;Tours préliminaires;enyimba
+2008;tusker;prelim;Tours préliminaires;al-tahrir
+2008;al-tahrir;prelim;Tours préliminaires;al-ahly
+2008;us-stade-tamponnaise;prelim;Tours préliminaires;platinum-stars
+2008;saint-michel-united;prelim;Tours préliminaires;us-stade-tamponnaise
+2008;platinum-stars;prelim;Tours préliminaires;al-ahly
+2008;lcs;prelim;Tours préliminaires;platinum-stars
+2008;curepipe-starlight;prelim;Tours préliminaires;mamelodi-sundowns
+2008;coin-nord;prelim;Tours préliminaires;curepipe-starlight
+2008;miembeni-sc;prelim;Tours préliminaires;mamelodi-sundowns
+2008;mamelodi-sundowns;prelim;Tours préliminaires;al-hilal-omdurman
+2008;uganda-revenue-authority;prelim;Tours préliminaires;zesco-united
+2008;zesco-united;prelim;Tours préliminaires;al-hilal-omdurman
+2008;asec-mimosas;poules;Phase de poules;
+2008;etoile-sahel;prelim;Tours préliminaires;dynamos-harare
+2008;js-kabylie;prelim;Tours préliminaires;cotonsport-garoua
+2008;al-ittihad-tripoli;prelim;Tours préliminaires;tp-mazembe
+2008;al-ahly;finale;Vainqueur;
+2008;al-hilal-omdurman;poules;Phase de poules;
+2009;primeiro-de-agosto;prelim;Tours préliminaires;al-hilal-omdurman
+2009;cara-brazzaville;prelim;Tours préliminaires;primeiro-de-agosto
+2009;canon-yaounde;prelim;Tours préliminaires;primeiro-de-agosto
+2009;fc-inter-star;prelim;Tours préliminaires;canon-yaounde
+2009;academie-ny-antsika;prelim;Tours préliminaires;us-stade-tamponnaise
+2009;us-stade-tamponnaise;prelim;Tours préliminaires;al-hilal-omdurman
+2009;as-douanes;prelim;Tours préliminaires;kano-pillars
+2009;ports-authority-sierra-leone;prelim;Tours préliminaires;as-douanes
+2009;kano-pillars;demis;Demi-finaliste;heartland
+2009;elect-sport;prelim;Tours préliminaires;kano-pillars
+2009;young-africans;prelim;Tours préliminaires;al-ahly
+2009;etoile-d-or;prelim;Tours préliminaires;young-africans
+2009;club-africain;prelim;Tours préliminaires;djoliba-ac
+2009;sporting-clube-bafata;prelim;Tours préliminaires;club-africain
+2009;djoliba-ac;prelim;Tours préliminaires;zesco-united
+2009;casa-sport;prelim;Tours préliminaires;djoliba-ac
+2009;zesco-united;poules;Phase de poules;
+2009;mathare-united;prelim;Tours préliminaires;zesco-united
+2009;ferroviario-maputo;prelim;Tours préliminaires;kcca
+2009;kcca;prelim;Tours préliminaires;al-merreikh
+2009;supersport-united;prelim;Tours préliminaires;kcca
+2009;curepipe-starlight;prelim;Tours préliminaires;supersport-united
+2009;al-merreikh;poules;Phase de poules;
+2009;atraco;prelim;Tours préliminaires;al-merreikh
+2009;heartland;finale;Finaliste;tp-mazembe
+2009;black-star;prelim;Tours préliminaires;heartland
+2009;as-far;prelim;Tours préliminaires;heartland
+2009;sporting-clube;prelim;Tours préliminaires;as-far
+2009;dc-motema-pembe;prelim;Tours préliminaires;mangasport
+2009;mangasport;prelim;Tours préliminaires;cotonsport-garoua
+2009;petro-de-luanda;prelim;Tours préliminaires;tp-mazembe
+2009;royal-leopards;prelim;Tours préliminaires;petro-de-luanda
+2009;iz-khemisset;prelim;Tours préliminaires;tp-mazembe
+2009;wallidan;prelim;Tours préliminaires;iz-khemisset
+2009;etoile-filante;prelim;Tours préliminaires;asec-mimosas
+2009;heart-of-lions;prelim;Tours préliminaires;etoile-filante
+2009;monomotapa;poules;Phase de poules;
+2009;miembeni-sc;prelim;Tours préliminaires;monomotapa
+2009;al-ahly-tripoli;prelim;Tours préliminaires;etoile-sahel
+2009;as-police;prelim;Tours préliminaires;al-ahly-tripoli
+2009;aso-chlef;prelim;Tours préliminaires;etoile-sahel
+2009;fello-star-de-labe;prelim;Tours préliminaires;aso-chlef
+2009;stade-centrafricain;prelim;Tours préliminaires;akonangui
+2009;akonangui;prelim;Tours préliminaires;
+2009;al-hilal-omdurman;demis;Demi-finaliste;tp-mazembe
+2009;al-ahly;prelim;Tours préliminaires;kano-pillars
+2009;africa-sports;prelim;Tours préliminaires;zesco-united
+2009;al-ittihad-tripoli;prelim;Tours préliminaires;al-merreikh
+2009;cotonsport-garoua;prelim;Tours préliminaires;heartland
+2009;tp-mazembe;finale;Vainqueur;
+2009;asante-kotoko;prelim;Tours préliminaires;iz-khemisset
+2009;asec-mimosas;prelim;Tours préliminaires;monomotapa
+2009;ajax-cape-town;prelim;Tours préliminaires;monomotapa
+2009;js-kabylie;prelim;Tours préliminaires;al-ahly-tripoli
+2009;etoile-sahel;poules;Phase de poules;
+1964-65;cotton-factory-club;demis;Demi-finaliste;real-republikans
+1964-65;al-hilal-omdurman;prelim;Tours préliminaires;cotton-factory-club
+1964-65;tersana;prelim;Tours préliminaires;cotton-factory-club
+1964-65;stade-malien;finale;Finaliste;oryx-douala
+1964-65;espoir-de-saint-louis;prelim;Tours préliminaires;stade-malien
+1964-65;sily-club-de-kindia;prelim;Tours préliminaires;stade-malien
+1964-65;invincible-eleven;prelim;Tours préliminaires;sily-club-de-kindia
+1964-65;asec-mimosas;prelim;Tours préliminaires;stade-malien
+1964-65;etoile-filante-togo;prelim;Tours préliminaires;asec-mimosas
+1964-65;as-porto-novo;prelim;Tours préliminaires;asec-mimosas
+1964-65;unknown-club;prelim;Tours préliminaires;as-porto-novo
+1964-65;oryx-douala;finale;Vainqueur;
+1964-65;real-republikans;demis;Demi-finaliste;oryx-douala
+1966;conakry-i;quarts;Quart de finaliste;as-real-bamako
+1966;us-goree;prelim;Tours préliminaires;conakry-i
+1966;diables-noirs-brazz;quarts;Quart de finaliste;al-hilal-omdurman
+1966;dragons-kinshasa;prelim;Tours préliminaires;diables-noirs-brazz
+1966;ethio-cement;prelim;Tours préliminaires;al-hilal-omdurman
+1966;al-hilal-omdurman;demis;Demi-finaliste;stade-d-abidjan
+1966;etoile-filante;prelim;Tours préliminaires;stade-d-abidjan
+1966;asante-kotoko;quarts;Quart de finaliste;stade-d-abidjan
+1966;stade-d-abidjan;finale;Vainqueur;
+1966;invincible-eleven;prelim;Tours préliminaires;as-real-bamako
+1966;as-real-bamako;finale;Finaliste;stade-d-abidjan
+1966;oryx-douala;demis;Demi-finaliste;as-real-bamako
+1967;as-fonctionnaires;prelim;Tours préliminaires;hafia-fc
+1967;augustinians;prelim;Tours préliminaires;as-fonctionnaires
+1967;secteur-6;prelim;Tours préliminaires;al-ittihad-tripoli
+1967;al-ittihad-tripoli;quarts;Quart de finaliste;tp-mazembe
+1967;al-hilal-omdurman;prelim;Tours préliminaires;olympic
+1967;olympic;quarts;Quart de finaliste;saint-george
+1967;diamant-yaounde;prelim;Tours préliminaires;al-ittihad-tripoli
+1967;djoliba-ac;demis;Demi-finaliste;asante-kotoko
+1967;invincible-eleven;prelim;Tours préliminaires;djoliba-ac
+1967;hafia-fc;quarts;Quart de finaliste;djoliba-ac
+1967;saint-george;demis;Demi-finaliste;tp-mazembe
+1967;bitumastic;prelim;Tours préliminaires;saint-george
+1967;as-saint-louisienne;prelim;Tours préliminaires;asante-kotoko
+1967;asante-kotoko;finale;Finaliste;tp-mazembe
+1967;stade-d-abidjan;quarts;Quart de finaliste;asante-kotoko
+1967;modele-lome;prelim;Tours préliminaires;stade-d-abidjan
+1967;tp-mazembe;finale;Vainqueur;
+1967;abeilles-fc;prelim;Tours préliminaires;tp-mazembe
+1968;etoile-du-congo;prelim;Tours préliminaires;oryx-douala
+1968;mighty-blackpool;prelim;Tours préliminaires;etoile-du-congo
+1968;as-far;demis;Demi-finaliste;tp-mazembe
+1968;augustinians;prelim;Tours préliminaires;as-far
+1968;police-somalie;prelim;Tours préliminaires;al-mourada
+1968;cosmopolitans;prelim;Tours préliminaires;police-somalie
+1968;secteur-6;prelim;Tours préliminaires;us-ouagadougou
+1968;us-ouagadougou;prelim;Tours préliminaires;etoile-filante-togo
+1968;afc-leopards;demis;Demi-finaliste;etoile-filante-togo
+1968;saint-george;prelim;Tours préliminaires;afc-leopards
+1968;africa-sports;prelim;Tours préliminaires;tp-mazembe
+1968;tp-mazembe;finale;Vainqueur;
+1968;oryx-douala;quarts;Quart de finaliste;tp-mazembe
+1968;foyer-france;prelim;Tours préliminaires;as-far
+1968;mighty-barolle;prelim;Tours préliminaires;hafia-fc
+1968;hafia-fc;quarts;Quart de finaliste;etoile-filante-togo
+1968;al-mourada;quarts;Quart de finaliste;afc-leopards
+1968;stationery-stores;quarts;Quart de finaliste;as-far
+1968;cape-coast-dwarfs;prelim;Tours préliminaires;stationery-stores
+1968;etoile-filante-togo;finale;Finaliste;tp-mazembe
+1969;africa-sports;prelim;Tours préliminaires;tp-mazembe
+1969;olympique-sportif;prelim;Tours préliminaires;africa-sports
+1969;hoga-mogadishu;prelim;Tours préliminaires;burri
+1969;burri;prelim;Tours préliminaires;gor-mahia
+1969;us-cattin;prelim;Tours préliminaires;fc-saint-eloi-lupopo
+1969;fc-saint-eloi-lupopo;quarts;Quart de finaliste;hafia-fc
+1969;young-africans;quarts;Quart de finaliste;asante-kotoko
+1969;fitarikandro;prelim;Tours préliminaires;young-africans
+1969;al-tahadi;prelim;Tours préliminaires;ismaily
+1969;ismaily;finale;Vainqueur;
+1969;asante-kotoko;demis;Demi-finaliste;ismaily
+1969;patronage-sainte-anne;prelim;Tours préliminaires;asante-kotoko
+1969;gor-mahia;quarts;Quart de finaliste;ismaily
+1969;caiman-douala;prelim;Tours préliminaires;fc-saint-eloi-lupopo
+1969;saint-george;prelim;Tours préliminaires;young-africans
+1969;secteur-6;prelim;Tours préliminaires;etoile-filante-togo
+1969;etoile-filante-togo;quarts;Quart de finaliste;tp-mazembe
+1969;tp-mazembe;finale;Finaliste;ismaily
+1969;usfran;prelim;Tours préliminaires;hafia-fc
+1969;hafia-fc;demis;Demi-finaliste;tp-mazembe
+1970;aigle-royal;prelim;Tours préliminaires;cara-brazzaville
+1970;cara-brazzaville;prelim;Tours préliminaires;tp-mazembe
+1970;cr-belcourt;prelim;Tours préliminaires;jeanne-d-arc
+1970;jeanne-d-arc;prelim;Tours préliminaires;as-kaloum-star
+1970;lavori-publici;prelim;Tours préliminaires;prisons-fc
+1970;prisons-fc;quarts;Quart de finaliste;ismaily
+1970;as-real-bamako;prelim;Tours préliminaires;stade-d-abidjan
+1970;as-fonctionnaires;prelim;Tours préliminaires;as-real-bamako
+1970;secteur-6;prelim;Tours préliminaires;union-douala
+1970;union-douala;prelim;Tours préliminaires;modele-lome
+1970;stationery-stores;prelim;Tours préliminaires;asante-kotoko
+1970;forces-armees;prelim;Tours préliminaires;stationery-stores
+1970;young-africans;quarts;Quart de finaliste;asante-kotoko
+1970;us-fonctionnaires;prelim;Tours préliminaires;young-africans
+1970;as-kaloum-star;demis;Demi-finaliste;tp-mazembe
+1970;ismaily;demis;Demi-finaliste;asante-kotoko
+1970;al-hilal-omdurman;prelim;Tours préliminaires;ismaily
+1970;nakuru-all-stars;prelim;Tours préliminaires;young-africans
+1970;tele-sc-asmara;prelim;Tours préliminaires;prisons-fc
+1970;stade-d-abidjan;quarts;Quart de finaliste;as-kaloum-star
+1970;asante-kotoko;finale;Vainqueur;
+1970;tp-mazembe;finale;Finaliste;asante-kotoko
+1970;modele-lome;quarts;Quart de finaliste;tp-mazembe
+1971;afc-leopards;prelim;Tours préliminaires;great-olympics
+1971;great-olympics;demis;Demi-finaliste;asante-kotoko
+1971;al-merreikh;prelim;Tours préliminaires;asante-kotoko
+1971;tele-sc-asmara;prelim;Tours préliminaires;al-merreikh
+1971;canon-yaounde;finale;Vainqueur;
+1971;as-solidarite;prelim;Tours préliminaires;canon-yaounde
+1971;asc-diaraf;prelim;Tours préliminaires;stade-malien
+1971;stade-malien;prelim;Tours préliminaires;asec-mimosas
+1971;esperance-tunis;prelim;Tours préliminaires;ismaily
+1971;al-ahly-benghazi;prelim;Tours préliminaires;esperance-tunis
+1971;maseru-united;prelim;Tours préliminaires;mmm-tamatave
+1971;mmm-tamatave;prelim;Tours préliminaires;great-olympics
+1971;as-porto-novo;prelim;Tours préliminaires;victoria-club-mokanda
+1971;victoria-club-mokanda;prelim;Tours préliminaires;dynamic-togolais
+1971;secteur-6;prelim;Tours préliminaires;enugu-rangers
+1971;enugu-rangers;quarts;Quart de finaliste;asec-mimosas
+1971;young-africans;prelim;Tours préliminaires;coffee-fc
+1971;lavori-publici;prelim;Tours préliminaires;young-africans
+1971;as-kaloum-star;prelim;Tours préliminaires;enugu-rangers
+1971;asante-kotoko;finale;Finaliste;canon-yaounde
+1971;coffee-fc;quarts;Quart de finaliste;great-olympics
+1971;ismaily;quarts;Quart de finaliste;asante-kotoko
+1971;asec-mimosas;demis;Demi-finaliste;canon-yaounde
+1971;dynamic-togolais;quarts;Quart de finaliste;canon-yaounde
+1971;as-vita-club;prelim;Tours préliminaires;canon-yaounde
+1972;asfa-ouagadougou;prelim;Tours préliminaires;djoliba-ac
+1972;djoliba-ac;quarts;Quart de finaliste;hafia-fc
+1972;aigle-nkongsamba;quarts;Quart de finaliste;tp-mazembe
+1972;olympique-real;prelim;Tours préliminaires;aigle-nkongsamba
+1972;al-ahly-tripoli;quarts;Quart de finaliste;simba-fc
+1972;al-merreikh;prelim;Tours préliminaires;al-ahly-tripoli
+1972;as-forces-armees;prelim;Tours préliminaires;djoliba-ac
+1972;as-cotonou;prelim;Tours préliminaires;as-forces-armees
+1972;hafia-fc;finale;Vainqueur;
+1972;as-fan;prelim;Tours préliminaires;hafia-fc
+1972;hearts-of-oak;demis;Demi-finaliste;simba-fc
+1972;afc-leopards;prelim;Tours préliminaires;hearts-of-oak
+1972;majantja;prelim;Tours préliminaires;kabwe-warriors
+1972;kabwe-warriors;quarts;Quart de finaliste;hearts-of-oak
+1972;as-saint-michael;prelim;Tours préliminaires;kabwe-warriors
+1972;young-africans;prelim;Tours préliminaires;as-saint-michael
+1972;saint-george;prelim;Tours préliminaires;simba-fc
+1972;lavori-publici;prelim;Tours préliminaires;saint-george
+1972;tp-mazembe;demis;Demi-finaliste;hafia-fc
+1972;police-gabon;prelim;Tours préliminaires;tp-mazembe
+1972;africa-sports;prelim;Tours préliminaires;tp-mazembe
+1972;canon-yaounde;prelim;Tours préliminaires;hafia-fc
+1972;dynamic-togolais;prelim;Tours préliminaires;aigle-nkongsamba
+1972;ismaily;prelim;Tours préliminaires;al-ahly-tripoli
+1972;simba-fc;finale;Finaliste;hafia-fc
+1972;wndc-ibadan;prelim;Tours préliminaires;hearts-of-oak
+1973;asec-mimosas;prelim;Tours préliminaires;hafia-fc
+1973;mighty-barolle;prelim;Tours préliminaires;asec-mimosas
+1973;breweries;demis;Demi-finaliste;asante-kotoko
+1973;asmara;prelim;Tours préliminaires;breweries
+1973;cara-brazzaville;prelim;Tours préliminaires;leopards-douala
+1973;sports-dynamic;prelim;Tours préliminaires;cara-brazzaville
+1973;as-forces-armees;prelim;Tours préliminaires;modele-lome
+1973;modele-lome;prelim;Tours préliminaires;stade-malien
+1973;fortior-mahajanga;prelim;Tours préliminaires;kabwe-warriors
+1973;police-lesotho;prelim;Tours préliminaires;fortior-mahajanga
+1973;fc-horsed;prelim;Tours préliminaires;ismaily
+1973;ismaily;quarts;Quart de finaliste;breweries
+1973;mighty-jets;prelim;Tours préliminaires;as-vita-club
+1973;jeanne-d-arc;prelim;Tours préliminaires;mighty-jets
+1973;young-africans;prelim;Tours préliminaires;al-merreikh
+1973;al-merreikh;prelim;Tours préliminaires;asante-kotoko
+1973;asante-kotoko;finale;Finaliste;as-vita-club
+1973;simba-fc;prelim;Tours préliminaires;breweries
+1973;hafia-fc;quarts;Quart de finaliste;leopards-douala
+1973;al-ahly-benghazi;prelim;Tours préliminaires;ismaily
+1973;kabwe-warriors;quarts;Quart de finaliste;asante-kotoko
+1973;leopards-douala;demis;Demi-finaliste;as-vita-club
+1973;stade-malien;quarts;Quart de finaliste;as-vita-club
+1973;as-vita-club;finale;Vainqueur;
+1974;al-ahly-tripoli;prelim;Tours préliminaires;al-hilal-omdurman
+1974;al-hilal-omdurman;prelim;Tours préliminaires;mehalla-al-kubra
+1974;bendel-insurance;prelim;Tours préliminaires;djoliba-ac
+1974;secteur-7;prelim;Tours préliminaires;bendel-insurance
+1974;cara-brazzaville;finale;Vainqueur;
+1974;zalang;prelim;Tours préliminaires;cara-brazzaville
+1974;green-buffaloes;prelim;Tours préliminaires;simba-sc
+1974;antalaha;prelim;Tours préliminaires;green-buffaloes
+1974;linare-fc;prelim;Tours préliminaires;simba-sc
+1974;simba-sc;demis;Demi-finaliste;mehalla-al-kubra
+1974;mighty-barolle;prelim;Tours préliminaires;asec-mimosas
+1974;asec-mimosas;quarts;Quart de finaliste;jeanne-d-arc
+1974;modele-lome;prelim;Tours préliminaires;asec-mimosas
+1974;as-porto-novo;prelim;Tours préliminaires;modele-lome
+1974;olympique-real;prelim;Tours préliminaires;hearts-of-oak
+1974;simba-fc;prelim;Tours préliminaires;olympique-real
+1974;ports-authority-sierra-leone;prelim;Tours préliminaires;jeanne-d-arc
+1974;jeanne-d-arc;demis;Demi-finaliste;cara-brazzaville
+1974;asmara;prelim;Tours préliminaires;afc-leopards
+1974;fc-horsed;prelim;Tours préliminaires;asmara
+1974;afc-leopards;quarts;Quart de finaliste;mehalla-al-kubra
+1974;as-vita-club;prelim;Tours préliminaires;cara-brazzaville
+1974;djoliba-ac;quarts;Quart de finaliste;cara-brazzaville
+1974;hearts-of-oak;quarts;Quart de finaliste;simba-sc
+1974;hafia-fc;prelim;Tours préliminaires;jeanne-d-arc
+1974;mehalla-al-kubra;finale;Finaliste;cara-brazzaville
+1975;asdr-fatima;prelim;Tours préliminaires;al-merreikh
+1975;al-merreikh;quarts;Quart de finaliste;mehalla-al-kubra
+1975;bame-monrovia;prelim;Tours préliminaires;lome-i
+1975;lome-i;demis;Demi-finaliste;hafia-fc
+1975;nyasa-big-bullets;prelim;Tours préliminaires;green-buffaloes
+1975;matlama-fc;prelim;Tours préliminaires;nyasa-big-bullets
+1975;djoliba-ac;prelim;Tours préliminaires;lome-i
+1975;mighty-blackpool;prelim;Tours préliminaires;djoliba-ac
+1975;embassoria;prelim;Tours préliminaires;fc-inter-star
+1975;fc-inter-star;prelim;Tours préliminaires;al-merreikh
+1975;express-fc;prelim;Tours préliminaires;mehalla-al-kubra
+1975;fc-horsed;prelim;Tours préliminaires;express-fc
+1975;great-olympics;prelim;Tours préliminaires;enugu-rangers
+1975;enugu-rangers;finale;Finaliste;hafia-fc
+1975;green-buffaloes;quarts;Quart de finaliste;enugu-rangers
+1975;corps-enseignant;prelim;Tours préliminaires;green-buffaloes
+1975;hafia-fc;finale;Vainqueur;
+1975;real-banjul;prelim;Tours préliminaires;hafia-fc
+1975;olympic-niamey;prelim;Tours préliminaires;asec-mimosas
+1975;asec-mimosas;quarts;Quart de finaliste;lome-i
+1975;silures;prelim;Tours préliminaires;cara-brazzaville
+1975;etoile-sportive;prelim;Tours préliminaires;silures
+1975;as-vita-club;prelim;Tours préliminaires;hafia-fc
+1975;petrosport-fc;prelim;Tours préliminaires;as-vita-club
+1975;as-forces-armees;prelim;Tours préliminaires;asec-mimosas
+1975;cara-brazzaville;quarts;Quart de finaliste;hafia-fc
+1975;young-africans;prelim;Tours préliminaires;enugu-rangers
+1975;mehalla-al-kubra;demis;Demi-finaliste;enugu-rangers
+1976;al-ahly-benghazi;prelim;Tours préliminaires;mc-alger
+1976;mc-alger;finale;Vainqueur;
+1976;asante-kotoko;quarts;Quart de finaliste;asec-mimosas
+1976;okoume;prelim;Tours préliminaires;asante-kotoko
+1976;cara-brazzaville;prelim;Tours préliminaires;asante-kotoko
+1976;cs-imana;prelim;Tours préliminaires;cara-brazzaville
+1976;corps-enseignant;prelim;Tours préliminaires;simba-sc
+1976;simba-sc;prelim;Tours préliminaires;green-buffaloes
+1976;asc-diaraf;quarts;Quart de finaliste;hafia-fc
+1976;os-balantas;prelim;Tours préliminaires;asc-diaraf
+1976;express-fc;prelim;Tours préliminaires;enugu-rangers
+1976;caiman-douala;prelim;Tours préliminaires;express-fc
+1976;luo-union;quarts;Quart de finaliste;mc-alger
+1976;saint-george;prelim;Tours préliminaires;luo-union
+1976;real-banjul;prelim;Tours préliminaires;djoliba-ac
+1976;djoliba-ac;prelim;Tours préliminaires;hafia-fc
+1976;silures;prelim;Tours préliminaires;asec-mimosas
+1976;as-fan;prelim;Tours préliminaires;silures
+1976;asec-mimosas;demis;Demi-finaliste;hafia-fc
+1976;hafia-fc;finale;Finaliste;mc-alger
+1976;enugu-rangers;demis;Demi-finaliste;mc-alger
+1976;green-buffaloes;quarts;Quart de finaliste;enugu-rangers
+1976;lome-i;prelim;Tours préliminaires;asc-diaraf
+1976;al-merreikh;prelim;Tours préliminaires;luo-union
+1976;al-ahly;prelim;Tours préliminaires;mc-alger
+1977;asc-diaraf;prelim;Tours préliminaires;hearts-of-oak
+1977;asc-garde-nationale;prelim;Tours préliminaires;asc-diaraf
+1977;sc-gagnoa;prelim;Tours préliminaires;djoliba-ac
+1977;as-tempete-mocaf;prelim;Tours préliminaires;sc-gagnoa
+1977;gor-mahia;prelim;Tours préliminaires;mufulira-wanderers
+1977;yamaha-wanderers;prelim;Tours préliminaires;gor-mahia
+1977;fc-horsed;prelim;Tours préliminaires;al-ahly
+1977;al-ahly;quarts;Quart de finaliste;hearts-of-oak
+1977;kcca;prelim;Tours préliminaires;mc-alger
+1977;mechal-army;prelim;Tours préliminaires;kcca
+1977;mufulira-wanderers;demis;Demi-finaliste;hearts-of-oak
+1977;maseru-united;prelim;Tours préliminaires;mufulira-wanderers
+1977;olympic-niamey;prelim;Tours préliminaires;al-medina
+1977;al-medina;prelim;Tours préliminaires;al-ahly
+1977;saint-joseph-warriors;prelim;Tours préliminaires;hearts-of-oak
+1977;hearts-of-oak;finale;Finaliste;hafia-fc
+1977;simba-sc;prelim;Tours préliminaires;water-corporation
+1977;highlanders-eswatini;prelim;Tours préliminaires;simba-sc
+1977;tp-mazembe;prelim;Tours préliminaires;lome-i
+1977;lome-i;demis;Demi-finaliste;hafia-fc
+1977;udib-bissua;prelim;Tours préliminaires;djoliba-ac
+1977;djoliba-ac;quarts;Quart de finaliste;lome-i
+1977;union-douala;prelim;Tours préliminaires;lome-i
+1977;silures;prelim;Tours préliminaires;union-douala
+1977;vantour-club-mangoungou;prelim;Tours préliminaires;diables-noirs-brazz
+1977;diables-noirs-brazz;prelim;Tours préliminaires;hafia-fc
+1977;hafia-fc;finale;Vainqueur;
+1977;mc-alger;quarts;Quart de finaliste;mufulira-wanderers
+1977;water-corporation;quarts;Quart de finaliste;hafia-fc
+1978;al-tahadi;prelim;Tours préliminaires;js-kabylie
+1978;medr-babur;prelim;Tours préliminaires;al-tahadi
+1978;corps-enseignant;prelim;Tours préliminaires;matlama-fc
+1978;matlama-fc;prelim;Tours préliminaires;green-buffaloes
+1978;asc-garde-nationale;prelim;Tours préliminaires;hafia-fc
+1978;wallidan;prelim;Tours préliminaires;asc-garde-nationale
+1978;hardware-stars;prelim;Tours préliminaires;al-merreikh
+1978;al-merreikh;prelim;Tours préliminaires;canon-yaounde
+1978;kcca;quarts;Quart de finaliste;enugu-rangers
+1978;fc-horsed;prelim;Tours préliminaires;kcca
+1978;scaf-tocages;prelim;Tours préliminaires;olympic-niamey
+1978;olympic-niamey;prelim;Tours préliminaires;enugu-rangers
+1978;silures;quarts;Quart de finaliste;hafia-fc
+1978;benfica;prelim;Tours préliminaires;silures
+1978;simba-sc;prelim;Tours préliminaires;as-vita-club
+1978;vantour-club-mangoungou;prelim;Tours préliminaires;simba-sc
+1978;africa-sports;prelim;Tours préliminaires;silures
+1978;canon-yaounde;finale;Vainqueur;
+1978;enugu-rangers;demis;Demi-finaliste;canon-yaounde
+1978;green-buffaloes;quarts;Quart de finaliste;canon-yaounde
+1978;hafia-fc;finale;Finaliste;canon-yaounde
+1978;js-kabylie;quarts;Quart de finaliste;as-vita-club
+1978;al-ahly;prelim;Tours préliminaires;kcca
+1978;as-vita-club;demis;Demi-finaliste;hafia-fc
+1979;asdr-fatima;prelim;Tours préliminaires;silures
+1979;silures;prelim;Tours préliminaires;hafia-fc
+1979;al-ahly-tripoli;prelim;Tours préliminaires;mc-alger
+1979;mc-alger;prelim;Tours préliminaires;union-douala
+1979;breweries;prelim;Tours préliminaires;
+1979;al-merreikh;prelim;Tours préliminaires;
+1979;desportivo-maputo;prelim;Tours préliminaires;matlama-fc
+1979;matlama-fc;quarts;Quart de finaliste;union-douala
+1979;dragons-de-l-oueme;prelim;Tours préliminaires;africa-sports
+1979;africa-sports;prelim;Tours préliminaires;cs-imana
+1979;etoile-du-congo;prelim;Tours préliminaires;us-goree
+1979;fc-105;prelim;Tours préliminaires;etoile-du-congo
+1979;mighty-blackpool;prelim;Tours préliminaires;hearts-of-oak
+1979;hearts-of-oak;finale;Finaliste;union-douala
+1979;ogaden-anbassa;prelim;Tours préliminaires;zamalek
+1979;nyasa-big-bullets;prelim;Tours préliminaires;ogaden-anbassa
+1979;saint-joseph-warriors;prelim;Tours préliminaires;real-banjul
+1979;real-banjul;prelim;Tours préliminaires;hearts-of-oak
+1979;simba-sc;prelim;Tours préliminaires;raccah-rovers
+1979;mufulira-wanderers;prelim;Tours préliminaires;simba-sc
+1979;us-goree;demis;Demi-finaliste;hearts-of-oak
+1979;asc-garde-nationale;prelim;Tours préliminaires;us-goree
+1979;zamalek;quarts;Quart de finaliste;cs-imana
+1979;simba-fc;prelim;Tours préliminaires;zamalek
+1979;cs-imana;demis;Demi-finaliste;union-douala
+1979;hafia-fc;quarts;Quart de finaliste;hearts-of-oak
+1979;union-douala;finale;Vainqueur;
+1979;raccah-rovers;quarts;Quart de finaliste;us-goree
+1980;as-niamey;prelim;Tours préliminaires;djoliba-ac
+1980;djoliba-ac;prelim;Tours préliminaires;hearts-of-oak
+1980;anges-abc;prelim;Tours préliminaires;hearts-of-oak
+1980;hearts-of-oak;quarts;Quart de finaliste;as-bilima
+1980;bendel-insurance;demis;Demi-finaliste;canon-yaounde
+1980;commercial-bank;prelim;Tours préliminaires;bendel-insurance
+1980;benfica;prelim;Tours préliminaires;stella
+1980;stella;prelim;Tours préliminaires;mc-alger
+1980;canon-yaounde;finale;Vainqueur;
+1980;primeiro-de-agosto;prelim;Tours préliminaires;canon-yaounde
+1980;costa-do-sol;prelim;Tours préliminaires;as-bilima
+1980;as-bilima;finale;Finaliste;canon-yaounde
+1980;dragons-de-l-oueme;prelim;Tours préliminaires;mc-alger
+1980;mc-alger;quarts;Quart de finaliste;canon-yaounde
+1980;sony-de-ela-nguema;prelim;Tours préliminaires;semassi-sokode
+1980;semassi-sokode;prelim;Tours préliminaires;asf-police
+1980;fortior-mahajanga;prelim;Tours préliminaires;as-bilima
+1980;limbe-leaf-wanderers;prelim;Tours préliminaires;fortior-mahajanga
+1980;asc-garde-nationale;prelim;Tours préliminaires;hafia-fc
+1980;hafia-fc;prelim;Tours préliminaires;etoile-du-congo
+1980;fc-horsed;prelim;Tours préliminaires;gor-mahia
+1980;gor-mahia;prelim;Tours préliminaires;bendel-insurance
+1980;linare-fc;prelim;Tours préliminaires;simba-sc
+1980;simba-sc;prelim;Tours préliminaires;union-douala
+1980;mighty-blackpool;prelim;Tours préliminaires;asf-police
+1980;asf-police;quarts;Quart de finaliste;union-douala
+1980;olympique-real;prelim;Tours préliminaires;etoile-du-congo
+1980;etoile-du-congo;quarts;Quart de finaliste;bendel-insurance
+1980;wallidan;prelim;Tours préliminaires;silures
+1980;silures;prelim;Tours préliminaires;canon-yaounde
+1980;union-douala;demis;Demi-finaliste;as-bilima
+1981;as-kaloum-star;demis;Demi-finaliste;as-vita-club
+1981;starlight;prelim;Tours préliminaires;as-kaloum-star
+1981;agaza-lome;prelim;Tours préliminaires;us-mbila-nzambi
+1981;benfica;prelim;Tours préliminaires;agaza-lome
+1981;al-ahly;demis;Demi-finaliste;js-kabylie
+1981;afc-leopards;prelim;Tours préliminaires;al-ahly
+1981;al-ahly-tripoli;prelim;Tours préliminaires;js-kabylie
+1981;js-kabylie;finale;Vainqueur;
+1981;asante-kotoko;prelim;Tours préliminaires;as-kaloum-star
+1981;invincible-eleven;prelim;Tours préliminaires;asante-kotoko
+1981;dynamos-harare;quarts;Quart de finaliste;js-kabylie
+1981;linare-fc;prelim;Tours préliminaires;dynamos-harare
+1981;east-end-lions;prelim;Tours préliminaires;silures
+1981;silures;prelim;Tours préliminaires;as-vita-club
+1981;fc-horsed;prelim;Tours préliminaires;js-kabylie
+1981;simba-sc;prelim;Tours préliminaires;fc-horsed
+1981;mmm-tamatave;prelim;Tours préliminaires;costa-do-sol
+1981;costa-do-sol;prelim;Tours préliminaires;nchanga-rangers
+1981;us-mbila-nzambi;quarts;Quart de finaliste;al-ahly
+1981;as-real-bamako;prelim;Tours préliminaires;us-mbila-nzambi
+1981;nchanga-rangers;quarts;Quart de finaliste;as-vita-club
+1981;highlanders-eswatini;prelim;Tours préliminaires;nchanga-rangers
+1981;nile-breweries-fc;prelim;Tours préliminaires;al-ahly
+1981;usca-bangui;prelim;Tours préliminaires;nile-breweries-fc
+1981;primeiro-de-agosto;prelim;Tours préliminaires;as-vita-club
+1981;as-vita-club;finale;Finaliste;js-kabylie
+1981;seib-diourbel;prelim;Tours préliminaires;asec-mimosas
+1981;asec-mimosas;quarts;Quart de finaliste;as-kaloum-star
+1981;shooting-stars;prelim;Tours préliminaires;dynamos-harare
+1981;township-rollers;prelim;Tours préliminaires;shooting-stars
+1981;canon-yaounde;prelim;Tours préliminaires;asec-mimosas
+1982;atletico-malabo;prelim;Tours préliminaires;sporting-moura
+1982;sporting-moura;prelim;Tours préliminaires;fc-saint-eloi-lupopo
+1982;mhlume-peacemakers;prelim;Tours préliminaires;as-somasud
+1982;maseru-brothers;prelim;Tours préliminaires;mhlume-peacemakers
+1982;as-police-mauritanie;prelim;Tours préliminaires;adjidjas-fap
+1982;adjidjas-fap;prelim;Tours préliminaires;stella
+1982;vital-o;prelim;Tours préliminaires;green-buffaloes
+1982;rayon-sport;prelim;Tours préliminaires;vital-o
+1982;as-kaloum-star;prelim;Tours préliminaires;enugu-rangers
+1982;real-republicans;prelim;Tours préliminaires;as-kaloum-star
+1982;stella;prelim;Tours préliminaires;rs-kouba
+1982;al-hilal-omdurman;prelim;Tours préliminaires;kcca
+1982;js-kabylie;prelim;Tours préliminaires;al-hilal-omdurman
+1982;dynamos-harare;prelim;Tours préliminaires;fc-saint-eloi-lupopo
+1982;defence-force-xi;prelim;Tours préliminaires;dynamos-harare
+1982;etoile-du-congo;prelim;Tours préliminaires;as-real-bamako
+1982;as-real-bamako;quarts;Quart de finaliste;fc-saint-eloi-lupopo
+1982;fc-saint-eloi-lupopo;demis;Demi-finaliste;asante-kotoko
+1982;green-buffaloes;quarts;Quart de finaliste;al-ahly
+1982;invincible-eleven;prelim;Tours préliminaires;asante-kotoko
+1982;tonnerre-yaounde;prelim;Tours préliminaires;invincible-eleven
+1982;kcca;quarts;Quart de finaliste;asante-kotoko
+1982;afc-leopards;prelim;Tours préliminaires;kcca
+1982;lavori-publici;prelim;Tours préliminaires;al-ahly
+1982;al-ahly;finale;Vainqueur;
+1982;us-mbila-nzambi;prelim;Tours préliminaires;as-real-bamako
+1982;us-goree;prelim;Tours préliminaires;us-mbila-nzambi
+1982;primeiro-de-agosto;prelim;Tours préliminaires;enugu-rangers
+1982;enugu-rangers;demis;Demi-finaliste;al-ahly
+1982;rs-kouba;quarts;Quart de finaliste;enugu-rangers
+1982;kac-kenitra;prelim;Tours préliminaires;rs-kouba
+1982;semassi-sokode;prelim;Tours préliminaires;asante-kotoko
+1982;asante-kotoko;finale;Finaliste;al-ahly
+1982;as-somasud;prelim;Tours préliminaires;green-buffaloes
+1982;textil-pungue;prelim;Tours préliminaires;young-africans
+1982;young-africans;prelim;Tours préliminaires;al-ahly
+1983;asc-diaraf;demis;Demi-finaliste;asante-kotoko
+1983;gambia-ports-authority;prelim;Tours préliminaires;asc-diaraf
+1983;fantastique;prelim;Tours préliminaires;olympique-real
+1983;olympique-real;prelim;Tours préliminaires;petro-de-luanda
+1983;highlanders-eswatini;prelim;Tours préliminaires;nkana-fc
+1983;township-rollers;prelim;Tours préliminaires;highlanders-eswatini
+1983;as-police-mauritanie;prelim;Tours préliminaires;sierra-fisheries
+1983;sierra-fisheries;prelim;Tours préliminaires;as-bilima
+1983;as-bilima;quarts;Quart de finaliste;asante-kotoko
+1983;semassi-sokode;prelim;Tours préliminaires;as-bilima
+1983;africa-sports;prelim;Tours préliminaires;asc-diaraf
+1983;al-ahly;finale;Finaliste;asante-kotoko
+1983;al-merreikh;prelim;Tours préliminaires;al-ahly
+1983;al-ahly-tripoli;prelim;Tours préliminaires;js-kabylie
+1983;js-kabylie;prelim;Tours préliminaires;asc-diaraf
+1983;cara-brazzaville;prelim;Tours préliminaires;asante-kotoko
+1983;dragons-fc;prelim;Tours préliminaires;cara-brazzaville
+1983;canon-yaounde;quarts;Quart de finaliste;al-ahly
+1983;dragons-de-l-oueme;prelim;Tours préliminaires;canon-yaounde
+1983;djoliba-ac;prelim;Tours préliminaires;hafia-fc
+1983;hafia-fc;prelim;Tours préliminaires;kac-kenitra
+1983;dynamos-harare;prelim;Tours préliminaires;al-ahly
+1983;afc-leopards;prelim;Tours préliminaires;dynamos-harare
+1983;enugu-rangers;prelim;Tours préliminaires;sierra-fisheries
+1983;fc-105;prelim;Tours préliminaires;asante-kotoko
+1983;asante-kotoko;finale;Vainqueur;
+1983;kac-kenitra;quarts;Quart de finaliste;asc-diaraf
+1983;benfica;prelim;Tours préliminaires;kac-kenitra
+1983;matlama-fc;prelim;Tours préliminaires;ferroviario-maputo
+1983;ferroviario-maputo;prelim;Tours préliminaires;sc-villa
+1983;sc-villa;quarts;Quart de finaliste;nkana-fc
+1983;dinamo-fima;prelim;Tours préliminaires;sc-villa
+1983;nkana-fc;demis;Demi-finaliste;al-ahly
+1983;petro-de-luanda;prelim;Tours préliminaires;canon-yaounde
+1983;wagad-mogadishu;prelim;Tours préliminaires;pan-african
+1983;pan-african;prelim;Tours préliminaires;nkana-fc
+1984;atletico-malabo;prelim;Tours préliminaires;primeiro-de-maio
+1984;primeiro-de-maio;prelim;Tours préliminaires;semassi-sokode
+1984;desportivo-maputo;prelim;Tours préliminaires;kcca
+1984;manzini-wanderers;prelim;Tours préliminaires;desportivo-maputo
+1984;kiyovu-sports;prelim;Tours préliminaires;sm-sanga-balende
+1984;admarc-tigers;prelim;Tours préliminaires;kiyovu-sports
+1984;real-banjul;prelim;Tours préliminaires;sporting-clube-bissau
+1984;sporting-clube-bissau;prelim;Tours préliminaires;js-kabylie
+1984;real-republicans;prelim;Tours préliminaires;js-kabylie
+1984;invincible-eleven;prelim;Tours préliminaires;real-republicans
+1984;township-rollers;prelim;Tours préliminaires;lpf-maseru
+1984;lpf-maseru;prelim;Tours préliminaires;nkana-fc
+1984;us-ouagadougou;prelim;Tours préliminaires;dragons-de-l-oueme
+1984;dragons-de-l-oueme;prelim;Tours préliminaires;mas-fes
+1984;africa-sports;prelim;Tours préliminaires;semassi-sokode
+1984;semassi-sokode;demis;Demi-finaliste;shooting-stars
+1984;al-hilal-omdurman;prelim;Tours préliminaires;printing-agency
+1984;printing-agency;prelim;Tours préliminaires;nkana-fc
+1984;al-medina;prelim;Tours préliminaires;mas-fes
+1984;mas-fes;quarts;Quart de finaliste;shooting-stars
+1984;asante-kotoko;prelim;Tours préliminaires;primeiro-de-maio
+1984;fc-105;quarts;Quart de finaliste;semassi-sokode
+1984;asdr-fatima;prelim;Tours préliminaires;fc-105
+1984;htmf-mahajanga;prelim;Tours préliminaires;dynamos-harare
+1984;dynamos-harare;quarts;Quart de finaliste;js-kabylie
+1984;js-kabylie;demis;Demi-finaliste;zamalek
+1984;kcca;prelim;Tours préliminaires;dynamos-harare
+1984;nkana-fc;quarts;Quart de finaliste;zamalek
+1984;as-real-bamako;prelim;Tours préliminaires;dragons-de-l-oueme
+1984;sm-sanga-balende;prelim;Tours préliminaires;fc-105
+1984;shooting-stars;finale;Finaliste;zamalek
+1984;seib-diourbel;prelim;Tours préliminaires;shooting-stars
+1984;hafia-fc;prelim;Tours préliminaires;sporting-clube-bissau
+1984;vital-o;prelim;Tours préliminaires;tonnerre-yaounde
+1984;tonnerre-yaounde;prelim;Tours préliminaires;shooting-stars
+1984;young-africans;prelim;Tours préliminaires;gor-mahia
+1984;gor-mahia;prelim;Tours préliminaires;zamalek
+1984;zamalek;finale;Vainqueur;
+1984;cs-sfaxien;prelim;Tours préliminaires;zamalek
+1985;asc-garde-nationale;prelim;Tours préliminaires;ca-bizertin
+1985;sporting-clube-bissau;prelim;Tours préliminaires;asc-garde-nationale
+1985;ground-force;prelim;Tours préliminaires;vital-o
+1985;vital-o;quarts;Quart de finaliste;zamalek
+1985;highlanders-eswatini;prelim;Tours préliminaires;black-rhinos
+1985;lpf-maseru;prelim;Tours préliminaires;highlanders-eswatini
+1985;petro-de-luanda;prelim;Tours préliminaires;enugu-rangers
+1985;as-tempete-mocaf;prelim;Tours préliminaires;petro-de-luanda
+1985;gambia-ports-authority;prelim;Tours préliminaires;as-far
+1985;asfa-ouagadougou;prelim;Tours préliminaires;gambia-ports-authority
+1985;as-bilima;finale;Finaliste;as-far
+1985;township-rollers;prelim;Tours préliminaires;as-bilima
+1985;as-kaloum-star;quarts;Quart de finaliste;as-far
+1985;real-republicans;prelim;Tours préliminaires;as-kaloum-star
+1985;agaza-lome;prelim;Tours préliminaires;cara-brazzaville
+1985;cara-brazzaville;prelim;Tours préliminaires;as-bilima
+1985;black-rhinos;quarts;Quart de finaliste;us-goree
+1985;ca-bizertin;prelim;Tours préliminaires;as-far
+1985;enugu-rangers;prelim;Tours préliminaires;as-kaloum-star
+1985;as-far;finale;Vainqueur;
+1985;gcr-mascara;quarts;Quart de finaliste;as-bilima
+1985;al-ittihad-tripoli;prelim;Tours préliminaires;gcr-mascara
+1985;invincible-eleven;prelim;Tours préliminaires;stade-malien
+1985;stade-malien;prelim;Tours préliminaires;gcr-mascara
+1985;lions-de-l-atakory;prelim;Tours préliminaires;hearts-of-oak
+1985;hearts-of-oak;prelim;Tours préliminaires;us-goree
+1985;sc-villa;prelim;Tours préliminaires;al-hilal-omdurman
+1985;al-hilal-omdurman;prelim;Tours préliminaires;zamalek
+1985;power-dynamos;prelim;Tours préliminaires;black-rhinos
+1985;kmkm-zanzibar;prelim;Tours préliminaires;power-dynamos
+1985;scarlets;prelim;Tours préliminaires;vital-o
+1985;stella;prelim;Tours préliminaires;us-goree
+1985;us-goree;demis;Demi-finaliste;as-bilima
+1985;tonnerre-yaounde;prelim;Tours préliminaires;as-sogara
+1985;as-sogara;prelim;Tours préliminaires;vital-o
+1985;zamalek;demis;Demi-finaliste;as-far
+1985;marine-club;prelim;Tours préliminaires;zamalek
+1986;etoile-filante;prelim;Tours préliminaires;js-kabylie
+1986;asc-ksar;prelim;Tours préliminaires;etoile-filante
+1986;lioli;prelim;Tours préliminaires;maji-maji
+1986;maji-maji;prelim;Tours préliminaires;dynamos-harare
+1986;manzini-wanderers;prelim;Tours préliminaires;ac-sotema
+1986;ac-sotema;prelim;Tours préliminaires;nkana-fc
+1986;pantheres-noires;prelim;Tours préliminaires;zamalek
+1986;wagad-mogadishu;prelim;Tours préliminaires;pantheres-noires
+1986;scaf-tocages;prelim;Tours préliminaires;as-far
+1986;juvenil-reyes;prelim;Tours préliminaires;scaf-tocages
+1986;udib-bissua;prelim;Tours préliminaires;as-far
+1986;east-end-lions;prelim;Tours préliminaires;udib-bissua
+1986;asfosa-lome;prelim;Tours préliminaires;new-nigeria-bank
+1986;new-nigeria-bank;prelim;Tours préliminaires;africa-sports
+1986;africa-sports;finale;Finaliste;zamalek
+1986;requins-de-l-atlantique;prelim;Tours préliminaires;africa-sports
+1986;al-merreikh;prelim;Tours préliminaires;esperance-tunis
+1986;esperance-tunis;quarts;Quart de finaliste;africa-sports
+1986;breweries;prelim;Tours préliminaires;addis-ababa-breweries
+1986;addis-ababa-breweries;prelim;Tours préliminaires;nkana-fc
+1986;canon-yaounde;demis;Demi-finaliste;zamalek
+1986;primeiro-de-maio;prelim;Tours préliminaires;canon-yaounde
+1986;darnah;prelim;Tours préliminaires;kcca
+1986;kcca;prelim;Tours préliminaires;fc-inter-star
+1986;dynamos-harare;prelim;Tours préliminaires;zamalek
+1986;as-far;quarts;Quart de finaliste;canon-yaounde
+1986;fc-105;prelim;Tours préliminaires;scaf-tocages
+1986;hearts-of-oak;quarts;Quart de finaliste;nkana-fc
+1986;wallidan;prelim;Tours préliminaires;hearts-of-oak
+1986;horoya-ac;prelim;Tours préliminaires;hearts-of-oak
+1986;invincible-eleven;prelim;Tours préliminaires;horoya-ac
+1986;fc-inter-star;quarts;Quart de finaliste;zamalek
+1986;us-tshinkunku;prelim;Tours préliminaires;fc-inter-star
+1986;js-kabylie;prelim;Tours préliminaires;esperance-tunis
+1986;jeanne-d-arc;prelim;Tours préliminaires;mas-fes
+1986;mas-fes;prelim;Tours préliminaires;canon-yaounde
+1986;nkana-fc;demis;Demi-finaliste;africa-sports
+1986;zamalek;finale;Vainqueur;
+1987;btm-antananarivo;prelim;Tours préliminaires;maji-maji
+1987;maji-maji;prelim;Tours préliminaires;afc-leopards
+1987;juvenil-reyes;prelim;Tours préliminaires;zamalek
+1987;sporting-moura;prelim;Tours préliminaires;juvenil-reyes
+1987;matlama-fc;prelim;Tours préliminaires;sc-villa
+1987;gaborone-united;prelim;Tours préliminaires;matlama-fc
+1987;municipality;prelim;Tours préliminaires;pantheres-noires
+1987;pantheres-noires;prelim;Tours préliminaires;al-ahly
+1987;petro-de-luanda;prelim;Tours préliminaires;nkana-fc
+1987;maxaquene;prelim;Tours préliminaires;petro-de-luanda
+1987;sporting-clube-bissau;prelim;Tours préliminaires;asante-kotoko
+1987;old-edwardians;prelim;Tours préliminaires;sporting-clube-bissau
+1987;cadets-club;prelim;Tours préliminaires;highlanders-eswatini
+1987;highlanders-eswatini;prelim;Tours préliminaires;dynamos-harare
+1987;afc-leopards;prelim;Tours préliminaires;al-ahly
+1987;africa-sports;quarts;Quart de finaliste;al-ahly
+1987;asfosa-lome;prelim;Tours préliminaires;africa-sports
+1987;al-ahly;finale;Vainqueur;
+1987;al-hilal-omdurman;finale;Finaliste;al-ahly
+1987;fc-inter-star;prelim;Tours préliminaires;al-hilal-omdurman
+1987;asante-kotoko;demis;Demi-finaliste;al-ahly
+1987;dynamos-harare;quarts;Quart de finaliste;canon-yaounde
+1987;etoile-sahel;prelim;Tours préliminaires;leventis-united
+1987;al-ittihad-tripoli;prelim;Tours préliminaires;etoile-sahel
+1987;fc-saint-eloi-lupopo;prelim;Tours préliminaires;dynamos-harare
+1987;fc-105;prelim;Tours préliminaires;fc-saint-eloi-lupopo
+1987;jeanne-d-arc;prelim;Tours préliminaires;es-setif
+1987;es-setif;prelim;Tours préliminaires;canon-yaounde
+1987;mighty-barolle;prelim;Tours préliminaires;africa-sports
+1987;horoya-ac;prelim;Tours préliminaires;mighty-barolle
+1987;sc-villa;prelim;Tours préliminaires;al-hilal-omdurman
+1987;nkana-fc;prelim;Tours préliminaires;zamalek
+1987;as-real-bamako;prelim;Tours préliminaires;leventis-united
+1987;leventis-united;quarts;Quart de finaliste;al-hilal-omdurman
+1987;requins-de-l-atlantique;prelim;Tours préliminaires;canon-yaounde
+1987;canon-yaounde;demis;Demi-finaliste;al-hilal-omdurman
+1987;wydad-ac;prelim;Tours préliminaires;asante-kotoko
+1987;as-police-mauritanie;prelim;Tours préliminaires;wydad-ac
+1987;zamalek;quarts;Quart de finaliste;asante-kotoko
+1988;sony-de-ela-nguema;prelim;Tours préliminaires;etoile-du-congo
+1988;etoile-du-congo;prelim;Tours préliminaires;fc-inter-star
+1988;manzini-wanderers;prelim;Tours préliminaires;sc-villa
+1988;township-rollers;prelim;Tours préliminaires;manzini-wanderers
+1988;pantheres-noires;prelim;Tours préliminaires;wagad-mogadishu
+1988;wagad-mogadishu;prelim;Tours préliminaires;al-hilal-omdurman
+1988;lesotho-defence-force;prelim;Tours préliminaires;sunrise-flacq-united
+1988;sunrise-flacq-united;prelim;Tours préliminaires;matchedje
+1988;sierra-fisheries;prelim;Tours préliminaires;as-police-mauritanie
+1988;as-police-mauritanie;prelim;Tours préliminaires;as-far
+1988;as-kaloum-star;prelim;Tours préliminaires;africa-sports
+1988;africa-sports;quarts;Quart de finaliste;heartland
+1988;asante-kotoko;prelim;Tours préliminaires;fc-105
+1988;fc-105;quarts;Quart de finaliste;es-setif
+1988;doumbe;prelim;Tours préliminaires;tonnerre-yaounde
+1988;tonnerre-yaounde;prelim;Tours préliminaires;heartland
+1988;fc-inter-star;prelim;Tours préliminaires;fc-105
+1988;etoile-sahel;prelim;Tours préliminaires;es-setif
+1988;al-nasr;prelim;Tours préliminaires;etoile-sahel
+1988;invincible-eleven;prelim;Tours préliminaires;as-far
+1988;as-far;demis;Demi-finaliste;heartland
+1988;heartland;finale;Finaliste;es-setif
+1988;requins-de-l-atlantique;prelim;Tours préliminaires;heartland
+1988;sc-villa;prelim;Tours préliminaires;al-ahly
+1988;matchedje;quarts;Quart de finaliste;al-ahly
+1988;jos-nosy-be;prelim;Tours préliminaires;matchedje
+1988;petro-de-luanda;prelim;Tours préliminaires;africa-sports
+1988;tp-mazembe;prelim;Tours préliminaires;petro-de-luanda
+1988;seib-diourbel;prelim;Tours préliminaires;as-police-mauritanie
+1988;shabana;prelim;Tours préliminaires;kabwe-warriors
+1988;kabwe-warriors;prelim;Tours préliminaires;al-hilal-omdurman
+1988;stade-malien;prelim;Tours préliminaires;es-setif
+1988;es-setif;finale;Vainqueur;
+1988;black-rhinos;prelim;Tours préliminaires;sunrise-flacq-united
+1988;al-hilal-omdurman;quarts;Quart de finaliste;as-far
+1988;young-africans;prelim;Tours préliminaires;al-ahly
+1988;al-ahly;demis;Demi-finaliste;es-setif
+1989;sony-de-ela-nguema;prelim;Tours préliminaires;asdr-fatima
+1989;asdr-fatima;prelim;Tours préliminaires;tonnerre-yaounde
+1989;highlanders-eswatini;prelim;Tours préliminaires;express-fc
+1989;pan-african;prelim;Tours préliminaires;highlanders-eswatini
+1989;matlama-fc;prelim;Tours préliminaires;defence-force-xi
+1989;defence-force-xi;prelim;Tours préliminaires;nkana-fc
+1989;mighty-blackpool;quarts;Quart de finaliste;tonnerre-yaounde
+1989;benfica;prelim;Tours préliminaires;mighty-blackpool
+1989;saint-louis-suns-united;prelim;Tours préliminaires;fire-brigade-sc
+1989;cosfap-antananarivo;prelim;Tours préliminaires;saint-louis-suns-united
+1989;zumunta-ac;prelim;Tours préliminaires;etoile-filante
+1989;etoile-filante;prelim;Tours préliminaires;esperance-tunis
+1989;afc-leopards;prelim;Tours préliminaires;al-mourada
+1989;fc-inter-star;prelim;Tours préliminaires;afc-leopards
+1989;desportivo-maputo;prelim;Tours préliminaires;zimbabwe-saints
+1989;zimbabwe-saints;quarts;Quart de finaliste;nkana-fc
+1989;djoliba-ac;prelim;Tours préliminaires;mighty-blackpool
+1989;horoya-ac;prelim;Tours préliminaires;djoliba-ac
+1989;es-setif;prelim;Tours préliminaires;mighty-blackpool
+1989;esperance-tunis;prelim;Tours préliminaires;mc-oran
+1989;express-fc;prelim;Tours préliminaires;zimbabwe-saints
+1989;fire-brigade-sc;prelim;Tours préliminaires;nkana-fc
+1989;inter-club;quarts;Quart de finaliste;raja-casablanca
+1989;petro-de-luanda;prelim;Tours préliminaires;inter-club
+1989;heartland;prelim;Tours préliminaires;inter-club
+1989;mighty-barolle;prelim;Tours préliminaires;heartland
+1989;jac;prelim;Tours préliminaires;raja-casablanca
+1989;africa-sports;prelim;Tours préliminaires;jac
+1989;mc-oran;finale;Finaliste;raja-casablanca
+1989;al-ittihad-tripoli;prelim;Tours préliminaires;mc-oran
+1989;nkana-fc;demis;Demi-finaliste;mc-oran
+1989;raja-casablanca;finale;Vainqueur;
+1989;jeanne-d-arc;prelim;Tours préliminaires;raja-casablanca
+1989;tonnerre-yaounde;demis;Demi-finaliste;raja-casablanca
+1989;as-vita-club;prelim;Tours préliminaires;tonnerre-yaounde
+1989;mukungwa;prelim;Tours préliminaires;as-vita-club
+1989;zamalek;prelim;Tours préliminaires;al-mourada
+1989;al-mourada;quarts;Quart de finaliste;mc-oran
+1990;ac-sotema;prelim;Tours préliminaires;sunrise-flacq-united
+1990;defence-force-xi;prelim;Tours préliminaires;ac-sotema
+1990;as-kaloum-star;prelim;Tours préliminaires;as-far
+1990;benfica;prelim;Tours préliminaires;as-kaloum-star
+1990;asko-kara;prelim;Tours préliminaires;js-kabylie
+1990;asfa-yennenga;prelim;Tours préliminaires;asko-kara
+1990;al-ittihad-tripoli;prelim;Tours préliminaires;al-ahly
+1990;olympic-niamey;prelim;Tours préliminaires;al-ittihad-tripoli
+1990;arsenal;prelim;Tours préliminaires;nkana-fc
+1990;denver-sundowns;prelim;Tours préliminaires;arsenal
+1990;dragons-de-l-oueme;prelim;Tours préliminaires;mighty-barolle
+1990;mighty-barolle;prelim;Tours préliminaires;raja-casablanca
+1990;fc-inter-star;prelim;Tours préliminaires;petro-de-luanda
+1990;petro-de-luanda;prelim;Tours préliminaires;dynamos-harare
+1990;mbc;prelim;Tours préliminaires;saint-louis-suns-united
+1990;saint-louis-suns-united;prelim;Tours préliminaires;afc-leopards
+1990;malindi;prelim;Tours préliminaires;mukungwa
+1990;mukungwa;prelim;Tours préliminaires;al-hilal-omdurman
+1990;renaissance;prelim;Tours préliminaires;scaf-tocages
+1990;scaf-tocages;prelim;Tours préliminaires;racing-bafoussam
+1990;afc-leopards;quarts;Quart de finaliste;js-kabylie
+1990;as-sogara;prelim;Tours préliminaires;etoile-du-congo
+1990;etoile-du-congo;prelim;Tours préliminaires;js-kabylie
+1990;al-ahly;prelim;Tours préliminaires;esperance-tunis
+1990;al-hilal-omdurman;quarts;Quart de finaliste;asante-kotoko
+1990;asante-kotoko;demis;Demi-finaliste;js-kabylie
+1990;freetown-united;prelim;Tours préliminaires;asante-kotoko
+1990;cs-imana;prelim;Tours préliminaires;africa-sports
+1990;africa-sports;prelim;Tours préliminaires;heartland
+1990;asc-diaraf;prelim;Tours préliminaires;heartland
+1990;heartland;demis;Demi-finaliste;nkana-fc
+1990;dynamos-harare;prelim;Tours préliminaires;al-hilal-omdurman
+1990;esperance-tunis;quarts;Quart de finaliste;heartland
+1990;stade-malien;prelim;Tours préliminaires;esperance-tunis
+1990;as-far;prelim;Tours préliminaires;asante-kotoko
+1990;ferroviario-maputo;prelim;Tours préliminaires;arsenal
+1990;js-kabylie;finale;Vainqueur;
+1990;nkana-fc;finale;Finaliste;js-kabylie
+1990;express-fc;prelim;Tours préliminaires;nkana-fc
+1990;racing-bafoussam;quarts;Quart de finaliste;nkana-fc
+1990;raja-casablanca;prelim;Tours préliminaires;racing-bafoussam
+1990;sunrise-flacq-united;prelim;Tours préliminaires;afc-leopards
+1991;asf-fianarantsoa;prelim;Tours préliminaires;nkana-fc
+1991;saint-louis-suns-united;prelim;Tours préliminaires;asf-fianarantsoa
+1991;brewery;prelim;Tours préliminaires;al-ahly
+1991;jadidka;prelim;Tours préliminaires;brewery
+1991;denver-sundowns;prelim;Tours préliminaires;sunrise-flacq-united
+1991;gaborone-united;prelim;Tours préliminaires;denver-sundowns
+1991;ifodje-atakpame;prelim;Tours préliminaires;sahel-sc
+1991;sahel-sc;prelim;Tours préliminaires;wydad-ac
+1991;lesotho-defence-force;prelim;Tours préliminaires;pamba
+1991;pamba;prelim;Tours préliminaires;sc-villa
+1991;as-tempete-mocaf;prelim;Tours préliminaires;petro-de-luanda
+1991;petro-de-luanda;prelim;Tours préliminaires;asec-mimosas
+1991;al-ahly;quarts;Quart de finaliste;sc-villa
+1991;al-ittihad-tripoli;prelim;Tours préliminaires;asec-mimosas
+1991;asec-mimosas;quarts;Quart de finaliste;heartland
+1991;al-merreikh;prelim;Tours préliminaires;sc-villa
+1991;sc-villa;finale;Finaliste;club-africain
+1991;club-africain;finale;Vainqueur;
+1991;requins-de-l-atlantique;prelim;Tours préliminaires;club-africain
+1991;fc-saint-eloi-lupopo;prelim;Tours préliminaires;jac
+1991;jac;prelim;Tours préliminaires;heartland
+1991;gor-mahia;prelim;Tours préliminaires;highlanders
+1991;highlanders;prelim;Tours préliminaires;al-ahly
+1991;hearts-of-oak;prelim;Tours préliminaires;petro-de-luanda
+1991;inter-club;prelim;Tours préliminaires;vital-o
+1991;vital-o;prelim;Tours préliminaires;union-douala
+1991;heartland;demis;Demi-finaliste;sc-villa
+1991;old-edwardians;prelim;Tours préliminaires;heartland
+1991;js-kabylie;prelim;Tours préliminaires;wydad-ac
+1991;elect-sport;prelim;Tours préliminaires;js-kabylie
+1991;matchedje;prelim;Tours préliminaires;pamba
+1991;nkana-fc;demis;Demi-finaliste;club-africain
+1991;port-autonome;prelim;Tours préliminaires;djoliba-ac
+1991;djoliba-ac;prelim;Tours préliminaires;club-africain
+1991;wydad-ac;quarts;Quart de finaliste;club-africain
+1991;sunrise-flacq-united;prelim;Tours préliminaires;nkana-fc
+1991;union-douala;quarts;Quart de finaliste;nkana-fc
+1991;etoile-filante;prelim;Tours préliminaires;union-douala
+1992;arsenal;prelim;Tours préliminaires;kcca
+1992;eleven-arrows;prelim;Tours préliminaires;arsenal
+1992;defence-force-xi;prelim;Tours préliminaires;highlanders-eswatini
+1992;highlanders-eswatini;prelim;Tours préliminaires;nkana-fc
+1992;sony-de-ela-nguema;prelim;Tours préliminaires;primeiro-de-agosto
+1992;primeiro-de-agosto;prelim;Tours préliminaires;club-africain
+1992;lprc-oilers;prelim;Tours préliminaires;mighty-blackpool
+1992;mighty-blackpool;prelim;Tours préliminaires;canon-yaounde
+1992;as-police-mauritanie;prelim;Tours préliminaires;as-real-bamako
+1992;as-real-bamako;prelim;Tours préliminaires;wydad-ac
+1992;port-autonome;prelim;Tours préliminaires;sporting-praia
+1992;sporting-praia;prelim;Tours préliminaires;club-africain
+1992;saint-george;prelim;Tours préliminaires;al-ittihad-tripoli
+1992;al-ittihad-tripoli;prelim;Tours préliminaires;gor-mahia
+1992;saint-louis-suns-united;prelim;Tours préliminaires;young-africans
+1992;young-africans;prelim;Tours préliminaires;ismaily
+1992;sahel-sc;prelim;Tours préliminaires;mo-constantine
+1992;postel-sport;prelim;Tours préliminaires;sahel-sc
+1992;tourbillon;prelim;Tours préliminaires;al-hilal-omdurman
+1992;forces-armees-ca;prelim;Tours préliminaires;tourbillon
+1992;gor-mahia;quarts;Quart de finaliste;al-hilal-omdurman
+1992;kcca;prelim;Tours préliminaires;nkana-fc
+1992;diables-noirs-brazz;prelim;Tours préliminaires;julius-berger
+1992;julius-berger;prelim;Tours préliminaires;wydad-ac
+1992;etoile-filante;prelim;Tours préliminaires;asec-mimosas
+1992;asec-mimosas;demis;Demi-finaliste;wydad-ac
+1992;horoya-ac;prelim;Tours préliminaires;asec-mimosas
+1992;esperance-tunis;prelim;Tours préliminaires;horoya-ac
+1992;fc-inter-star;prelim;Tours préliminaires;costa-do-sol
+1992;costa-do-sol;prelim;Tours préliminaires;asante-kotoko
+1992;nkana-fc;quarts;Quart de finaliste;wydad-ac
+1992;canon-yaounde;prelim;Tours préliminaires;gor-mahia
+1992;mikishi;prelim;Tours préliminaires;asante-kotoko
+1992;asante-kotoko;quarts;Quart de finaliste;asec-mimosas
+1992;as-sogara;prelim;Tours préliminaires;primeiro-de-agosto
+1992;wydad-ac;finale;Vainqueur;
+1992;mo-constantine;prelim;Tours préliminaires;ismaily
+1992;club-africain;quarts;Quart de finaliste;ismaily
+1992;sunrise-flacq-united;prelim;Tours préliminaires;ac-sotema
+1992;ac-sotema;prelim;Tours préliminaires;al-hilal-omdurman
+1992;al-hilal-omdurman;finale;Finaliste;wydad-ac
+1992;ismaily;demis;Demi-finaliste;al-hilal-omdurman
+1993;akonangui;prelim;Tours préliminaires;tp-usca-bangui
+1993;tp-usca-bangui;prelim;Tours préliminaires;stationery-stores
+1993;costa-do-sol;prelim;Tours préliminaires;asec-mimosas
+1993;ramblers;prelim;Tours préliminaires;costa-do-sol
+1993;djoliba-ac;prelim;Tours préliminaires;asec-mimosas
+1993;asc-sonader;prelim;Tours préliminaires;djoliba-ac
+1993;kiyovu-sports;prelim;Tours préliminaires;kaizer-chiefs
+1993;nyasa-big-bullets;prelim;Tours préliminaires;kiyovu-sports
+1993;lobatse-cs-gunners;prelim;Tours préliminaires;kaizer-chiefs
+1993;kaizer-chiefs;prelim;Tours préliminaires;zamalek
+1993;lprc-oilers;prelim;Tours préliminaires;club-africain
+1993;etoile-filante;prelim;Tours préliminaires;mc-oran
+1993;matlama-fc;prelim;Tours préliminaires;sunrise-flacq-united
+1993;sunrise-flacq-united;prelim;Tours préliminaires;nkana-fc
+1993;highlanders-eswatini;prelim;Tours préliminaires;ac-sotema
+1993;ac-sotema;prelim;Tours préliminaires;sc-villa
+1993;asec-ndiambour;prelim;Tours préliminaires;wydad-ac
+1993;mindelense;prelim;Tours préliminaires;asec-ndiambour
+1993;primeiro-de-agosto;prelim;Tours préliminaires;racing-bafoussam
+1993;buffles-du-borgou;prelim;Tours préliminaires;primeiro-de-agosto
+1993;saint-george;prelim;Tours préliminaires;malindi
+1993;malindi;prelim;Tours préliminaires;zamalek
+1993;sahel-sc;prelim;Tours préliminaires;asante-kotoko
+1993;elect-sport;prelim;Tours préliminaires;sahel-sc
+1993;sporting-clube-bissau;prelim;Tours préliminaires;etoile-filante
+1993;black-aces;prelim;Tours préliminaires;ac-sotema
+1993;afc-leopards;prelim;Tours préliminaires;nkana-fc
+1993;nkana-fc;quarts;Quart de finaliste;asante-kotoko
+1993;as-sogara;quarts;Quart de finaliste;stationery-stores
+1993;etoile-du-congo;prelim;Tours préliminaires;as-sogara
+1993;us-bilombe;prelim;Tours préliminaires;costa-do-sol
+1993;asec-mimosas;demis;Demi-finaliste;asante-kotoko
+1993;mc-oran;quarts;Quart de finaliste;zamalek
+1993;kac-marrakech;prelim;Tours préliminaires;asante-kotoko
+1993;horoya-ac;prelim;Tours préliminaires;kac-marrakech
+1993;club-africain;prelim;Tours préliminaires;as-sogara
+1993;zamalek;finale;Vainqueur;
+1993;sc-villa;quarts;Quart de finaliste;asec-mimosas
+1993;vital-o;prelim;Tours préliminaires;sc-villa
+1993;wydad-ac;prelim;Tours préliminaires;stationery-stores
+1993;racing-bafoussam;prelim;Tours préliminaires;mc-oran
+1993;asante-kotoko;finale;Finaliste;zamalek
+1993;al-hilal-port-sudan;prelim;Tours préliminaires;sunrise-flacq-united
+1993;stationery-stores;demis;Demi-finaliste;zamalek
+1994;mebrat-hail;prelim;Tours préliminaires;gor-mahia
+1994;kiyovu-sports;prelim;Tours préliminaires;mebrat-hail
+1994;lobatse-cs-gunners;prelim;Tours préliminaires;as-vita-club
+1994;chief-santos;prelim;Tours préliminaires;lobatse-cs-gunners
+1994;mighty-barolle;prelim;Tours préliminaires;semassi-sokode
+1994;semassi-sokode;prelim;Tours préliminaires;wydad-ac
+1994;postel-2000;prelim;Tours préliminaires;as-tempete-mocaf
+1994;as-tempete-mocaf;prelim;Tours préliminaires;mc-oran
+1994;js-saint-pierroise;prelim;Tours préliminaires;costa-do-sol
+1994;mbabane-swallows;prelim;Tours préliminaires;js-saint-pierroise
+1994;asc-sonader;prelim;Tours préliminaires;mc-oran
+1994;academica-do-sal;prelim;Tours préliminaires;asc-sonader
+1994;as-kaloum-star;prelim;Tours préliminaires;as-tempete-mocaf
+1994;al-merreikh;prelim;Tours préliminaires;simba-sc
+1994;simba-sc;quarts;Quart de finaliste;nkana-fc
+1994;arsenal;prelim;Tours préliminaires;mamelodi-sundowns
+1994;mamelodi-sundowns;prelim;Tours préliminaires;as-vita-club
+1994;costa-do-sol;prelim;Tours préliminaires;nkana-fc
+1994;east-end-lions;prelim;Tours préliminaires;stade-malien
+1994;stade-malien;prelim;Tours préliminaires;esperance-tunis
+1994;esperance-tunis;finale;Vainqueur;
+1994;etoile-filante;prelim;Tours préliminaires;esperance-tunis
+1994;fire-brigade-sc;prelim;Tours préliminaires;btm-antananarivo
+1994;btm-antananarivo;prelim;Tours préliminaires;simba-sc
+1994;gor-mahia;prelim;Tours préliminaires;zamalek
+1994;heartland;quarts;Quart de finaliste;esperance-tunis
+1994;zumunta-ac;prelim;Tours préliminaires;heartland
+1994;mc-oran;demis;Demi-finaliste;esperance-tunis
+1994;nkana-fc;demis;Demi-finaliste;zamalek
+1994;highlanders;prelim;Tours préliminaires;nkana-fc
+1994;petro-de-luanda;prelim;Tours préliminaires;as-sogara
+1994;as-sogara;quarts;Quart de finaliste;zamalek
+1994;racing-bafoussam;prelim;Tours préliminaires;heartland
+1994;dragons-de-l-oueme;prelim;Tours préliminaires;racing-bafoussam
+1994;as-vita-club;quarts;Quart de finaliste;mc-oran
+1994;wydad-ac;prelim;Tours préliminaires;as-sogara
+1994;zamalek;finale;Finaliste;esperance-tunis
+1994;express-fc;prelim;Tours préliminaires;zamalek
+1995;eleven-men-in-flight;prelim;Tours préliminaires;orlando-pirates
+1995;lobatse-cs-gunners;prelim;Tours préliminaires;eleven-men-in-flight
+1995;orlando-pirates;finale;Vainqueur;
+1995;fire-brigade-sc;prelim;Tours préliminaires;esperance-tunis
+1995;costa-do-sol;prelim;Tours préliminaires;fire-brigade-sc
+1995;dynamos-harare;quarts;Quart de finaliste;express-fc
+1995;al-hilal-omdurman;prelim;Tours préliminaires;dynamos-harare
+1995;fantastique;prelim;Tours préliminaires;ismaily
+1995;ismaily;demis;Demi-finaliste;asec-mimosas
+1995;lesotho-defence-force;prelim;Tours préliminaires;js-saint-pierroise
+1995;js-saint-pierroise;prelim;Tours préliminaires;ismaily
+1995;force-nat-securite;prelim;Tours préliminaires;express-fc
+1995;express-fc;demis;Demi-finaliste;orlando-pirates
+1995;etoile-du-congo;prelim;Tours préliminaires;aigle-nkongsamba
+1995;aigle-nkongsamba;prelim;Tours préliminaires;express-fc
+1995;etoile-filante;prelim;Tours préliminaires;esperance-tunis
+1995;esperance-tunis;quarts;Quart de finaliste;ismaily
+1995;semassi-sokode;prelim;Tours préliminaires;bcc-lions
+1995;bcc-lions;prelim;Tours préliminaires;orlando-pirates
+1995;real-banjul;prelim;Tours préliminaires;mbilinga-fc
+1995;desportivo-travadores;prelim;Tours préliminaires;real-banjul
+1995;mbilinga-fc;quarts;Quart de finaliste;orlando-pirates
+1995;as-vita-club;prelim;Tours préliminaires;mbilinga-fc
+1995;petro-de-luanda;prelim;Tours préliminaires;asec-mimosas
+1995;asec-mimosas;finale;Finaliste;orlando-pirates
+1995;power-dynamos;prelim;Tours préliminaires;simba-sc
+1995;simba-sc;prelim;Tours préliminaires;asec-mimosas
+1995;npa-anchors;prelim;Tours préliminaires;ashantigold
+1995;ashantigold;quarts;Quart de finaliste;asec-mimosas
+1995;stade-malien;prelim;Tours préliminaires;ashantigold
+1995;horoya-ac;prelim;Tours préliminaires;stade-malien
+1995;us-chaouia;prelim;Tours préliminaires;dynamos-harare
+1995;dragons-de-l-oueme;prelim;Tours préliminaires;us-chaouia
+1996;toffa;prelim;Tours préliminaires;mighty-barolle
+1996;mighty-barolle;prelim;Tours préliminaires;cs-sfaxien
+1996;saint-george;prelim;Tours préliminaires;cs-sfaxien
+1996;sunshine;prelim;Tours préliminaires;saint-george
+1996;boavista-praia;prelim;Tours préliminaires;js-kabylie
+1996;asc-sonalec;prelim;Tours préliminaires;boavista-praia
+1996;forces-armees-centrafrique;prelim;Tours préliminaires;fantastique
+1996;fantastique;prelim;Tours préliminaires;js-kabylie
+1996;postel-2000;prelim;Tours préliminaires;asec-mimosas
+1996;cheminots;prelim;Tours préliminaires;postel-2000
+1996;fobar;prelim;Tours préliminaires;highlanders-eswatini
+1996;highlanders-eswatini;prelim;Tours préliminaires;mufulira-wanderers
+1996;cs-saint-denis;prelim;Tours préliminaires;orlando-pirates
+1996;majantja;prelim;Tours préliminaires;cs-saint-denis
+1996;express-fc;prelim;Tours préliminaires;sunrise-flacq-united
+1996;sunrise-flacq-united;prelim;Tours préliminaires;zamalek
+1996;young-africans;prelim;Tours préliminaires;apr
+1996;apr;prelim;Tours préliminaires;petro-de-luanda
+1996;township-rollers;prelim;Tours préliminaires;black-africa
+1996;black-africa;prelim;Tours préliminaires;petro-de-luanda
+1996;cod-meknes;quarts;Quart de finaliste;zamalek
+1996;semassi-sokode;prelim;Tours préliminaires;cod-meknes
+1996;asfa-yennenga;prelim;Tours préliminaires;ashantigold
+1996;ashantigold;prelim;Tours préliminaires;cod-meknes
+1996;js-kabylie;demis;Demi-finaliste;shooting-stars
+1996;asec-mimosas;prelim;Tours préliminaires;asc-diaraf
+1996;asc-diaraf;quarts;Quart de finaliste;cs-sfaxien
+1996;as-kaloum-star;prelim;Tours préliminaires;asc-diaraf
+1996;shooting-stars;finale;Finaliste;zamalek
+1996;mangasport;prelim;Tours préliminaires;shooting-stars
+1996;dynamos-harare;prelim;Tours préliminaires;shooting-stars
+1996;gor-mahia;prelim;Tours préliminaires;dynamos-harare
+1996;mufulira-wanderers;prelim;Tours préliminaires;orlando-pirates
+1996;orlando-pirates;quarts;Quart de finaliste;shooting-stars
+1996;zamalek;finale;Vainqueur;
+1996;as-bantous;prelim;Tours préliminaires;apr
+1996;petro-de-luanda;quarts;Quart de finaliste;js-kabylie
+1996;al-hilal-omdurman;prelim;Tours préliminaires;saint-george
+1996;cs-sfaxien;demis;Demi-finaliste;zamalek
+1996;desportivo-maputo;prelim;Tours préliminaires;zamalek
+1996;cape-town-spurs;prelim;Tours préliminaires;desportivo-maputo
+1996;racing-bafoussam;prelim;Tours préliminaires;fantastique
+1997;ascot;prelim;Tours préliminaires;africa-sports
+1997;as-tempete-mocaf;prelim;Tours préliminaires;ascot
+1997;mogas-90;prelim;Tours préliminaires;desportivo-travadores
+1997;desportivo-travadores;prelim;Tours préliminaires;usm-alger
+1997;munisport;prelim;Tours préliminaires;unisport-bafang
+1997;cafe-band-sportif;prelim;Tours préliminaires;munisport
+1997;junior-professionals;prelim;Tours préliminaires;ashantigold
+1997;racing-bobo-dioulasso;prelim;Tours préliminaires;junior-professionals
+1997;saint-michel-united;prelim;Tours préliminaires;fc-bfv
+1997;fc-bfv;prelim;Tours préliminaires;ferroviario-maputo
+1997;notwane;prelim;Tours préliminaires;primeiro-de-agosto
+1997;blue-waters;prelim;Tours préliminaires;notwane
+1997;limbe-leaf-wanderers;prelim;Tours préliminaires;roma-rovers
+1997;roma-rovers;prelim;Tours préliminaires;orlando-pirates
+1997;young-africans;prelim;Tours préliminaires;express-fc
+1997;express-fc;prelim;Tours préliminaires;caps-united
+1997;usm-alger;poules;Phase de poules;
+1997;udoji-united;prelim;Tours préliminaires;usm-alger
+1997;as-kaloum-star;prelim;Tours préliminaires;udoji-united
+1997;unisport-bafang;prelim;Tours préliminaires;ferroviario-maputo
+1997;ferroviario-maputo;poules;Phase de poules;
+1997;raja-casablanca;finale;Vainqueur;
+1997;sonacos;prelim;Tours préliminaires;raja-casablanca
+1997;mbilinga-fc;prelim;Tours préliminaires;raja-casablanca
+1997;dc-motema-pembe;prelim;Tours préliminaires;mbilinga-fc
+1997;africa-sports;prelim;Tours préliminaires;primeiro-de-agosto
+1997;primeiro-de-agosto;poules;Phase de poules;
+1997;zamalek;poules;Phase de poules;
+1997;saint-george;prelim;Tours préliminaires;zamalek
+1997;mufulira-wanderers;prelim;Tours préliminaires;zamalek
+1997;apr;prelim;Tours préliminaires;mufulira-wanderers
+1997;club-africain;poules;Phase de poules;
+1997;djoliba-ac;prelim;Tours préliminaires;club-africain
+1997;sunrise-flacq-united;prelim;Tours préliminaires;js-saint-pierroise
+1997;js-saint-pierroise;prelim;Tours préliminaires;club-africain
+1997;breweries;prelim;Tours préliminaires;al-hilal-omdurman
+1997;al-hilal-omdurman;prelim;Tours préliminaires;ashantigold
+1997;ashantigold;finale;Finaliste;raja-casablanca
+1997;caps-united;prelim;Tours préliminaires;orlando-pirates
+1997;orlando-pirates;poules;Phase de poules;
+1998;saint-michel-united;prelim;Tours préliminaires;ethiopian-coffee
+1998;ethiopian-coffee;prelim;Tours préliminaires;young-africans
+1998;rayon-sport;prelim;Tours préliminaires;young-africans
+1998;maniema;prelim;Tours préliminaires;rayon-sport
+1998;telecom-wanderers;prelim;Tours préliminaires;dynamos-harare
+1998;lesotho-defence-force;prelim;Tours préliminaires;manning-rangers
+1998;mbabane-swallows;prelim;Tours préliminaires;lesotho-defence-force
+1998;medlaw-megbi;prelim;Tours préliminaires;utalii
+1998;utalii;prelim;Tours préliminaires;etoile-sahel
+1998;ss-saint-louisienne;prelim;Tours préliminaires;sunrise-flacq-united
+1998;sunrise-flacq-united;prelim;Tours préliminaires;ferroviario-maputo
+1998;desportivo;prelim;Tours préliminaires;petro-de-luanda
+1998;munisport;prelim;Tours préliminaires;desportivo
+1998;wallidan;prelim;Tours préliminaires;as-douanes
+1998;as-douanes;prelim;Tours préliminaires;raja-casablanca
+1998;mogas-90;prelim;Tours préliminaires;raja-casablanca
+1998;east-end-lions;prelim;Tours préliminaires;mogas-90
+1998;tourbillon;prelim;Tours préliminaires;cotonsport-garoua
+1998;as-tempete-mocaf;prelim;Tours préliminaires;tourbillon
+1998;al-ahly;prelim;Tours préliminaires;ethiopian-coffee
+1998;young-africans;poules;Phase de poules;
+1998;dynamos-harare;finale;Finaliste;asec-mimosas
+1998;ferroviario-maputo;prelim;Tours préliminaires;dynamos-harare
+1998;kcca;prelim;Tours préliminaires;power-dynamos
+1998;power-dynamos;prelim;Tours préliminaires;manning-rangers
+1998;manning-rangers;poules;Phase de poules;
+1998;al-merreikh;prelim;Tours préliminaires;utalii
+1998;kamsar;prelim;Tours préliminaires;etoile-sahel
+1998;etoile-sahel;poules;Phase de poules;
+1998;petro-de-luanda;prelim;Tours préliminaires;eagle-cement
+1998;eagle-cement;poules;Phase de poules;
+1998;as-vita-club;prelim;Tours préliminaires;eagle-cement
+1998;racing-bobo-dioulasso;prelim;Tours préliminaires;asec-mimosas
+1998;asec-mimosas;finale;Vainqueur;
+1998;dinamique-lome;prelim;Tours préliminaires;fc-105-libreville
+1998;fc-105-libreville;prelim;Tours préliminaires;asec-mimosas
+1998;cs-constantine;prelim;Tours préliminaires;as-douanes
+1998;raja-casablanca;poules;Phase de poules;
+1998;cotonsport-garoua;prelim;Tours préliminaires;hearts-of-oak
+1998;djoliba-ac;prelim;Tours préliminaires;hearts-of-oak
+1998;hearts-of-oak;poules;Phase de poules;
+1999;red-sea;prelim;Tours préliminaires;rayon-sport
+1999;rayon-sport;prelim;Tours préliminaires;al-ahly
+1999;asc-ndiambour;prelim;Tours préliminaires;raja-casablanca
+1999;invincible-eleven;prelim;Tours préliminaires;asc-ndiambour
+1999;usfa;prelim;Tours préliminaires;usm-el-harrach
+1999;dragons-de-l-oueme;prelim;Tours préliminaires;usfa
+1999;sony-de-ela-nguema;prelim;Tours préliminaires;hearts-of-oak
+1999;santana-fc;prelim;Tours préliminaires;sony-de-ela-nguema
+1999;telecom-wanderers;prelim;Tours préliminaires;mamelodi-sundowns
+1999;scouts-club;prelim;Tours préliminaires;telecom-wanderers
+1999;ss-saint-louisienne;poules;Phase de poules;
+1999;red-star;prelim;Tours préliminaires;ss-saint-louisienne
+1999;ascot;prelim;Tours préliminaires;al-mahala
+1999;al-mahala;prelim;Tours préliminaires;esperance-tunis
+1999;notwane;prelim;Tours préliminaires;lesotho-defence-force
+1999;lesotho-defence-force;prelim;Tours préliminaires;dynamos-harare
+1999;real-banjul;prelim;Tours préliminaires;as-kaloum-star
+1999;as-kaloum-star;prelim;Tours préliminaires;shooting-stars
+1999;maji-maji;prelim;Tours préliminaires;al-ahly
+1999;al-ahly;poules;Phase de poules;
+1999;afc-leopards;prelim;Tours préliminaires;rayon-sport
+1999;raja-casablanca;finale;Vainqueur;
+1999;djoliba-ac;prelim;Tours préliminaires;raja-casablanca
+1999;cotonsport-garoua;prelim;Tours préliminaires;djoliba-ac
+1999;fc-105;prelim;Tours préliminaires;asec-mimosas
+1999;asec-mimosas;poules;Phase de poules;
+1999;usm-el-harrach;prelim;Tours préliminaires;asec-mimosas
+1999;hearts-of-oak;poules;Phase de poules;
+1999;sc-villa;prelim;Tours préliminaires;hearts-of-oak
+1999;mebrat-hail;prelim;Tours préliminaires;sc-villa
+1999;shooting-stars;poules;Phase de poules;
+1999;costa-do-sol;prelim;Tours préliminaires;dc-motema-pembe
+1999;dc-motema-pembe;prelim;Tours préliminaires;shooting-stars
+1999;mamelodi-sundowns;prelim;Tours préliminaires;ss-saint-louisienne
+1999;dsa;prelim;Tours préliminaires;ss-saint-louisienne
+1999;esperance-tunis;finale;Finaliste;raja-casablanca
+1999;nchanga-rangers;prelim;Tours préliminaires;al-hilal-omdurman
+1999;al-hilal-omdurman;prelim;Tours préliminaires;esperance-tunis
+1999;vital-o;prelim;Tours préliminaires;dynamos-harare
+1999;primeiro-de-agosto;prelim;Tours préliminaires;vital-o
+1999;dynamos-harare;poules;Phase de poules;
+2010;apr;prelim;Tours préliminaires;tp-mazembe
+2010;recreativo-do-libolo;prelim;Tours préliminaires;apr
+2010;djoliba-ac;prelim;Tours préliminaires;tp-mazembe
+2010;al-ahly-benghazi;prelim;Tours préliminaires;djoliba-ac
+2010;asc-linguere;prelim;Tours préliminaires;djoliba-ac
+2010;asante-kotoko;prelim;Tours préliminaires;asc-linguere
+2010;sofapaka;prelim;Tours préliminaires;ismaily
+2010;ismaily;poules;Phase de poules;
+2010;us-stade-tamponnaise;prelim;Tours préliminaires;ismaily
+2010;ajesaia;prelim;Tours préliminaires;us-stade-tamponnaise
+2010;benin-representatives;prelim;Tours préliminaires;africa-sports
+2010;africa-sports;prelim;Tours préliminaires;al-hilal-omdurman
+2010;fello-star-de-labe;prelim;Tours préliminaires;raja-casablanca
+2010;raja-casablanca;prelim;Tours préliminaires;petro-de-luanda
+2010;sony-de-ela-nguema;prelim;Tours préliminaires;petro-de-luanda
+2010;petro-de-luanda;prelim;Tours préliminaires;js-kabylie
+2010;sahel-sc;prelim;Tours préliminaires;club-africain
+2010;club-africain;prelim;Tours préliminaires;js-kabylie
+2010;armed-forces;prelim;Tours préliminaires;js-kabylie
+2010;js-kabylie;demis;Demi-finaliste;tp-mazembe
+2010;gazelle-fc;prelim;Tours préliminaires;al-merreikh
+2010;bayelsa-united;prelim;Tours préliminaires;gazelle-fc
+2010;saint-george;prelim;Tours préliminaires;al-merreikh
+2010;al-merreikh;prelim;Tours préliminaires;esperance-tunis
+2010;east-end-lions;prelim;Tours préliminaires;esperance-tunis
+2010;esperance-tunis;finale;Finaliste;tp-mazembe
+2010;stade-mandji-p-gentil;prelim;Tours préliminaires;asfa-yennenga
+2010;asfa-yennenga;prelim;Tours préliminaires;esperance-tunis
+2010;la-passe;prelim;Tours préliminaires;curepipe-starlight
+2010;curepipe-starlight;prelim;Tours préliminaires;gaborone-united
+2010;gaborone-united;prelim;Tours préliminaires;dynamos-harare
+2010;orlando-pirates;prelim;Tours préliminaires;gaborone-united
+2010;young-africans;prelim;Tours préliminaires;fc-saint-eloi-lupopo
+2010;fc-saint-eloi-lupopo;prelim;Tours préliminaires;dynamos-harare
+2010;mafunzo;prelim;Tours préliminaires;gunners
+2010;gunners;prelim;Tours préliminaires;al-ahly
+2010;as-tempete-mocaf;prelim;Tours préliminaires;al-ittihad-tripoli
+2010;al-ittihad-tripoli;prelim;Tours préliminaires;al-ahly
+2010;os-balantas;prelim;Tours préliminaires;dh-el-jadida
+2010;dh-el-jadida;prelim;Tours préliminaires;al-ittihad-tripoli
+2010;ura;prelim;Tours préliminaires;zanaco
+2010;zanaco;prelim;Tours préliminaires;es-setif
+2010;sao-tome-representatives;prelim;Tours préliminaires;union-douala
+2010;union-douala;prelim;Tours préliminaires;es-setif
+2010;diables-noirs-brazz;prelim;Tours préliminaires;es-setif
+2010;es-setif;poules;Phase de poules;
+2010;vital-o;prelim;Tours préliminaires;tiko-united
+2010;tiko-united;prelim;Tours préliminaires;heartland
+2010;mbabane-swallows;prelim;Tours préliminaires;supersport-united
+2010;supersport-united;prelim;Tours préliminaires;heartland
+2010;tp-mazembe;finale;Vainqueur;
+2010;al-hilal-omdurman;prelim;Tours préliminaires;ismaily
+2010;dynamos-harare;poules;Phase de poules;
+2010;al-ahly;demis;Demi-finaliste;esperance-tunis
+2010;asec-mimosas;prelim;Tours préliminaires;zanaco
+2010;heartland;poules;Phase de poules;
+2010;ferroviario-maputo;prelim;Tours préliminaires;supersport-united
+2011;apr;prelim;Tours préliminaires;club-africain
+2011;club-africain;prelim;Tours préliminaires;al-hilal-omdurman
+2011;as-fan;prelim;Tours préliminaires;jc-abidjan
+2011;jc-abidjan;prelim;Tours préliminaires;al-ittihad-tripoli
+2011;asec-mimosas;prelim;Tours préliminaires;raja-casablanca
+2011;cansado;prelim;Tours préliminaires;asec-mimosas
+2011;aspac;prelim;Tours préliminaires;esperance-tunis
+2011;mongomo;prelim;Tours préliminaires;aspac
+2011;asc-diaraf;prelim;Tours préliminaires;esperance-tunis
+2011;gambia-ports-authority;prelim;Tours préliminaires;asc-diaraf
+2011;east-end-lions;prelim;Tours préliminaires;djoliba-ac
+2011;djoliba-ac;prelim;Tours préliminaires;asc-diaraf
+2011;elan-club;prelim;Tours préliminaires;simba-sc
+2011;simba-sc;prelim;Tours préliminaires;wydad-ac
+2011;fello-star-de-labe;prelim;Tours préliminaires;asfa-yennenga
+2011;asfa-yennenga;prelim;Tours préliminaires;es-setif
+2011;interclube;prelim;Tours préliminaires;mc-alger
+2011;township-rollers;prelim;Tours préliminaires;interclube
+2011;mighty-barolle;prelim;Tours préliminaires;kano-pillars
+2011;kano-pillars;prelim;Tours préliminaires;wydad-ac
+2011;motor-action;prelim;Tours préliminaires;asec-mimosas
+2011;cnaps-sport;prelim;Tours préliminaires;motor-action
+2011;ocean-view;prelim;Tours préliminaires;as-vita-club
+2011;as-vita-club;prelim;Tours préliminaires;cotonsport-garoua
+2011;raja-casablanca;poules;Phase de poules;
+2011;tourbillon;prelim;Tours préliminaires;raja-casablanca
+2011;real-bangui;prelim;Tours préliminaires;mc-alger
+2011;mc-alger;poules;Phase de poules;
+2011;recreativo-caala;prelim;Tours préliminaires;al-hilal-omdurman
+2011;saint-george;prelim;Tours préliminaires;recreativo-caala
+2011;saint-michel-d-ouenze;prelim;Tours préliminaires;enyimba
+2011;enyimba;demis;Demi-finaliste;wydad-ac
+2011;supersport-united;prelim;Tours préliminaires;al-ahly
+2011;matlama-fc;prelim;Tours préliminaires;supersport-united
+2011;ulinzi-stars;prelim;Tours préliminaires;zamalek
+2011;zamalek;prelim;Tours préliminaires;club-africain
+2011;us-bitam;prelim;Tours préliminaires;enyimba
+2011;les-astres;prelim;Tours préliminaires;us-bitam
+2011;vital-o;prelim;Tours préliminaires;cotonsport-garoua
+2011;cotonsport-garoua;poules;Phase de poules;
+2011;wydad-ac;finale;Finaliste;esperance-tunis
+2011;aduana-stars;prelim;Tours préliminaires;wydad-ac
+2011;young-buffaloes;prelim;Tours préliminaires;zesco-united
+2011;saint-michel-united;prelim;Tours préliminaires;young-buffaloes
+2011;zesco-united;prelim;Tours préliminaires;al-ahly
+2011;liga-muculmana;prelim;Tours préliminaires;zesco-united
+2011;al-ahly;poules;Phase de poules;
+2011;al-hilal-omdurman;demis;Demi-finaliste;esperance-tunis
+2011;al-ittihad-tripoli;prelim;Tours préliminaires;enyimba
+2011;al-merreikh;prelim;Tours préliminaires;interclube
+2011;dynamos-harare;prelim;Tours préliminaires;mc-alger
+2011;es-setif;prelim;Tours préliminaires;cotonsport-garoua
+2011;esperance-tunis;finale;Vainqueur;
+2011;stade-malien;prelim;Tours préliminaires;raja-casablanca
+2011;tp-mazembe;prelim;Tours préliminaires;wydad-ac
+2012;asfa-yennenga;prelim;Tours préliminaires;aso-chlef
+2012;aso-chlef;poules;Phase de poules;
+2012;foullah-edifice;prelim;Tours préliminaires;jsm-bejaia
+2012;jsm-bejaia;prelim;Tours préliminaires;afad
+2012;young-africans;prelim;Tours préliminaires;zamalek
+2012;zamalek;poules;Phase de poules;
+2012;brikama-united;prelim;Tours préliminaires;esperance-tunis
+2012;us-ouakam;prelim;Tours préliminaires;brikama-united
+2012;ports-authority-sierra-leone;prelim;Tours préliminaires;horoya-ac
+2012;horoya-ac;prelim;Tours préliminaires;mas-fes
+2012;tusker;prelim;Tours préliminaires;apr
+2012;apr;prelim;Tours préliminaires;etoile-sahel
+2012;coin-nord;prelim;Tours préliminaires;ethiopian-coffee
+2012;ethiopian-coffee;prelim;Tours préliminaires;al-ahly
+2012;asgnn;prelim;Tours préliminaires;tonnerre-fc
+2012;tonnerre-fc;prelim;Tours préliminaires;stade-malien
+2012;ura;prelim;Tours préliminaires;djoliba-ac
+2012;lcs;prelim;Tours préliminaires;ura
+2012;green-mamba;prelim;Tours préliminaires;fc-platinum
+2012;fc-platinum;prelim;Tours préliminaires;al-merreikh
+2012;orlando-pirates;prelim;Tours préliminaires;recreativo-do-libolo
+2012;recreativo-do-libolo;prelim;Tours préliminaires;sunshine-stars
+2012;dfc-8ieme-arrondissement;prelim;Tours préliminaires;al-hilal-omdurman
+2012;les-astres;prelim;Tours préliminaires;dfc-8ieme-arrondissement
+2012;missile;prelim;Tours préliminaires;africa-sports
+2012;africa-sports;prelim;Tours préliminaires;zamalek
+2012;sony-de-ela-nguema;prelim;Tours préliminaires;dolphin-fc
+2012;dolphin-fc;prelim;Tours préliminaires;cotonsport-garoua
+2012;liscr;prelim;Tours préliminaires;berekum-chelsea
+2012;berekum-chelsea;poules;Phase de poules;
+2012;japan-actuel-s-fc;prelim;Tours préliminaires;power-dynamos
+2012;power-dynamos;prelim;Tours préliminaires;tp-mazembe
+2012;afad;prelim;Tours préliminaires;etoile-sahel
+2012;diables-noirs-brazz;prelim;Tours préliminaires;afad
+2012;mafunzo;prelim;Tours préliminaires;liga-muculmana
+2012;liga-muculmana;prelim;Tours préliminaires;dynamos-harare
+2012;as-vita-club;prelim;Tours préliminaires;aso-chlef
+2012;athletico-olympic;prelim;Tours préliminaires;as-vita-club
+2012;al-hilal-omdurman;prelim;Tours préliminaires;aso-chlef
+2012;etoile-sahel;poules;Phase de poules;
+2012;esperance-tunis;finale;Finaliste;al-ahly
+2012;al-merreikh;prelim;Tours préliminaires;tp-mazembe
+2012;djoliba-ac;prelim;Tours préliminaires;sunshine-stars
+2012;dynamos-harare;prelim;Tours préliminaires;esperance-tunis
+2012;tp-mazembe;demis;Demi-finaliste;esperance-tunis
+2012;mas-fes;prelim;Tours préliminaires;zamalek
+2012;al-ahly;finale;Vainqueur;
+2012;sunshine-stars;demis;Demi-finaliste;al-ahly
+2012;cotonsport-garoua;prelim;Tours préliminaires;berekum-chelsea
+2012;raja-casablanca;prelim;Tours préliminaires;berekum-chelsea
+2012;stade-malien;prelim;Tours préliminaires;al-ahly
+2013;jsm-bejaia;prelim;Tours préliminaires;esperance-tunis
+2013;olympic-niamey;prelim;Tours préliminaires;jsm-bejaia
+2013;fus-rabat;prelim;Tours préliminaires;sewe-sport
+2013;real-banjul;prelim;Tours préliminaires;fus-rabat
+2013;ca-bizertin;prelim;Tours préliminaires;al-ahly
+2013;al-ittihad-tripoli;prelim;Tours préliminaires;ca-bizertin
+2013;saint-michel-united;prelim;Tours préliminaires;tusker
+2013;tusker;prelim;Tours préliminaires;al-ahly
+2013;orlando-pirates;finale;Finaliste;al-ahly
+2013;djabal-club;prelim;Tours préliminaires;orlando-pirates
+2013;jamhuri;prelim;Tours préliminaires;saint-george
+2013;saint-george;prelim;Tours préliminaires;zamalek
+2013;zanaco;prelim;Tours préliminaires;orlando-pirates
+2013;mbabane-swallows;prelim;Tours préliminaires;zanaco
+2013;apr;prelim;Tours préliminaires;vital-o
+2013;vital-o;prelim;Tours préliminaires;enugu-rangers
+2013;primeiro-de-agosto;prelim;Tours préliminaires;esperance-tunis
+2013;as-adema;prelim;Tours préliminaires;primeiro-de-agosto
+2013;ma-tetouan;prelim;Tours préliminaires;casa-sports
+2013;casa-sports;prelim;Tours préliminaires;stade-malien
+2013;kano-pillars;prelim;Tours préliminaires;ac-leopards
+2013;olympique-real;prelim;Tours préliminaires;kano-pillars
+2013;zamalek;poules;Phase de poules;
+2013;gazelle-fc;prelim;Tours préliminaires;zamalek
+2013;maxaquene;prelim;Tours préliminaires;mochudi-centre-chiefs
+2013;mochudi-centre-chiefs;prelim;Tours préliminaires;tp-mazembe
+2013;horoya-ac;prelim;Tours préliminaires;sewe-sport
+2013;sewe-sport;poules;Phase de poules;
+2013;afad;prelim;Tours préliminaires;cotonsport-garoua
+2013;diamond-stars;prelim;Tours préliminaires;afad
+2013;cotonsport-garoua;demis;Demi-finaliste;al-ahly
+2013;ura;prelim;Tours préliminaires;cotonsport-garoua
+2013;as-vita-club;prelim;Tours préliminaires;zamalek
+2013;dynamic-togolais;prelim;Tours préliminaires;as-vita-club
+2013;dynamos-harare;prelim;Tours préliminaires;ca-bizertin
+2013;lcs;prelim;Tours préliminaires;dynamos-harare
+2013;enugu-rangers;prelim;Tours préliminaires;recreativo-do-libolo
+2013;sporting-clube-principe;prelim;Tours préliminaires;enugu-rangers
+2013;simba-sc;prelim;Tours préliminaires;recreativo-do-libolo
+2013;recreativo-do-libolo;poules;Phase de poules;
+2013;asante-kotoko;prelim;Tours préliminaires;jsm-bejaia
+2013;sony-de-ela-nguema;prelim;Tours préliminaires;asante-kotoko
+2013;union-douala;prelim;Tours préliminaires;fus-rabat
+2013;liscr;prelim;Tours préliminaires;union-douala
+2013;ac-leopards;poules;Phase de poules;
+2013;cf-mounana;prelim;Tours préliminaires;ac-leopards
+2013;aspac;prelim;Tours préliminaires;asfa-yennenga
+2013;asfa-yennenga;prelim;Tours préliminaires;es-setif
+2013;al-hilal-omdurman;prelim;Tours préliminaires;sewe-sport
+2013;es-setif;prelim;Tours préliminaires;ac-leopards
+2013;al-ahly;finale;Vainqueur;
+2013;tp-mazembe;prelim;Tours préliminaires;orlando-pirates
+2013;al-merreikh;prelim;Tours préliminaires;recreativo-do-libolo
+2013;esperance-tunis;demis;Demi-finaliste;orlando-pirates
+2013;stade-malien;prelim;Tours préliminaires;cotonsport-garoua
+2013;djoliba-ac;prelim;Tours préliminaires;saint-george
+2014;raja-casablanca;prelim;Tours préliminaires;horoya-ac
+2014;diamond-stars;prelim;Tours préliminaires;raja-casablanca
+2014;al-ahly-benghazi;poules;Phase de poules;
+2014;foullah-edifice;prelim;Tours préliminaires;al-ahly-benghazi
+2014;al-merreikh;prelim;Tours préliminaires;kcca
+2014;kcca;prelim;Tours préliminaires;nkana-fc
+2014;young-africans;prelim;Tours préliminaires;al-ahly
+2014;komorozine;prelim;Tours préliminaires;young-africans
+2014;diables-noirs-brazz;prelim;Tours préliminaires;flambeau-de-l-est
+2014;flambeau-de-l-est;prelim;Tours préliminaires;cotonsport-garoua
+2014;es-setif;finale;Vainqueur;
+2014;steve-biko;prelim;Tours préliminaires;es-setif
+2014;diambars;prelim;Tours préliminaires;asfa-yennenga
+2014;asfa-yennenga;prelim;Tours préliminaires;es-setif
+2014;kabuscorp-sc;prelim;Tours préliminaires;zamalek
+2014;cote-d-or;prelim;Tours préliminaires;kabuscorp-sc
+2014;sewe-sport;prelim;Tours préliminaires;tp-mazembe
+2014;os-balantas-de-mansoa;prelim;Tours préliminaires;sewe-sport
+2014;as-far;prelim;Tours préliminaires;as-real
+2014;as-real;prelim;Tours préliminaires;esperance-tunis
+2014;kaizer-chiefs;prelim;Tours préliminaires;as-vita-club
+2014;black-africa;prelim;Tours préliminaires;kaizer-chiefs
+2014;gor-mahia;prelim;Tours préliminaires;esperance-tunis
+2014;us-bitam;prelim;Tours préliminaires;gor-mahia
+2014;liga-muculmana;prelim;Tours préliminaires;kaizer-chiefs
+2014;cnaps-sport;prelim;Tours préliminaires;liga-muculmana
+2014;sporting-praia-cruz-sao-tome-et-principe;prelim;Tours préliminaires;stade-malien
+2014;stade-malien;prelim;Tours préliminaires;al-hilal-omdurman
+2014;primeiro-de-agosto;prelim;Tours préliminaires;ac-leopards
+2014;lioli;prelim;Tours préliminaires;primeiro-de-agosto
+2014;as-vita-club;finale;Finaliste;es-setif
+2014;kano-pillars;prelim;Tours préliminaires;as-vita-club
+2014;mbabane-swallows;prelim;Tours préliminaires;nkana-fc
+2014;nkana-fc;prelim;Tours préliminaires;zamalek
+2014;ac-leopards;prelim;Tours préliminaires;al-hilal-omdurman
+2014;rayon-sport;prelim;Tours préliminaires;ac-leopards
+2014;dedebit;prelim;Tours préliminaires;cs-sfaxien
+2014;kmkm;prelim;Tours préliminaires;dedebit
+2014;dynamos-harare;prelim;Tours préliminaires;as-vita-club
+2014;mochudi-centre-chiefs;prelim;Tours préliminaires;dynamos-harare
+2014;les-astres;prelim;Tours préliminaires;tp-mazembe
+2014;akonangui;prelim;Tours préliminaires;les-astres
+2014;asante-kotoko;prelim;Tours préliminaires;barrack-yg-controllers
+2014;barrack-yg-controllers;prelim;Tours préliminaires;sewe-sport
+2014;berekum-chelsea;prelim;Tours préliminaires;al-ahly-benghazi
+2014;atlabara;prelim;Tours préliminaires;berekum-chelsea
+2014;enyimba;prelim;Tours préliminaires;as-real
+2014;anges-fc-de-notse;prelim;Tours préliminaires;enyimba
+2014;fc-nouadhibou;prelim;Tours préliminaires;horoya-ac
+2014;horoya-ac;prelim;Tours préliminaires;cs-sfaxien
+2014;zamalek;poules;Phase de poules;
+2014;as-douanes-niger;prelim;Tours préliminaires;zamalek
+2014;al-ahly;prelim;Tours préliminaires;al-ahly-benghazi
+2014;cotonsport-garoua;prelim;Tours préliminaires;es-setif
+2014;al-hilal-omdurman;poules;Phase de poules;
+2014;esperance-tunis;poules;Phase de poules;
+2014;cs-sfaxien;demis;Demi-finaliste;as-vita-club
+2014;tp-mazembe;demis;Demi-finaliste;es-setif
+2015;al-ahly-tripoli;prelim;Tours préliminaires;smouha
+2015;smouha;poules;Phase de poules;
+2015;cercle-olympique-bamako;prelim;Tours préliminaires;ma-tetouan
+2015;ma-tetouan;poules;Phase de poules;
+2015;raja-casablanca;prelim;Tours préliminaires;es-setif
+2015;diables-noirs-brazz;prelim;Tours préliminaires;raja-casablanca
+2015;stade-malien;prelim;Tours préliminaires;tp-mazembe
+2015;asgnn;prelim;Tours préliminaires;stade-malien
+2015;saint-michel-united;prelim;Tours préliminaires;mamelodi-sundowns
+2015;mamelodi-sundowns;prelim;Tours préliminaires;tp-mazembe
+2015;llb-s4a;prelim;Tours préliminaires;kabuscorp-sc
+2015;kabuscorp-sc;prelim;Tours préliminaires;al-merreikh
+2015;al-malakia-fc;prelim;Tours préliminaires;kano-pillars
+2015;kano-pillars;prelim;Tours préliminaires;ma-tetouan
+2015;kaizer-chiefs;prelim;Tours préliminaires;raja-casablanca
+2015;township-rollers;prelim;Tours préliminaires;kaizer-chiefs
+2015;pikine;prelim;Tours préliminaires;usm-alger
+2015;etoile-filante;prelim;Tours préliminaires;pikine
+2015;gor-mahia;prelim;Tours préliminaires;ac-leopards
+2015;cnaps-sport;prelim;Tours préliminaires;gor-mahia
+2015;kcca;prelim;Tours préliminaires;cosmos-de-bafia
+2015;cosmos-de-bafia;prelim;Tours préliminaires;esperance-tunis
+2015;recreativo-do-libolo;prelim;Tours préliminaires;sm-sanga-balende
+2015;sm-sanga-balende;prelim;Tours préliminaires;al-hilal-omdurman
+2015;mangasport;prelim;Tours préliminaires;stade-malien
+2015;bantu;prelim;Tours préliminaires;mangasport
+2015;sewe-sport;prelim;Tours préliminaires;as-kaloum-star
+2015;as-kaloum-star;prelim;Tours préliminaires;usm-alger
+2015;mc-el-eulma;poules;Phase de poules;
+2015;saint-george;prelim;Tours préliminaires;mc-el-eulma
+2015;real-banjul;prelim;Tours préliminaires;es-setif
+2015;barrack-yg-controllers;prelim;Tours préliminaires;real-banjul
+2015;azam;prelim;Tours préliminaires;al-merreikh
+2015;al-merreikh;demis;Demi-finaliste;tp-mazembe
+2015;fomboni-club;prelim;Tours préliminaires;nyasa-big-bullets
+2015;nyasa-big-bullets;prelim;Tours préliminaires;al-hilal-omdurman
+2015;liga-desportiva;prelim;Tours préliminaires;apr
+2015;apr;prelim;Tours préliminaires;al-ahly
+2015;mbabane-swallows;prelim;Tours préliminaires;zesco-united
+2015;zesco-united;prelim;Tours préliminaires;as-kaloum-star
+2015;al-hilal-omdurman;demis;Demi-finaliste;usm-alger
+2015;kmkm;prelim;Tours préliminaires;al-hilal-omdurman
+2015;enyimba;prelim;Tours préliminaires;smouha
+2015;buffles-du-borgou;prelim;Tours préliminaires;enyimba
+2015;usm-alger;finale;Finaliste;tp-mazembe
+2015;foullah-edifice;prelim;Tours préliminaires;usm-alger
+2015;sony-de-ela-nguema;prelim;Tours préliminaires;semassi-sokode
+2015;semassi-sokode;prelim;Tours préliminaires;cs-sfaxien
+2015;east-end-lions;prelim;Tours préliminaires;asante-kotoko
+2015;asante-kotoko;prelim;Tours préliminaires;mc-el-eulma
+2015;es-setif;poules;Phase de poules;
+2015;al-ahly;prelim;Tours préliminaires;ma-tetouan
+2015;cotonsport-garoua;prelim;Tours préliminaires;sm-sanga-balende
+2015;tp-mazembe;finale;Vainqueur;
+2015;ac-leopards;prelim;Tours préliminaires;smouha
+2015;esperance-tunis;prelim;Tours préliminaires;al-merreikh
+2015;cs-sfaxien;prelim;Tours préliminaires;mc-el-eulma
+2016;oc-khouribga;prelim;Tours préliminaires;etoile-sahel
+2016;gamtel;prelim;Tours préliminaires;oc-khouribga
+2016;vipers;prelim;Tours préliminaires;enyimba
+2016;enyimba;poules;Phase de poules;
+2016;gor-mahia;prelim;Tours préliminaires;cnaps-sport
+2016;cnaps-sport;prelim;Tours préliminaires;wydad-ac
+2016;cercle-de-joachim;prelim;Tours préliminaires;young-africans
+2016;young-africans;prelim;Tours préliminaires;al-ahly
+2016;chicken-inn;prelim;Tours préliminaires;mamelodi-sundowns
+2016;mamelodi-sundowns;finale;Vainqueur;
+2016;mafunzo;prelim;Tours préliminaires;as-vita-club
+2016;as-vita-club;prelim;Tours préliminaires;mamelodi-sundowns
+2016;mochudi-centre-chiefs;prelim;Tours préliminaires;ferroviario-maputo
+2016;ferroviario-maputo;prelim;Tours préliminaires;as-vita-club
+2016;recreativo-do-libolo;prelim;Tours préliminaires;al-ahly
+2016;racing-de-micomeseng;prelim;Tours préliminaires;recreativo-do-libolo
+2016;mangasport;prelim;Tours préliminaires;etoile-du-congo
+2016;etoile-du-congo;prelim;Tours préliminaires;es-setif
+2016;as-douanes;prelim;Tours préliminaires;horoya-ac
+2016;horoya-ac;prelim;Tours préliminaires;zesco-united
+2016;stade-malien;prelim;Tours préliminaires;zesco-united
+2016;rc-bobo-dioulasso;prelim;Tours préliminaires;stade-malien
+2016;zesco-united;demis;Demi-finaliste;mamelodi-sundowns
+2016;al-ghazala;prelim;Tours préliminaires;zesco-united
+2016;onze-createurs;prelim;Tours préliminaires;al-ahly-tripoli
+2016;al-ahly-tripoli;prelim;Tours préliminaires;asec-mimosas
+2016;club-africain;prelim;Tours préliminaires;mo-bejaia
+2016;as-tanda;prelim;Tours préliminaires;club-africain
+2016;saint-george;prelim;Tours préliminaires;tp-mazembe
+2016;saint-michel-united;prelim;Tours préliminaires;saint-george
+2016;mbabane-swallows;prelim;Tours préliminaires;apr
+2016;apr;prelim;Tours préliminaires;young-africans
+2016;volcan-club;prelim;Tours préliminaires;kaizer-chiefs
+2016;kaizer-chiefs;prelim;Tours préliminaires;asec-mimosas
+2016;cotontchad;prelim;Tours préliminaires;asec-mimosas
+2016;asec-mimosas;poules;Phase de poules;
+2016;lioli;prelim;Tours préliminaires;vital-o
+2016;vital-o;prelim;Tours préliminaires;enyimba
+2016;ashantigold;prelim;Tours préliminaires;mo-bejaia
+2016;mo-bejaia;prelim;Tours préliminaires;zamalek
+2016;warri-wolves;prelim;Tours préliminaires;al-merreikh
+2016;sporting;prelim;Tours préliminaires;warri-wolves
+2016;nimba-united;prelim;Tours préliminaires;union-douala
+2016;union-douala;prelim;Tours préliminaires;zamalek
+2016;wydad-ac;demis;Demi-finaliste;zamalek
+2016;as-douanes-niger;prelim;Tours préliminaires;wydad-ac
+2016;ac-leopards;prelim;Tours préliminaires;mamelodi-sundowns
+2016;al-ahly;poules;Phase de poules;
+2016;al-hilal-omdurman;prelim;Tours préliminaires;al-ahly-tripoli
+2016;cotonsport-garoua;prelim;Tours préliminaires;stade-malien
+2016;etoile-sahel;prelim;Tours préliminaires;enyimba
+2016;zamalek;finale;Finaliste;mamelodi-sundowns
+2016;al-merreikh;prelim;Tours préliminaires;es-setif
+2016;es-setif;poules;Phase de poules;
+2016;tp-mazembe;prelim;Tours préliminaires;wydad-ac
+2017;kcca;prelim;Tours préliminaires;mamelodi-sundowns
+2017;primeiro-de-agosto;prelim;Tours préliminaires;kcca
+2017;js-saoura;prelim;Tours préliminaires;enugu-rangers
+2017;enugu-rangers;prelim;Tours préliminaires;zamalek
+2017;cnaps-sport;prelim;Tours préliminaires;cotonsport-garoua
+2017;township-rollers;prelim;Tours préliminaires;cnaps-sport
+2017;zanaco;poules;Phase de poules;
+2017;apr;prelim;Tours préliminaires;zanaco
+2017;ss-saint-louisienne;prelim;Tours préliminaires;wits-university
+2017;wits-university;prelim;Tours préliminaires;al-ahly
+2017;as-tanda;prelim;Tours préliminaires;etoile-sahel
+2017;as-fan;prelim;Tours préliminaires;as-tanda
+2017;fc-johansen;prelim;Tours préliminaires;fus-rabat
+2017;fus-rabat;prelim;Tours préliminaires;al-ahly-tripoli
+2017;tusker;prelim;Tours préliminaires;aspl-2000
+2017;aspl-2000;prelim;Tours préliminaires;al-hilal-omdurman
+2017;royal-leopards;prelim;Tours préliminaires;as-vita-club
+2017;as-vita-club;poules;Phase de poules;
+2017;zimamoto;prelim;Tours préliminaires;ferroviario-beira
+2017;ferroviario-beira;quarts;Quart de finaliste;usm-alger
+2017;lioli;prelim;Tours préliminaires;caps-united
+2017;caps-united;poules;Phase de poules;
+2017;cf-mounana;prelim;Tours préliminaires;wydad-ac
+2017;vital-o;prelim;Tours préliminaires;cf-mounana
+2017;rc-kadiogo;prelim;Tours préliminaires;usm-alger
+2017;diables-noirs-brazz;prelim;Tours préliminaires;rc-kadiogo
+2017;as-real;prelim;Tours préliminaires;rivers-united
+2017;rivers-united;prelim;Tours préliminaires;al-merreikh
+2017;us-goree;prelim;Tours préliminaires;horoya-ac
+2017;horoya-ac;prelim;Tours préliminaires;esperance-tunis
+2017;cote-d-or;prelim;Tours préliminaires;saint-george
+2017;saint-george;poules;Phase de poules;
+2017;ngaya-club;prelim;Tours préliminaires;young-africans
+2017;young-africans;prelim;Tours préliminaires;zanaco
+2017;cotonsport-garoua;poules;Phase de poules;
+2017;atlabara;prelim;Tours préliminaires;cotonsport-garoua
+2017;sony-de-ela-nguema;prelim;Tours préliminaires;al-merreikh
+2017;al-merreikh;poules;Phase de poules;
+2017;wa-all-stars;prelim;Tours préliminaires;al-ahly-tripoli
+2017;al-ahly-tripoli;quarts;Quart de finaliste;etoile-sahel
+2017;ac-leopards;prelim;Tours préliminaires;saint-george
+2017;ums-de-loum;prelim;Tours préliminaires;ac-leopards
+2017;barrack-yg-controllers;prelim;Tours préliminaires;ferroviario-beira
+2017;stade-malien;prelim;Tours préliminaires;barrack-yg-controllers
+2017;gambia-ports-authority;prelim;Tours préliminaires;as-vita-club
+2017;sewe-sport;prelim;Tours préliminaires;gambia-ports-authority
+2017;mamelodi-sundowns;quarts;Quart de finaliste;wydad-ac
+2017;wydad-ac;finale;Vainqueur;
+2017;usm-alger;demis;Demi-finaliste;wydad-ac
+2017;al-ahly;finale;Finaliste;wydad-ac
+2017;esperance-tunis;quarts;Quart de finaliste;al-ahly
+2017;tp-mazembe;prelim;Tours préliminaires;caps-united
+2017;zamalek;poules;Phase de poules;
+2017;al-hilal-omdurman;poules;Phase de poules;
+2017;etoile-sahel;demis;Demi-finaliste;al-ahly
+2018;stade-malien;prelim;Tours préliminaires;wydad-ac
+2018;wydad-ac;quarts;Quart de finaliste;es-setif
+2018;cnaps-sport;prelim;Tours préliminaires;kcca
+2018;kcca;poules;Phase de poules;
+2018;gor-mahia;prelim;Tours préliminaires;esperance-tunis
+2018;leones-vegetarianos;prelim;Tours préliminaires;gor-mahia
+2018;jku;prelim;Tours préliminaires;zesco-united
+2018;zesco-united;poules;Phase de poules;
+2018;young-africans;prelim;Tours préliminaires;township-rollers
+2018;saint-louis-suns-united;prelim;Tours préliminaires;young-africans
+2018;rayon-sport;prelim;Tours préliminaires;mamelodi-sundowns
+2018;llb-s4a;prelim;Tours préliminaires;rayon-sport
+2018;township-rollers;poules;Phase de poules;
+2018;al-merreikh;prelim;Tours préliminaires;township-rollers
+2018;ac-leopards;prelim;Tours préliminaires;togo-port
+2018;togo-port;prelim;Tours préliminaires;
+2018;as-fan;prelim;Tours préliminaires;horoya-ac
+2018;horoya-ac;quarts;Quart de finaliste;al-ahly
+2018;wits-university;prelim;Tours préliminaires;primeiro-de-agosto
+2018;pamplemousses-sc;prelim;Tours préliminaires;wits-university
+2018;asac-concorde;prelim;Tours préliminaires;esperance-tunis
+2018;esperance-tunis;finale;Vainqueur;
+2018;rc-kadiogo;prelim;Tours préliminaires;cf-mounana
+2018;cf-mounana;prelim;Tours préliminaires;al-ahly
+2018;generation-foot;prelim;Tours préliminaires;horoya-ac
+2018;misr-al-maqasah;prelim;Tours préliminaires;generation-foot
+2018;dh-el-jadida;poules;Phase de poules;
+2018;benfica;prelim;Tours préliminaires;dh-el-jadida
+2018;zanaco;prelim;Tours préliminaires;mbabane-swallows
+2018;gambia-armed-forces;prelim;Tours préliminaires;zanaco
+2018;saint-george;prelim;Tours préliminaires;kcca
+2018;al-salam;prelim;Tours préliminaires;saint-george
+2018;es-setif;demis;Demi-finaliste;al-ahly
+2018;olympic-real-de-bangui;prelim;Tours préliminaires;es-setif
+2018;ngaya-club;prelim;Tours préliminaires;ud-songo
+2018;ud-songo;prelim;Tours préliminaires;tp-mazembe
+2018;bantu-united;prelim;Tours préliminaires;mbabane-swallows
+2018;mbabane-swallows;poules;Phase de poules;
+2018;as-otoho;prelim;Tours préliminaires;mc-alger
+2018;mc-alger;poules;Phase de poules;
+2018;as-vita-club;prelim;Tours préliminaires;dh-el-jadida
+2018;be-forward-wanderers;prelim;Tours préliminaires;as-vita-club
+2018;al-tahaddi;prelim;Tours préliminaires;aduana-stars
+2018;aduana-stars;prelim;Tours préliminaires;es-setif
+2018;plateau-united;prelim;Tours préliminaires;etoile-sahel
+2018;eding-sport;prelim;Tours préliminaires;plateau-united
+2018;primeiro-de-agosto;demis;Demi-finaliste;esperance-tunis
+2018;fc-platinum;prelim;Tours préliminaires;primeiro-de-agosto
+2018;buffles-du-borgou;prelim;Tours préliminaires;asec-mimosas
+2018;asec-mimosas;prelim;Tours préliminaires;zesco-united
+2018;liscr;prelim;Tours préliminaires;al-hilal-omdurman
+2018;al-hilal-omdurman;prelim;Tours préliminaires;togo-port
+2018;as-real;prelim;Tours préliminaires;mfm
+2018;mfm;prelim;Tours préliminaires;mc-alger
+2018;al-ahly;finale;Finaliste;esperance-tunis
+2018;etoile-sahel;quarts;Quart de finaliste;esperance-tunis
+2018;tp-mazembe;quarts;Quart de finaliste;primeiro-de-agosto
+2018;williamsville-ac;prelim;Tours préliminaires;wydad-ac
+2018;mamelodi-sundowns;poules;Phase de poules;
+2018-19;as-ali-sabieh-djib-tel;prelim;Tours préliminaires;jimma-aba-jifar
+2018-19;jimma-aba-jifar;prelim;Tours préliminaires;al-ahly
+2018-19;as-sonidep;prelim;Tours préliminaires;zesco-united
+2018-19;zesco-united;prelim;Tours préliminaires;tp-mazembe
+2018-19;asfb;prelim;Tours préliminaires;cotonsport-garoua
+2018-19;cotonsport-garoua;prelim;Tours préliminaires;ismaily
+2018-19;al-nasr;prelim;Tours préliminaires;horoya-ac
+2018-19;al-hilal;prelim;Tours préliminaires;al-nasr
+2018-19;asc-diaraf;prelim;Tours préliminaires;wydad-ac
+2018-19;us-koroki;prelim;Tours préliminaires;asc-diaraf
+2018-19;township-rollers;prelim;Tours préliminaires;bantu-united
+2018-19;bantu-united;prelim;Tours préliminaires;as-vita-club
+2018-19;volcan-club;prelim;Tours préliminaires;african-stars
+2018-19;african-stars;prelim;Tours préliminaires;orlando-pirates
+2018-19;scaf-tocages;prelim;Tours préliminaires;stade-malien
+2018-19;stade-malien;prelim;Tours préliminaires;asec-mimosas
+2018-19;cs-constantine;quarts;Quart de finaliste;esperance-tunis
+2018-19;gamtel;prelim;Tours préliminaires;cs-constantine
+2018-19;al-hilal-omdurman;prelim;Tours préliminaires;club-africain
+2018-19;jku;prelim;Tours préliminaires;al-hilal-omdurman
+2018-19;js-saoura;poules;Phase de poules;
+2018-19;sc-gagnoa;prelim;Tours préliminaires;js-saoura
+2018-19;ir-tanger;prelim;Tours préliminaires;js-saoura
+2018-19;elect-sport;prelim;Tours préliminaires;ir-tanger
+2018-19;simba-sc;quarts;Quart de finaliste;tp-mazembe
+2018-19;mbabane-swallows;prelim;Tours préliminaires;simba-sc
+2018-19;apr;prelim;Tours préliminaires;club-africain
+2018-19;club-africain;poules;Phase de poules;
+2018-19;horoya-ac;quarts;Quart de finaliste;wydad-ac
+2018-19;barrack-yg-controllers;prelim;Tours préliminaires;horoya-ac
+2018-19;cnaps-sport;prelim;Tours préliminaires;fc-platinum
+2018-19;fc-platinum;poules;Phase de poules;
+2018-19;le-messager-ngozi;prelim;Tours préliminaires;ismaily
+2018-19;ismaily;poules;Phase de poules;
+2018-19;ud-songo;prelim;Tours préliminaires;nkana-fc
+2018-19;nkana-fc;prelim;Tours préliminaires;simba-sc
+2018-19;leones-vegetarianos;prelim;Tours préliminaires;mamelodi-sundowns
+2018-19;mamelodi-sundowns;demis;Demi-finaliste;wydad-ac
+2018-19;ums-de-loum;prelim;Tours préliminaires;lobi-stars
+2018-19;lobi-stars;poules;Phase de poules;
+2018-19;primeiro-de-agosto;prelim;Tours préliminaires;as-otoho
+2018-19;as-otoho;prelim;Tours préliminaires;fc-platinum
+2018-19;asec-mimosas;poules;Phase de poules;
+2018-19;mangasport;prelim;Tours préliminaires;asec-mimosas
+2018-19;gor-mahia;prelim;Tours préliminaires;lobi-stars
+2018-19;nyasa-big-bullets;prelim;Tours préliminaires;gor-mahia
+2018-19;fc-nouadhibou;prelim;Tours préliminaires;al-ahly-benghazi
+2018-19;al-ahly-benghazi;prelim;Tours préliminaires;mamelodi-sundowns
+2018-19;al-merreikh;prelim;Tours préliminaires;vipers
+2018-19;vipers;prelim;Tours préliminaires;cs-constantine
+2018-19;orlando-pirates;poules;Phase de poules;
+2018-19;lightstars;prelim;Tours préliminaires;orlando-pirates
+2018-19;al-ahly;quarts;Quart de finaliste;mamelodi-sundowns
+2018-19;wydad-ac;finale;Finaliste;esperance-tunis
+2018-19;tp-mazembe;demis;Demi-finaliste;esperance-tunis
+2018-19;as-vita-club;poules;Phase de poules;
+2018-19;esperance-tunis;finale;Vainqueur;
+2019-20;js-kabylie;poules;Phase de poules;
+2019-20;al-merreikh;prelim;Tours préliminaires;js-kabylie
+2019-20;as-sonidep;prelim;Tours préliminaires;usm-alger
+2019-20;usm-alger;poules;Phase de poules;
+2019-20;african-stars;prelim;Tours préliminaires;kcca
+2019-20;kcca;prelim;Tours préliminaires;petro-de-luanda
+2019-20;nyasa-big-bullets;prelim;Tours préliminaires;fc-platinum
+2019-20;fc-platinum;poules;Phase de poules;
+2019-20;green-eagles;prelim;Tours préliminaires;primeiro-de-agosto
+2019-20;orlando-pirates;prelim;Tours préliminaires;green-eagles
+2019-20;green-mamba;prelim;Tours préliminaires;zesco-united
+2019-20;zesco-united;poules;Phase de poules;
+2019-20;kmkm;prelim;Tours préliminaires;primeiro-de-agosto
+2019-20;primeiro-de-agosto;poules;Phase de poules;
+2019-20;young-africans;prelim;Tours préliminaires;zesco-united
+2019-20;township-rollers;prelim;Tours préliminaires;young-africans
+2019-20;brikama-united;prelim;Tours préliminaires;raja-casablanca
+2019-20;raja-casablanca;demis;Demi-finaliste;zamalek
+2019-20;ud-songo;prelim;Tours préliminaires;fc-platinum
+2019-20;simba-sc;prelim;Tours préliminaires;ud-songo
+2019-20;kano-pillars;prelim;Tours préliminaires;asante-kotoko
+2019-20;asante-kotoko;prelim;Tours préliminaires;etoile-sahel
+2019-20;cano-sport-academy;prelim;Tours préliminaires;al-ahly
+2019-20;mekelle-70-enderta;prelim;Tours préliminaires;cano-sport-academy
+2019-20;rahimo;prelim;Tours préliminaires;enyimba
+2019-20;enyimba;prelim;Tours préliminaires;al-hilal-omdurman
+2019-20;stade-malien;prelim;Tours préliminaires;horoya-ac
+2019-20;horoya-ac;prelim;Tours préliminaires;js-kabylie
+2019-20;fomboni-club;prelim;Tours préliminaires;cote-d-or
+2019-20;cote-d-or;prelim;Tours préliminaires;mamelodi-sundowns
+2019-20;atlabara;prelim;Tours préliminaires;al-ahly
+2019-20;al-ahly;finale;Vainqueur;
+2019-20;as-otoho;prelim;Tours préliminaires;mamelodi-sundowns
+2019-20;mamelodi-sundowns;quarts;Quart de finaliste;al-ahly
+2019-20;lprc-oilers;prelim;Tours préliminaires;generation-foot
+2019-20;generation-foot;prelim;Tours préliminaires;zamalek
+2019-20;hafia-fc;prelim;Tours préliminaires;etoile-sahel
+2019-20;etoile-sahel;quarts;Quart de finaliste;wydad-ac
+2019-20;fosa-juniors;prelim;Tours préliminaires;tp-mazembe
+2019-20;pamplemousses-sc;prelim;Tours préliminaires;fosa-juniors
+2019-20;matlama-fc;prelim;Tours préliminaires;petro-de-luanda
+2019-20;petro-de-luanda;poules;Phase de poules;
+2019-20;aigle-noir;prelim;Tours préliminaires;gor-mahia
+2019-20;gor-mahia;prelim;Tours préliminaires;usm-alger
+2019-20;rayon-sport;prelim;Tours préliminaires;al-hilal-omdurman
+2019-20;al-hilal-omdurman;poules;Phase de poules;
+2019-20;cms;prelim;Tours préliminaires;elect-sport
+2019-20;elect-sport;prelim;Tours préliminaires;esperance-tunis
+2019-20;ums-de-loum;prelim;Tours préliminaires;as-vita-club
+2019-20;as-vita-club;poules;Phase de poules;
+2019-20;buffles-du-borgou;prelim;Tours préliminaires;asko-kara
+2019-20;asko-kara;prelim;Tours préliminaires;as-vita-club
+2019-20;so-armee;prelim;Tours préliminaires;fc-nouadhibou
+2019-20;fc-nouadhibou;prelim;Tours préliminaires;wydad-ac
+2019-20;as-tempete-mocaf;prelim;Tours préliminaires;al-nasr
+2019-20;al-nasr;prelim;Tours préliminaires;raja-casablanca
+2019-20;dekedda;prelim;Tours préliminaires;zamalek
+2019-20;zamalek;finale;Finaliste;al-ahly
+2019-20;esperance-tunis;quarts;Quart de finaliste;zamalek
+2019-20;tp-mazembe;quarts;Quart de finaliste;raja-casablanca
+2019-20;wydad-ac;demis;Demi-finaliste;al-ahly
+2020-21;al-ahly-benghazi;prelim;Tours préliminaires;esperance-tunis
+2020-21;mekelle-70-enderta;prelim;Tours préliminaires;al-ahly-benghazi
+2020-21;apr;prelim;Tours préliminaires;gor-mahia
+2020-21;gor-mahia;prelim;Tours préliminaires;cr-belouizdad
+2020-21;forest-rangers;prelim;Tours préliminaires;bouenguidi-sport
+2020-21;bouenguidi-sport;prelim;Tours préliminaires;tp-mazembe
+2020-21;costa-do-sol;prelim;Tours préliminaires;fc-platinum
+2020-21;fc-platinum;prelim;Tours préliminaires;simba-sc
+2020-21;mlandege;prelim;Tours préliminaires;cs-sfaxien
+2020-21;cs-sfaxien;prelim;Tours préliminaires;mc-alger
+2020-21;vipers;prelim;Tours préliminaires;al-hilal-omdurman
+2020-21;al-hilal-omdurman;poules;Phase de poules;
+2020-21;jwaneng-galaxy;prelim;Tours préliminaires;mamelodi-sundowns
+2020-21;us-zilimadjou;prelim;Tours préliminaires;jwaneng-galaxy
+2020-21;buffles-du-borgou;prelim;Tours préliminaires;mc-alger
+2020-21;mc-alger;quarts;Quart de finaliste;wydad-ac
+2020-21;as-otoho;prelim;Tours préliminaires;al-merreikh
+2020-21;al-merreikh;poules;Phase de poules;
+2020-21;gazelle-fc;prelim;Tours préliminaires;zamalek
+2020-21;garde-republicaine;prelim;Tours préliminaires;gazelle-fc
+2020-21;bantu-united;prelim;Tours préliminaires;nkana-fc
+2020-21;nkana-fc;prelim;Tours préliminaires;petro-de-luanda
+2020-21;pwd-de-bamenda;prelim;Tours préliminaires;kaizer-chiefs
+2020-21;kaizer-chiefs;finale;Finaliste;al-ahly
+2020-21;akonangui;prelim;Tours préliminaires;petro-de-luanda
+2020-21;petro-de-luanda;poules;Phase de poules;
+2020-21;as-sonidep;prelim;Tours préliminaires;al-ahly
+2020-21;mogadishu-city-club;prelim;Tours préliminaires;as-sonidep
+2020-21;plateau-united;prelim;Tours préliminaires;simba-sc
+2020-21;simba-sc;quarts;Quart de finaliste;kaizer-chiefs
+2020-21;ashanti-gb;prelim;Tours préliminaires;stade-malien
+2020-21;stade-malien;prelim;Tours préliminaires;wydad-ac
+2020-21;cr-belouizdad;quarts;Quart de finaliste;esperance-tunis
+2020-21;al-nasr;prelim;Tours préliminaires;cr-belouizdad
+2020-21;young-buffaloes;prelim;Tours préliminaires;as-vita-club
+2020-21;le-messager-ngozi;prelim;Tours préliminaires;young-buffaloes
+2020-21;fc-nouadhibou;prelim;Tours préliminaires;asante-kotoko
+2020-21;asante-kotoko;prelim;Tours préliminaires;al-hilal-omdurman
+2020-21;rahimo;prelim;Tours préliminaires;enyimba
+2020-21;enyimba;prelim;Tours préliminaires;al-merreikh
+2020-21;gambia-armed-forces;prelim;Tours préliminaires;teungueth-fc
+2020-21;teungueth-fc;poules;Phase de poules;
+2020-21;racing-club-d-abidjan;prelim;Tours préliminaires;horoya-ac
+2020-21;asko-kara;prelim;Tours préliminaires;racing-club-d-abidjan
+2020-21;mamelodi-sundowns;quarts;Quart de finaliste;al-ahly
+2020-21;raja-casablanca;prelim;Tours préliminaires;teungueth-fc
+2020-21;as-vita-club;poules;Phase de poules;
+2020-21;al-ahly;finale;Vainqueur;
+2020-21;primeiro-de-agosto;prelim;Tours préliminaires;kaizer-chiefs
+2020-21;tp-mazembe;poules;Phase de poules;
+2020-21;esperance-tunis;demis;Demi-finaliste;al-ahly
+2020-21;horoya-ac;poules;Phase de poules;
+2020-21;wydad-ac;demis;Demi-finaliste;kaizer-chiefs
+2020-21;zamalek;poules;Phase de poules;
+2021-22;amazulu-afrique-du-sud;poules;Phase de poules;
+2021-22;nyasa-big-bullets;prelim;Tours préliminaires;amazulu-afrique-du-sud
+2021-22;express-fc;prelim;Tours préliminaires;al-merreikh
+2021-22;al-merreikh;poules;Phase de poules;
+2021-22;jwaneng-galaxy;poules;Phase de poules;
+2021-22;dfc-8ieme-arrondissement;prelim;Tours préliminaires;jwaneng-galaxy
+2021-22;as-sonabel;prelim;Tours préliminaires;stade-malien
+2021-22;stade-malien;prelim;Tours préliminaires;horoya-ac
+2021-22;us-gendarmerie-nationale;prelim;Tours préliminaires;al-ahly
+2021-22;le-messager-ngozi;prelim;Tours préliminaires;us-gendarmerie-nationale
+2021-22;royal-leopards;prelim;Tours préliminaires;sagrada-esperanca
+2021-22;zesco-united;prelim;Tours préliminaires;royal-leopards
+2021-22;as-arta-solar7;prelim;Tours préliminaires;tusker
+2021-22;tusker;prelim;Tours préliminaires;zamalek
+2021-22;sagrada-esperanca;poules;Phase de poules;
+2021-22;fc-platinum;prelim;Tours préliminaires;sagrada-esperanca
+2021-22;loto-popo-fc;prelim;Tours préliminaires;fc-nouadhibou
+2021-22;fc-nouadhibou;prelim;Tours préliminaires;es-setif
+2021-22;ud-songo;prelim;Tours préliminaires;as-otoho
+2021-22;as-otoho;prelim;Tours préliminaires;petro-de-luanda
+2021-22;bouenguidi-sport;prelim;Tours préliminaires;as-maniema-union
+2021-22;as-maniema-union;prelim;Tours préliminaires;mamelodi-sundowns
+2021-22;fortune;prelim;Tours préliminaires;es-setif
+2021-22;es-setif;demis;Demi-finaliste;al-ahly
+2021-22;teungueth-fc;prelim;Tours préliminaires;asec-mimosas
+2021-22;asec-mimosas;prelim;Tours préliminaires;cr-belouizdad
+2021-22;akonangui;prelim;Tours préliminaires;zanaco
+2021-22;zanaco;prelim;Tours préliminaires;al-merreikh
+2021-22;fovu-club;prelim;Tours préliminaires;petro-de-luanda
+2021-22;petro-de-luanda;demis;Demi-finaliste;wydad-ac
+2021-22;fasil-city;prelim;Tours préliminaires;al-hilal-omdurman
+2021-22;al-hilal-omdurman;poules;Phase de poules;
+2021-22;akwa-united;prelim;Tours préliminaires;cr-belouizdad
+2021-22;cr-belouizdad;quarts;Quart de finaliste;wydad-ac
+2021-22;young-africans;prelim;Tours préliminaires;rivers-united
+2021-22;rivers-united;prelim;Tours préliminaires;al-hilal-omdurman
+2021-22;mogadishu-city-club;prelim;Tours préliminaires;apr
+2021-22;apr;prelim;Tours préliminaires;etoile-sahel
+2021-22;lprc-oilers;prelim;Tours préliminaires;raja-casablanca
+2021-22;asko-kara;prelim;Tours préliminaires;lprc-oilers
+2021-22;kmkm;prelim;Tours préliminaires;al-ittihad-tripoli
+2021-22;al-ittihad-tripoli;prelim;Tours préliminaires;esperance-tunis
+2021-22;ci-kamsar;prelim;Tours préliminaires;hearts-of-oak
+2021-22;hearts-of-oak;prelim;Tours préliminaires;wydad-ac
+2021-22;tp-mazembe;prelim;Tours préliminaires;amazulu-afrique-du-sud
+2021-22;zamalek;poules;Phase de poules;
+2021-22;etoile-sahel;poules;Phase de poules;
+2021-22;al-ahly;finale;Finaliste;wydad-ac
+2021-22;horoya-ac;poules;Phase de poules;
+2021-22;raja-casablanca;quarts;Quart de finaliste;al-ahly
+2021-22;simba-sc;prelim;Tours préliminaires;jwaneng-galaxy
+2021-22;mamelodi-sundowns;quarts;Quart de finaliste;petro-de-luanda
+2021-22;wydad-ac;finale;Vainqueur;
+2021-22;esperance-tunis;quarts;Quart de finaliste;es-setif
+2022-23;volcan-club;prelim;Tours préliminaires;la-passe
+2022-23;la-passe;prelim;Tours préliminaires;mamelodi-sundowns
+2022-23;asn-nigelec;prelim;Tours préliminaires;raja-casablanca
+2022-23;academie-soar;prelim;Tours préliminaires;asn-nigelec
+2022-23;hawks;prelim;Tours préliminaires;horoya-ac
+2022-23;horoya-ac;poules;Phase de poules;
+2022-23;zalan;prelim;Tours préliminaires;young-africans
+2022-23;young-africans;prelim;Tours préliminaires;al-hilal-omdurman
+2022-23;bo-rangers;prelim;Tours préliminaires;cr-belouizdad
+2022-23;cr-belouizdad;quarts;Quart de finaliste;mamelodi-sundowns
+2022-23;kmkm;prelim;Tours préliminaires;al-ahly-tripoli
+2022-23;al-ahly-tripoli;prelim;Tours préliminaires;al-merreikh
+2022-23;olympique-real;prelim;Tours préliminaires;vipers
+2022-23;vipers;poules;Phase de poules;
+2022-23;apr;prelim;Tours préliminaires;us-monastir
+2022-23;us-monastir;prelim;Tours préliminaires;al-ahly
+2022-23;cape-town-city;prelim;Tours préliminaires;petro-de-luanda
+2022-23;as-otoho;prelim;Tours préliminaires;cape-town-city
+2022-23;nyasa-big-bullets;prelim;Tours préliminaires;simba-sc
+2022-23;simba-sc;quarts;Quart de finaliste;wydad-ac
+2022-23;red-arrows;prelim;Tours préliminaires;primeiro-de-agosto
+2022-23;primeiro-de-agosto;prelim;Tours préliminaires;simba-sc
+2022-23;matlama-fc;prelim;Tours préliminaires;cotonsport-garoua
+2022-23;cotonsport-garoua;poules;Phase de poules;
+2022-23;stade-mandji-pt-gentil;prelim;Tours préliminaires;plateau-united
+2022-23;plateau-united;prelim;Tours préliminaires;esperance-tunis
+2022-23;deportivo-mongomo;prelim;Tours préliminaires;djoliba-ac
+2022-23;djoliba-ac;prelim;Tours préliminaires;cr-belouizdad
+2022-23;black-bulls;prelim;Tours préliminaires;petro-de-luanda
+2022-23;petro-de-luanda;poules;Phase de poules;
+2022-23;cffa;prelim;Tours préliminaires;royal-leopards
+2022-23;royal-leopards;prelim;Tours préliminaires;cotonsport-garoua
+2022-23;as-arta-solar7;prelim;Tours préliminaires;al-merreikh
+2022-23;al-merreikh;poules;Phase de poules;
+2022-23;asko-kara;prelim;Tours préliminaires;js-kabylie
+2022-23;fc-nouadhibou;prelim;Tours préliminaires;asko-kara
+2022-23;flambeau-du-centre;prelim;Tours préliminaires;zamalek
+2022-23;al-ittihad-tripoli;prelim;Tours préliminaires;flambeau-du-centre
+2022-23;saint-george;prelim;Tours préliminaires;al-hilal-omdurman
+2022-23;al-hilal-omdurman;poules;Phase de poules;
+2022-23;rivers-united;prelim;Tours préliminaires;wydad-ac
+2022-23;watanga-fc;prelim;Tours préliminaires;rivers-united
+2022-23;coton-sport-fc;prelim;Tours préliminaires;asec-mimosas
+2022-23;asec-mimosas;prelim;Tours préliminaires;horoya-ac
+2022-23;gaborone-united;prelim;Tours préliminaires;as-vita-club
+2022-23;as-vita-club;poules;Phase de poules;
+2022-23;casa-sports;prelim;Tours préliminaires;js-kabylie
+2022-23;js-kabylie;quarts;Quart de finaliste;esperance-tunis
+2022-23;rc-kadiogo;prelim;Tours préliminaires;as-vita-club
+2022-23;asante-kotoko;prelim;Tours préliminaires;rc-kadiogo
+2022-23;elect-sport;prelim;Tours préliminaires;zamalek
+2022-23;zamalek;poules;Phase de poules;
+2022-23;raja-casablanca;quarts;Quart de finaliste;al-ahly
+2022-23;mamelodi-sundowns;demis;Demi-finaliste;wydad-ac
+2022-23;tp-mazembe;prelim;Tours préliminaires;vipers
+2022-23;al-ahly;finale;Vainqueur;
+2022-23;esperance-tunis;demis;Demi-finaliste;al-ahly
+2022-23;wydad-ac;finale;Finaliste;al-ahly
+2023-24;hafia-fc;prelim;Tours préliminaires;wydad-ac
+2023-24;generation-foot;prelim;Tours préliminaires;hafia-fc
+2023-24;as-gnn;prelim;Tours préliminaires;as-douanes-burkina-faso
+2023-24;as-douanes-burkina-faso;prelim;Tours préliminaires;esperance-tunis
+2023-24;bo-rangers;prelim;Tours préliminaires;cr-belouizdad
+2023-24;liscr;prelim;Tours préliminaires;bo-rangers
+2023-24;medeama;poules;Phase de poules;
+2023-24;remo-stars;prelim;Tours préliminaires;medeama
+2023-24;kmkm;prelim;Tours préliminaires;saint-george
+2023-24;saint-george;prelim;Tours préliminaires;al-ahly
+2023-24;apr;prelim;Tours préliminaires;pyramids
+2023-24;gaadiidka;prelim;Tours préliminaires;apr
+2023-24;centre-sportif-de-bendje;prelim;Tours préliminaires;bumamuru
+2023-24;bumamuru;prelim;Tours préliminaires;mamelodi-sundowns
+2023-24;african-stars;prelim;Tours préliminaires;power-dynamos
+2023-24;power-dynamos;prelim;Tours préliminaires;simba-sc
+2023-24;ud-songo;prelim;Tours préliminaires;petro-de-luanda
+2023-24;green-mamba;prelim;Tours préliminaires;ud-songo
+2023-24;dragon;prelim;Tours préliminaires;nyasa-big-bullets
+2023-24;nyasa-big-bullets;prelim;Tours préliminaires;tp-mazembe
+2023-24;al-ahly-benghazi;prelim;Tours préliminaires;asec-mimosas
+2023-24;enyimba;prelim;Tours préliminaires;al-ahly-benghazi
+2023-24;coton-fc;prelim;Tours préliminaires;asec-mimosas
+2023-24;asec-mimosas;quarts;Quart de finaliste;esperance-tunis
+2023-24;cs-constantine;prelim;Tours préliminaires;etoile-sahel
+2023-24;etoile-sahel;poules;Phase de poules;
+2023-24;asko-kara;prelim;Tours préliminaires;as-far
+2023-24;as-far;prelim;Tours préliminaires;etoile-sahel
+2023-24;as-real-bamako;prelim;Tours préliminaires;fc-nouadhibou
+2023-24;cotonsport-garoua;prelim;Tours préliminaires;as-real-bamako
+2023-24;fc-nouadhibou;poules;Phase de poules;
+2023-24;al-ahly-tripoli;prelim;Tours préliminaires;fc-nouadhibou
+2023-24;primeiro-de-agosto;prelim;Tours préliminaires;al-hilal-omdurman
+2023-24;as-vita-club;prelim;Tours préliminaires;primeiro-de-agosto
+2023-24;salaam-fc-bor;prelim;Tours préliminaires;al-hilal-omdurman
+2023-24;al-hilal-omdurman;poules;Phase de poules;
+2023-24;as-otoho;prelim;Tours préliminaires;al-merreikh
+2023-24;al-merreikh;prelim;Tours préliminaires;young-africans
+2023-24;djibouti-telecom;prelim;Tours préliminaires;young-africans
+2023-24;young-africans;quarts;Quart de finaliste;mamelodi-sundowns
+2023-24;jwaneng-galaxy;poules;Phase de poules;
+2023-24;vipers;prelim;Tours préliminaires;jwaneng-galaxy
+2023-24;djabal-club;prelim;Tours préliminaires;orlando-pirates
+2023-24;orlando-pirates;prelim;Tours préliminaires;jwaneng-galaxy
+2023-24;wydad-ac;poules;Phase de poules;
+2023-24;esperance-tunis;finale;Finaliste;al-ahly
+2023-24;cr-belouizdad;poules;Phase de poules;
+2023-24;horoya-ac;prelim;Tours préliminaires;medeama
+2023-24;al-ahly;finale;Vainqueur;
+2023-24;pyramids;poules;Phase de poules;
+2023-24;mamelodi-sundowns;demis;Demi-finaliste;esperance-tunis
+2023-24;simba-sc;quarts;Quart de finaliste;al-ahly
+2023-24;petro-de-luanda;quarts;Quart de finaliste;tp-mazembe
+2023-24;tp-mazembe;demis;Demi-finaliste;al-ahly
+2024-25;el-merriekh-bentiu;prelim;Tours préliminaires;gor-mahia
+2024-25;gor-mahia;prelim;Tours préliminaires;al-ahly
+2024-25;arta-solar;prelim;Tours préliminaires;dekedaha
+2024-25;dekedaha;prelim;Tours préliminaires;esperance-tunis
+2024-25;sc-villa;prelim;Tours préliminaires;cbe
+2024-25;cbe;prelim;Tours préliminaires;young-africans
+2024-25;vital-o;prelim;Tours préliminaires;young-africans
+2024-25;young-africans;poules;Phase de poules;
+2024-25;azam;prelim;Tours préliminaires;apr
+2024-25;apr;prelim;Tours préliminaires;pyramids
+2024-25;jku;prelim;Tours préliminaires;pyramids
+2024-25;pyramids;finale;Vainqueur;
+2024-25;mbabane-swallows;prelim;Tours préliminaires;mamelodi-sundowns
+2024-25;ferroviario-beira;prelim;Tours préliminaires;mbabane-swallows
+2024-25;ngezi-platinum;prelim;Tours préliminaires;as-maniema-union
+2024-25;as-maniema-union;poules;Phase de poules;
+2024-25;nyasa-big-bullets;prelim;Tours préliminaires;red-arrows
+2024-25;red-arrows;prelim;Tours préliminaires;tp-mazembe
+2024-25;african-stars;prelim;Tours préliminaires;jwaneng-galaxy
+2024-25;jwaneng-galaxy;prelim;Tours préliminaires;orlando-pirates
+2024-25;disciples-fc;prelim;Tours préliminaires;orlando-pirates
+2024-25;orlando-pirates;demis;Demi-finaliste;pyramids
+2024-25;us-zilimadjou;prelim;Tours préliminaires;enugu-rangers
+2024-25;enugu-rangers;prelim;Tours préliminaires;sagrada-esperanca
+2024-25;saint-louis-suns-united;prelim;Tours préliminaires;sagrada-esperanca
+2024-25;sagrada-esperanca;poules;Phase de poules;
+2024-25;as-douanes-burkina-faso;prelim;Tours préliminaires;cr-belouizdad
+2024-25;coton-fc;prelim;Tours préliminaires;as-douanes-burkina-faso
+2024-25;ac-leopards;prelim;Tours préliminaires;cr-belouizdad
+2024-25;cr-belouizdad;poules;Phase de poules;
+2024-25;victoria-united;prelim;Tours préliminaires;samartex
+2024-25;samartex;prelim;Tours préliminaires;raja-casablanca
+2024-25;as-gnn;prelim;Tours préliminaires;raja-casablanca
+2024-25;raja-casablanca;poules;Phase de poules;
+2024-25;as-psi;prelim;Tours préliminaires;us-monastir
+2024-25;us-monastir;prelim;Tours préliminaires;mc-alger
+2024-25;watanga-fc;prelim;Tours préliminaires;mc-alger
+2024-25;mc-alger;quarts;Quart de finaliste;orlando-pirates
+2024-25;red-star-de-bangui;prelim;Tours préliminaires;djoliba-ac
+2024-25;djoliba-ac;poules;Phase de poules;
+2024-25;deportivo-mongomo;prelim;Tours préliminaires;asko-kara
+2024-25;asko-kara;prelim;Tours préliminaires;djoliba-ac
+2024-25;stade-d-abidjan;poules;Phase de poules;
+2024-25;teungueth-fc;prelim;Tours préliminaires;stade-d-abidjan
+2024-25;milo;prelim;Tours préliminaires;stade-d-abidjan
+2024-25;fc-nouadhibou;prelim;Tours préliminaires;milo
+2024-25;bo-rangers;prelim;Tours préliminaires;san-pedro
+2024-25;san-pedro;prelim;Tours préliminaires;al-hilal-omdurman
+2024-25;al-ahly-benghazi;prelim;Tours préliminaires;al-hilal-omdurman
+2024-25;al-hilal-omdurman;quarts;Quart de finaliste;al-ahly
+2024-25;al-nasr;prelim;Tours préliminaires;al-merreikh
+2024-25;al-merreikh;prelim;Tours préliminaires;as-far
+2024-25;remo-stars;prelim;Tours préliminaires;as-far
+2024-25;as-far;quarts;Quart de finaliste;pyramids
+2024-25;al-ahly;demis;Demi-finaliste;mamelodi-sundowns
+2024-25;esperance-tunis;quarts;Quart de finaliste;mamelodi-sundowns
+2024-25;mamelodi-sundowns;finale;Finaliste;pyramids
+2024-25;petro-de-luanda;prelim;Tours préliminaires;as-maniema-union
+2024-25;tp-mazembe;poules;Phase de poules;
+2025-26;aigle-noir;prelim;Tours préliminaires;al-ahly
+2025-26;asas-djibouti-telecom;prelim;Tours préliminaires;aigle-noir
+2025-26;ethiopian-insurance;prelim;Tours préliminaires;pyramids
+2025-26;mlandege;prelim;Tours préliminaires;ethiopian-insurance
+2025-26;apr;prelim;Tours préliminaires;pyramids
+2025-26;pyramids;quarts;Quart de finaliste;as-far
+2025-26;mogadishu-city-club;prelim;Tours préliminaires;kenya-police
+2025-26;kenya-police;prelim;Tours préliminaires;al-hilal-omdurman
+2025-26;jamus;prelim;Tours préliminaires;al-hilal-omdurman
+2025-26;al-hilal-omdurman;quarts;Quart de finaliste;rs-berkane
+2025-26;rahimo;prelim;Tours préliminaires;esperance-tunis
+2025-26;mangasport;prelim;Tours préliminaires;rahimo
+2025-26;as-fan;prelim;Tours préliminaires;esperance-tunis
+2025-26;esperance-tunis;demis;Demi-finaliste;mamelodi-sundowns
+2025-26;dadje;prelim;Tours préliminaires;al-ahly-tripoli
+2025-26;al-ahly-tripoli;prelim;Tours préliminaires;rs-berkane
+2025-26;asko-kara;prelim;Tours préliminaires;rs-berkane
+2025-26;rs-berkane;demis;Demi-finaliste;as-far
+2025-26;east-end-lions;prelim;Tours préliminaires;us-monastir
+2025-26;us-monastir;prelim;Tours préliminaires;js-kabylie
+2025-26;bibiani-gold-stars;prelim;Tours préliminaires;js-kabylie
+2025-26;js-kabylie;poules;Phase de poules;
+2025-26;fundacion-bata;prelim;Tours préliminaires;fc-nouadhibou
+2025-26;fc-nouadhibou;prelim;Tours préliminaires;stade-malien
+2025-26;as-tempete-mocaf;prelim;Tours préliminaires;stade-malien
+2025-26;stade-malien;quarts;Quart de finaliste;mamelodi-sundowns
+2025-26;al-hilal-benghazi;prelim;Tours préliminaires;horoya-ac
+2025-26;horoya-ac;prelim;Tours préliminaires;as-far
+2025-26;real-banjul;prelim;Tours préliminaires;as-far
+2025-26;as-far;finale;Finaliste;mamelodi-sundowns
+2025-26;colombe-sportive;prelim;Tours préliminaires;mc-alger
+2025-26;asc-diaraf;prelim;Tours préliminaires;colombe-sportive
+2025-26;fassell;prelim;Tours préliminaires;mc-alger
+2025-26;mc-alger;poules;Phase de poules;
+2025-26;remo-stars;prelim;Tours préliminaires;mamelodi-sundowns
+2025-26;us-zilimadjou;prelim;Tours préliminaires;remo-stars
+2025-26;simba-bhora;prelim;Tours préliminaires;nsingizini-hotspurs
+2025-26;nsingizini-hotspurs;prelim;Tours préliminaires;simba-sc
+2025-26;gaborone-united;prelim;Tours préliminaires;simba-sc
+2025-26;simba-sc;poules;Phase de poules;
+2025-26;elgeco-plus;prelim;Tours préliminaires;silver-strikers
+2025-26;silver-strikers;prelim;Tours préliminaires;young-africans
+2025-26;wiliete;prelim;Tours préliminaires;young-africans
+2025-26;young-africans;poules;Phase de poules;
+2025-26;cote-d-or;prelim;Tours préliminaires;stade-d-abidjan
+2025-26;stade-d-abidjan;prelim;Tours préliminaires;petro-de-luanda
+2025-26;cercle-de-joachim;prelim;Tours préliminaires;petro-de-luanda
+2025-26;petro-de-luanda;poules;Phase de poules;
+2025-26;ac-leopards;prelim;Tours préliminaires;black-bulls
+2025-26;black-bulls;prelim;Tours préliminaires;rivers-united
+2025-26;aigles-du-congo;prelim;Tours préliminaires;rivers-united
+2025-26;rivers-united;poules;Phase de poules;
+2025-26;african-stars;prelim;Tours préliminaires;vipers
+2025-26;vipers;prelim;Tours préliminaires;power-dynamos
+2025-26;power-dynamos;poules;Phase de poules;
+2025-26;asec-mimosas;prelim;Tours préliminaires;power-dynamos
+2025-26;fc-saint-eloi-lupopo;poules;Phase de poules;
+2025-26;al-merreikh;prelim;Tours préliminaires;fc-saint-eloi-lupopo
+2025-26;lioli;prelim;Tours préliminaires;orlando-pirates
+2025-26;orlando-pirates;prelim;Tours préliminaires;fc-saint-eloi-lupopo
+2025-26;al-ahly;quarts;Quart de finaliste;esperance-tunis
+2025-26;mamelodi-sundowns;finale;Vainqueur;
+2026-27;wiliete;poules;En course;
+2026-27;foresters;prelim;Tours préliminaires;wiliete
+2026-27;scottland;prelim;Tours préliminaires;petro-de-luanda
+2026-27;nsingizini-hotspurs;prelim;Tours préliminaires;scottland
+2026-27;ud-songo;prelim;Tours préliminaires;petro-de-luanda
+2026-27;petro-de-luanda;poules;En course;
+2026-27;mangasport;prelim;Tours préliminaires;african-stars
+2026-27;african-stars;prelim;Tours préliminaires;orlando-pirates
+2026-27;la-cure-waves;prelim;Tours préliminaires;orlando-pirates
+2026-27;orlando-pirates;poules;En course;
+2026-27;15-de-agosto;prelim;Tours préliminaires;simba-sc
+2026-27;fomboni-club;prelim;Tours préliminaires;15-de-agosto
+2026-27;mighty-wanderers;prelim;Tours préliminaires;simba-sc
+2026-27;simba-sc;poules;En course;
+2026-27;cffa;prelim;Tours préliminaires;young-africans
+2026-27;lijabatho;prelim;Tours préliminaires;cffa
+2026-27;gaborone-united;prelim;Tours préliminaires;young-africans
+2026-27;young-africans;poules;En course;
+2026-27;asswehly;prelim;Tours préliminaires;esperance-tunis
+2026-27;kvz-fc;prelim;Tours préliminaires;asswehly
+2026-27;aigles-du-congo;prelim;Tours préliminaires;apr
+2026-27;apr;prelim;Tours préliminaires;zamalek
+2026-27;as-port;prelim;Tours préliminaires;zamalek
+2026-27;zamalek;poules;En course;
+2026-27;el-merriekh-bentiu;prelim;Tours préliminaires;pyramids
+2026-27;heegan;prelim;Tours préliminaires;el-merriekh-bentiu
+2026-27;gor-mahia;prelim;Tours préliminaires;pyramids
+2026-27;pyramids;poules;En course;
+2026-27;aiglons;prelim;Tours préliminaires;sidama
+2026-27;sidama;prelim;Tours préliminaires;al-hilal-omdurman
+2026-27;aigle-noir;prelim;Tours préliminaires;al-hilal-omdurman
+2026-27;al-hilal-omdurman;poules;En course;
+2026-27;star-sport-academy;prelim;Tours préliminaires;rs-berkane
+2026-27;medina-united;prelim;Tours préliminaires;star-sport-academy
+2026-27;maghreb-fez;poules;En course;
+2026-27;rahimo;prelim;Tours préliminaires;maghreb-fez
+2026-27;asko-kara;prelim;Tours préliminaires;asec-mimosas
+2026-27;asec-mimosas;prelim;Tours préliminaires;maghreb-fez
+2026-27;canchungo;prelim;Tours préliminaires;teungueth-fc
+2026-27;teungueth-fc;prelim;Tours préliminaires;colombe-sportive
+2026-27;colombe-sportive;poules;En course;
+2026-27;stade-malien;prelim;Tours préliminaires;colombe-sportive
+2026-27;enugu-rangers;prelim;Tours préliminaires;mc-alger
+2026-27;sobemap;prelim;Tours préliminaires;enugu-rangers
+2026-27;asn-nigelec;prelim;Tours préliminaires;mc-alger
+2026-27;mc-alger;poules;En course;
+2026-27;san-pedro;prelim;Tours préliminaires;fc-nouadhibou
+2026-27;rivers-united;prelim;Tours préliminaires;san-pedro
+2026-27;vipers;prelim;Tours préliminaires;fc-nouadhibou
+2026-27;fc-nouadhibou;poules;En course;
+2026-27;js-saoura;prelim;Tours préliminaires;horoya-ac
+2026-27;horoya-ac;poules;En course;
+2026-27;al-merreikh;prelim;Tours préliminaires;horoya-ac
+2026-27;power-dynamos;prelim;Tours préliminaires;al-merreikh
+2026-27;medeama;prelim;Tours préliminaires;tp-mazembe
+2026-27;tp-mazembe;prelim;Tours préliminaires;club-africain
+2026-27;club-africain;poules;En course;
+2026-27;djoliba-ac;prelim;Tours préliminaires;club-africain
+2026-27;mamelodi-sundowns;prelim;Tours préliminaires;wiliete
+2026-27;esperance-tunis;poules;En course;
+2026-27;rs-berkane;poules;En course;
+2018;as-togo-port;poules;Phase de poules;

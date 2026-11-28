@@ -1,0 +1,7 @@
+[
+ {"saison": "2026-27", "journee": 7, "date": "2026-11-07", "dom": "esperance-tunis", "ext": "us-monastir", "bd": 1, "be": 0, "source": "https://ar.footballtunisien.com/2026/11/ (الترجي يحقق انتصارًا على الاتحاد المنستيري)"},
+ {"saison": "2026-27", "journee": 7, "date": "2026-11-07", "dom": "etoile-sahel", "ext": "cs-sfaxien", "bd": 1, "be": 1, "source": "https://ar.footballtunisien.com/2026/11/ (تعادل مثير في كلاسيكو النجم الساحلي والصفاقسي)"},
+ {"saison": "2026-27", "journee": 7, "date": "2026-11-07", "dom": "ps-sakiet-eddaier", "ext": "club-africain", "bd": 0, "be": 0, "source": "https://ar.footballtunisien.com/2026/11/ (التعادل السلبي بين الإفريقي وساقية الدائر) ; lieu : webdo.tn (stade Taïeb-Mhiri, Sfax)"},
+ {"saison": "2026-27", "journee": 8, "date": "2026-11-22", "dom": "club-africain", "ext": "esperance-tunis", "bd": 0, "be": 0, "source": "https://www.webdo.tn/fr/actualite/sport/ca-est-un-derby-sans-vainqueur-a-rades/407563/ ; https://realites.com.tn/fr/ligue-1-8e-journee-lesperance-rejoint-ben-guerdane-en-tete-apres-un-nul-face-au-club-africain/ (stade Hamadi-Agrebi, Radès)"},
+ {"saison": "2026-27", "journee": 8, "date": "2026-11-22", "dom": "es-zarzis", "ext": "us-ben-guerdane", "bd": 1, "be": 0, "source": "https://realites.com.tn/fr/ligue-1-8e-journee-lesperance-rejoint-ben-guerdane-en-tete-apres-un-nul-face-au-club-africain/"}
+]
